@@ -3,6 +3,7 @@ title: Ready to learn?
 subtitle:
 widget: blank
 weight: 50
+active: false
 design:
   columns: '1'
 ---

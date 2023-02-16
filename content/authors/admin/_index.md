@@ -13,6 +13,6 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - LOC
+  - speakers
 highlight_name: false
 ---

@@ -4,6 +4,7 @@ headless: true
 weight: 30
 title: Explore top courses
 subtitle:
+active: false
 content:
   filters:
     folders:
@@ -18,9 +19,9 @@ content:
   filter_button:
     - name: All Courses
       tag: '*'
-    - name: Previous
+    - name: Day 1
       tag: previous
-    - name: Current
+    - name: Day 2
       tag: current
 design:
   columns: '1'

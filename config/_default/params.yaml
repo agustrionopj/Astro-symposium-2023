@@ -9,16 +9,16 @@ appearance:
   theme_day: custom
   theme_night:
   font: minimal
-  font_size: M
+  font_size: L
 
 # SEO
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Conference
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo learning theme powered by Wowchemy website builder.'
+    description: 'Website for Astro Symposium 2023'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''

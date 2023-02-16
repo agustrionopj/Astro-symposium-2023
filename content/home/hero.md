@@ -25,7 +25,7 @@ design:
     gradient_end: rgb(153,238,255)
     text_color_light: true
     image: bosscha01.jpg
-    image_darken: ""
+    image_darken: "0.5"
 hero_media: 100thbosschaWhite.png
 ---
 Developing Astronomy to Meet Today's Natural Challenges
