@@ -14,7 +14,7 @@ cta:
   icon_pack: fas
   icon: user-graduate
 widget_id: symposium-title
-subtitle: Developing Astronomy to Meet Today's Natural Challenges
+subtitle: ""
 cta_alt:
   ? url
   ? label
@@ -28,4 +28,6 @@ design:
     image_darken: ""
 hero_media: teacher.png
 ---
+<﻿br>
 
+Developing Astronomy to Meet Today's Natural Challenges
