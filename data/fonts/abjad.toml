@@ -5,7 +5,7 @@ name = "Abjad"
 google_fonts = ""
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+heading_font = "Martel"
+body_font = "Assistant"
+nav_font = "Assistant"
+mono_font = "Assistant mono"
