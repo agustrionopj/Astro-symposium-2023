@@ -14,7 +14,7 @@ cta:
   icon_pack: fas
   icon: fa-solid fa-pencil
 widget_id: symposium-title
-subtitle: ""
+subtitle: "tes"
 cta_alt:
   ? url
   ? label
@@ -27,6 +27,6 @@ design:
     image: bosscha01.jpg
     image_darken: "0.5"
 # hero_media: 100thbosschaWhite.png
-hero_media: universe.svg
+hero_media: universe2.svg
 ---
-Developing Astronomy to Meet Today's Natural Challenges
+Developing Astronomy <br> to Meet Today's Natural Challenges
