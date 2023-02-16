@@ -13,6 +13,7 @@ widget_id: symposium-title
 headless: true
 weight: 10
 title: "Symposium: From the Universe Back to Earth"
+subtitle: Developing Astronomy to Meet Today's Natural Challenges
 cta_alt:
   ? url
   ? label
@@ -25,6 +26,3 @@ design:
 hero_media: teacher.png
 ---
 
-<br>
-
-Developing Astronomy to Meet Today's Natural Challenges
