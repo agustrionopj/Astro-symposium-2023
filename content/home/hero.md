@@ -4,15 +4,16 @@ cta_note:
 advanced:
   css_class: fullscreen
 widget: hero
+headless: true
+weight: 10
+title: "Symposium: From the Universe Back to Earth"
+active: true
 cta:
   url: "#courses"
   label: Explore our courses
   icon_pack: fas
   icon: user-graduate
 widget_id: symposium-title
-headless: true
-weight: 10
-title: "Symposium: From the Universe Back to Earth"
 subtitle: Developing Astronomy to Meet Today's Natural Challenges
 cta_alt:
   ? url
