@@ -1,5 +1,5 @@
 ---
-title: Dr. Anton T. Jaelani
+title: Agus PJ
 role: Institut Teknologi Bandung
 bio: ""
 interests:

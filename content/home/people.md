@@ -7,7 +7,7 @@ title: The Organizers
 subtitle: null
 content:
   user_groups:
-    - Teachers
+    - LOC
 design:
   show_interests: false
   show_role: true
