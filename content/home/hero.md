@@ -10,9 +10,9 @@ title: "Symposium: From the Universe Back to Earth"
 active: true
 cta:
   url: "#courses"
-  label: Explore our courses
+  label: Register
   icon_pack: fas
-  icon: user-graduate
+  icon: fa-solid fa-pencil
 widget_id: symposium-title
 subtitle: ""
 cta_alt:
