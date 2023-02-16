@@ -28,6 +28,4 @@ design:
     image_darken: ""
 hero_media: teacher.png
 ---
-<﻿br>
-
 Developing Astronomy to Meet Today's Natural Challenges
