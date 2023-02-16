@@ -12,7 +12,7 @@ cta:
 widget_id: symposium-title
 headless: true
 weight: 10
-title: Online Course Template
+title: "Symposium: From the Universe Back to Earth"
 cta_alt:
   ? url
   ? label
@@ -26,7 +26,5 @@ hero_media: teacher.png
 ---
 
 <br>
-
-Symposium: From the Universe Back to Earth
 
 Developing Astronomy to Meet Today's Natural Challenges
