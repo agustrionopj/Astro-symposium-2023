@@ -22,7 +22,7 @@ design:
     gradient_angle: 0
     gradient_start: rgb(224,223,255)
     gradient_end: rgb(153,238,255)
-    text_color_light: false
+    text_color_light: true
     image: lembang_03.jpg
 hero_media: teacher.png
 ---
