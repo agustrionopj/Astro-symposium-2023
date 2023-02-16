@@ -9,7 +9,7 @@ appearance:
   theme_day: custom
   theme_night:
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
