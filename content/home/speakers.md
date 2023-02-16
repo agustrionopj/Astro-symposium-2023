@@ -1,13 +1,13 @@
 ---
 widget: people
-widget_id: organizers
+widget_id: speakers
 headless: true
 weight: 40
-title: The Organizers
+title: Invited Speakers
 subtitle: null
 content:
   user_groups:
-    - LOC
+    - speakers
 design:
   show_interests: false
   show_role: true
