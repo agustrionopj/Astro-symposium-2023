@@ -1,6 +1,6 @@
 ---
 title: Dr. Anton T. Jaelani
-role: Python Instructor
+role: Institut Teknologi Bandung
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
