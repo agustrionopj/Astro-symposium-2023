@@ -1,36 +1,82 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Organizers"
-subtitle: ""
-summary: ""
-authors: []
-tags: []
-categories: []
-date: 2023-02-17T11:06:02+07:00
-lastmod: 2023-02-17T11:06:02+07:00
-featured: false
-draft: false
-# widget: people
-# widget_id: organizers
-headless: true
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-
-content:
-  user_groups:
-    - speakers
+title: "The Organizers"
 ---
+## SOC
+<!-- <div class="card"> -->
+<!-- posisi ada di folder 'organizers' -->
+  <!-- <img src="avatar1.svg" alt="Avatar" style="width:100%"> 
+  <div class="container">
+    <h4><b>Dhimaz G. Ramadhan</b></h4> 
+    <p>Astronomer</p> 
+  </div>
+</div> -->
+
+<div class="baris">
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h5>Dhimaz G. Ramadhan</h5>
+      <p>Astronomer</p>
+    </div>
+  </div>
+
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h3>Card 2</h3>
+      <p>Some text</p>
+    </div>
+  </div>
+  
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h3>Card 3</h3>
+      <p>Some text</p>
+    </div>
+  </div>
+  
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h3>Card 4</h3>
+      <p>Some text</p>
+    </div>
+  </div>
+</div>
+
+## LOC
+
+<div class="baris">
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h5>Dhimaz G. Ramadhan</h5>
+      <p>Astronomer</p>
+    </div>
+  </div>
+
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h3>Card 2</h3>
+      <p>Some text</p>
+    </div>
+  </div>
+  
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h3>Card 3</h3>
+      <p>Some text</p>
+    </div>
+  </div>
+  
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h3>Card 4</h3>
+      <p>Some text</p>
+    </div>
+  </div>
+</div>
