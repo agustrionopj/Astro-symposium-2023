@@ -11,7 +11,7 @@ organizations: []
 education:
   courses: []
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - speakers
 highlight_name: false

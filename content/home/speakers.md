@@ -3,7 +3,7 @@ widget: people
 widget_id: speakers
 headless: true
 weight: 40
-title: Invited Speakers
+title: The Invited Speakers
 subtitle: null
 content:
   user_groups:

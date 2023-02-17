@@ -1,5 +1,5 @@
 ---
-title: Agus PJ
+title: Agus T. P. Jatmiko
 role: Institut Teknologi Bandung
 bio: ""
 interests:
@@ -11,7 +11,7 @@ organizations: []
 education:
   courses: []
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - speakers
 highlight_name: false
