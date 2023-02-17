@@ -25,6 +25,12 @@ main:
   - name: Venue
     url: venue/
     weight: 40
+  - name: Proceeding
+    url: proceeding/
+    weight: 50
+  - name: Travel Resources
+    url: travel/
+    weight: 60
   - name: Contact
     PageRef: contact/index.md
-    weight: 60
+    weight: 70
