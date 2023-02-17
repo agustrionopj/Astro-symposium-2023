@@ -43,6 +43,14 @@ title: "The Organizers"
       <p>Some text</p>
     </div>
   </div>
+
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h3>Card 4</h3>
+      <p>Some text</p>
+    </div>
+  </div>
 </div>
 
 ## LOC
@@ -72,6 +80,14 @@ title: "The Organizers"
     </div>
   </div>
   
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h3>Card 4</h3>
+      <p>Some text</p>
+    </div>
+  </div>
+
   <div class="kolom">
     <div class="kartu">
       <img src="avatar1.svg" alt="Avatar" style="width:100%">
