@@ -47,9 +47,12 @@
 }
 
 /* Responsive columns */
-@media screen and (max-width: 600px) {
-  .kolom {
+@media screen and (max-width: 768px) {
+  .article-container {
     width: 100%;
+  }
+  .kolom {
+    width: 50%;
     display: block;
     margin-bottom: 20px;
   }
