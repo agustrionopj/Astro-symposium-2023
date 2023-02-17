@@ -15,7 +15,7 @@ title: "The Organizers"
   <div class="kolom">
     <div class="kartu">
       <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h5>Dhimaz G. Ramadhan</h5>
+      <h6>Dhimas G. Ramadhan</h6>
       <p>Astronomer</p>
     </div>
   </div>
@@ -23,32 +23,76 @@ title: "The Organizers"
   <div class="kolom">
     <div class="kartu">
       <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h3>Card 2</h3>
-      <p>Some text</p>
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
     </div>
   </div>
   
   <div class="kolom">
     <div class="kartu">
       <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h3>Card 3</h3>
-      <p>Some text</p>
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
     </div>
   </div>
   
   <div class="kolom">
     <div class="kartu">
       <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h3>Card 4</h3>
-      <p>Some text</p>
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
     </div>
   </div>
 
   <div class="kolom">
     <div class="kartu">
       <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h3>Card 4</h3>
-      <p>Some text</p>
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
+    </div>
+  </div>
+</div>
+
+<div>&nbsp;</div>
+
+<div class="baris">
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
+    </div>
+  </div>
+
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
+    </div>
+  </div>
+  
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
+    </div>
+  </div>
+  
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
+    </div>
+  </div>
+
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
     </div>
   </div>
 </div>
@@ -59,7 +103,7 @@ title: "The Organizers"
   <div class="kolom">
     <div class="kartu">
       <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h5>Dhimaz G. Ramadhan</h5>
+      <h6>Dhimas G. Ramadhan</h6>
       <p>Astronomer</p>
     </div>
   </div>
@@ -67,32 +111,32 @@ title: "The Organizers"
   <div class="kolom">
     <div class="kartu">
       <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h3>Card 2</h3>
-      <p>Some text</p>
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
     </div>
   </div>
   
   <div class="kolom">
     <div class="kartu">
       <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h3>Card 3</h3>
-      <p>Some text</p>
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
     </div>
   </div>
   
   <div class="kolom">
     <div class="kartu">
       <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h3>Card 4</h3>
-      <p>Some text</p>
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
     </div>
   </div>
 
   <div class="kolom">
     <div class="kartu">
       <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h3>Card 4</h3>
-      <p>Some text</p>
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
     </div>
   </div>
 </div>
