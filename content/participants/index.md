@@ -1,5 +1,6 @@
 ---
 title: The Participants
+subtitle: This list is not final yet
 ---
 <table class="table table-striped">
   <thead>
@@ -29,6 +30,12 @@ title: The Participants
       <td>Cool</td>
       <td>Name</td>
       <td>Institut Teknologi Bandung</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Phalazera M.</td>
+      <td>Kalawira</td>
+      <td>Kediri</td>
     </tr>
   </tbody>
 </table>
