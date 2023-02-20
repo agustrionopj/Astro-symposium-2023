@@ -10,8 +10,8 @@ design:
 
 <div class="container-md">
   <div class="row">
-    <div class="col-md-4 .d-flex .align-items-center">
-      <img src="media/itb.jpg">
+    <div class="col-md-4 .d-flex .align-items-center" style="margin-bottom:1rem;">
+      <img src="media/itb.jpg" style="margin-bottom:1em;">
       <img src="media/itb2.jpg">
     </div>
     <div class="col-md-8 .d-flex .align-items-center">
