@@ -29,15 +29,29 @@
   box-sizing: border-box;
 }
 
-/* Float four columns side by side */
+/* container */
+.kontainer {
+  margin: 0 auto;
+  border-radius: 3px;
+  padding: 12px;
+}
+
+.flex {
+  display: flex;
+}
+
+/* Float columns side by side */
 .kolom {
+  flex: 1;
   float: left;
   width: 20%;
   padding: 0 10px;
 }
 
 /* Remove extra left and right margins, due to padding */
-.baris {margin: 0 -5px;}
+.baris {
+  margin: 0 -5px;
+}
 
 /* Clear floats after the columns */
 .baris:after {
@@ -47,7 +61,7 @@
 }
 
 /* Responsive columns */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   .article-container {
     width: 100%;
   }
@@ -60,10 +74,12 @@
 
 /* Style the counter cards */
 .kartu {
+  flex: 1;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px;
   text-align: center;
   background-color: #f1f1f1;
+  margin-bottom: 1em;
 }
 
 @import "martel";

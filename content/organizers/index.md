@@ -1,6 +1,7 @@
 ---
 title: "The Organizers"
 ---
+
 ## SOC
 <!-- <div class="card"> -->
 <!-- posisi ada di folder 'organizers' -->
@@ -10,8 +11,60 @@ title: "The Organizers"
     <p>Astronomer</p> 
   </div>
 </div> -->
-
 <div class="baris">
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
+    </div>
+  </div>
+
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
+    </div>
+  </div>
+
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
+    </div>
+  </div>
+
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
+    </div>
+  </div>
+
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
+    </div>
+  </div>
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
+    </div>
+  </div>
+  <div class="kolom">
+    <div class="kartu">
+      <img src="avatar1.svg" alt="Avatar" style="width:100%">
+      <h6>Dhimas G. Ramadhan</h6>
+      <p>Astronomer</p>
+    </div>
+  </div>
   <div class="kolom">
     <div class="kartu">
       <img src="avatar1.svg" alt="Avatar" style="width:100%">
@@ -52,50 +105,8 @@ title: "The Organizers"
     </div>
   </div>
 </div>
-
+  
 <div>&nbsp;</div>
-
-<div class="baris">
-  <div class="kolom">
-    <div class="kartu">
-      <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h6>Dhimas G. Ramadhan</h6>
-      <p>Astronomer</p>
-    </div>
-  </div>
-
-  <div class="kolom">
-    <div class="kartu">
-      <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h6>Dhimas G. Ramadhan</h6>
-      <p>Astronomer</p>
-    </div>
-  </div>
-  
-  <div class="kolom">
-    <div class="kartu">
-      <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h6>Dhimas G. Ramadhan</h6>
-      <p>Astronomer</p>
-    </div>
-  </div>
-  
-  <div class="kolom">
-    <div class="kartu">
-      <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h6>Dhimas G. Ramadhan</h6>
-      <p>Astronomer</p>
-    </div>
-  </div>
-
-  <div class="kolom">
-    <div class="kartu">
-      <img src="avatar1.svg" alt="Avatar" style="width:100%">
-      <h6>Dhimas G. Ramadhan</h6>
-      <p>Astronomer</p>
-    </div>
-  </div>
-</div>
 
 ## LOC
 
