@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 
 subtitle:
 weight: 90
 active: true
