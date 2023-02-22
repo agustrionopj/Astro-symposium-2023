@@ -15,10 +15,10 @@ design:
     <div class="col-md-6 .d-flex .align-items-center">
     <h3 style="margin-bottom:2rem;">Supported by:</h3>
       <div class="row">
-        <div class="col-md-3 .d-flex .align-items-center">
+        <div class="col-md-3 .d-flex .align-items-center cols">
           <img src="media/logo-itb-white.svg" height=100%>
         </div>
-        <div class="col-md-3 .d-flex .align-items-center">
+        <div class="col-md-3 .d-flex .align-items-center cols">
           <img src="media/100thOB-white.svg" height=100%>
         </div>
       </div>
