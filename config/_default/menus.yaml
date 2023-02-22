@@ -32,5 +32,5 @@ main:
     url: travel/
     weight: 60
   - name: Contact
-    PageRef: contact/index.md
+    url: "#contact"
     weight: 70
