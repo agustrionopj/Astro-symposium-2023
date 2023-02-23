@@ -1,5 +1,6 @@
 ---
 title: "The Organizers"
+share: false
 ---
 
 ## SOC

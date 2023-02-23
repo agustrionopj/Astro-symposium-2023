@@ -1,6 +1,7 @@
 ---
 title: The Participants
 subtitle: This list is not final yet
+share: false
 ---
 <table class="table table-striped">
   <thead>
