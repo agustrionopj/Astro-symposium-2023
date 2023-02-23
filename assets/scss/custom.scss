@@ -90,5 +90,11 @@ img {
   margin-bottom: 1em;
 }
 
+#navbar-main .main-menu-item {
+  text-align: left !important;
+  padding-left: 0;
+  font-size: 18px;
+}
+
 @import "martel";
 @import "assistant";
