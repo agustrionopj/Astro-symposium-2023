@@ -26,11 +26,11 @@ design:
     <div class="col-md-6 .d-flex .align-items-center">
       <h3>Contact Information:</h3>
       <h4><i class="fa fa-envelope" aria-hidden="true"></i> Email</h4>
-      <p>xxxx@xxxx.com</p>
+      <p style="font-size:0.9rem">xxxx@xxxx.com</p>
       <h4 style="margin-top:2rem;"><i class="fa-solid fa-phone"></i> Phone</h4>
-      <p>+62-xxxx xxxxx
+      <p style="font-size:0.9rem">+62-xxxx xxxxx
       <h4 style="margin-top:2rem;"><i class="fa-solid fa-location-dot"></i> Postal Address</h4>
-      <p>Observatorium Bosscha<br>Jl. Peneropongan Bintang, Lembang, Bandung Barat, West Java, Indonesia, 40391</p>
+      <p style="font-size:0.9rem">Observatorium Bosscha<br>Jl. Peneropongan Bintang, Lembang, Bandung Barat, West Java, Indonesia, 40391</p>
     </div>
   </div>
 </div>
