@@ -66,9 +66,12 @@
     {{ if $image }}
       {{ $isSVG := eq $image.MediaType.SubType "svg" }}
       {{ if $isSVG -}}
-
-        <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}">
-
+      {{/* Parralax effect for hero media per mouse cursor */}}
+      <div class="mouse_move">
+        <!-- <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}"> -->
+        <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}" class="mouse" value="3">
+      </div>
+        
       {{- else }}
 
         {{ $legacy_img := $image.Resize "400x" }}
