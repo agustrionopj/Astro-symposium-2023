@@ -8,4 +8,7 @@
 		shift.style.transform = `translateX(${x}px) translateY(${y}px)`;
 		});
 	}
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {
+    isMobile = true;
+}
 </script>
