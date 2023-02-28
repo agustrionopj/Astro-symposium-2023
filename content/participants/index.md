@@ -2,6 +2,7 @@
 title: The Participants
 subtitle: This list is not final yet
 share: false
+show_breadcrumb: true
 ---
 <table class="table table-striped">
   <thead>
