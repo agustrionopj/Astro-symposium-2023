@@ -11,5 +11,14 @@
         navigator.userAgent
       ) &&
       !first
-    )
+    ) {
+      $([document.documentElement, document.body]).animate(
+        {
+          scrollTop: $("#filter").offset().top -94,
+        },
+        10
+      );
+    } else {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
 </script>
