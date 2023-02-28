@@ -19,6 +19,7 @@ footer .powered-by {
   // font-size: 0.67rem;
   font-size: 0.9rem;
   font-weight: 600;
+  padding-bottom: 2rem; // supaya copyright tidak terlalu mepet bawah
   @include media-breakpoint-down(sm) {
     /* 12px is min size required by Lighthouse on mobile */
     font-size: 12px;
