@@ -61,10 +61,11 @@ img {
 .kartu {
   flex: 1;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding: 16px;
+  padding: 15px;
   text-align: center;
   background-color: #f1f1f1;
   margin-bottom: 1em;
+  height: fit-content;
 }
 
 #navbar-main .main-menu-item {
