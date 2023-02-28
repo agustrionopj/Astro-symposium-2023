@@ -25,11 +25,14 @@ design:
     </div>
     <div class="col-md-6 .d-flex .align-items-center">
       <h3>Contact Information:</h3>
-      <h4><i class="fa fa-envelope" aria-hidden="true"></i> Email</h4>
+      <!-- <h4><i class="fa fa-envelope" aria-hidden="true"></i> Email</h4> -->
+      <h4>{{< icon name="envelope" pack="fa">}} Email</h4>
       <p style="font-size:0.9rem">xxxx@xxxx.com</p>
-      <h4 style="margin-top:2rem;"><i class="fa-solid fa-phone"></i> Phone</h4>
+      <!-- <h4 style="margin-top:2rem;"><i class="fa-solid fa-phone"></i> Phone</h4> -->
+      <h4 style="margin-top:2rem;">{{< icon name="phone" pack="fas">}} Phone</h4>
       <p style="font-size:0.9rem">+62-xxxx xxxxx
-      <h4 style="margin-top:2rem;"><i class="fa-solid fa-location-dot"></i> Postal Address</h4>
+      <!-- <h4 style="margin-top:2rem;"><i class="fa-solid fa-location-dot"></i> Postal Address</h4> -->
+      <h4 style="margin-top:2rem;">{{< icon name="location-dot" pack="fas">}} Postal Address</h4>
       <p style="font-size:0.9rem">Observatorium Bosscha<br>Jl. Peneropongan Bintang, Lembang, Bandung Barat, West Java, Indonesia, 40391</p>
     </div>
   </div>
