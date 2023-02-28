@@ -67,9 +67,10 @@
       {{ $isSVG := eq $image.MediaType.SubType "svg" }}
       {{ if $isSVG -}}
       {{/* Parralax effect for hero media per mouse cursor */}}
-      <div class="mouse_move">
-        <!-- <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}"> -->
-        <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}" class="mouse" value="3">
+      <div id="scene">
+        <div class="layer" data-depth="0.3">
+          <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}">
+        </div>
       </div>
         
       {{- else }}

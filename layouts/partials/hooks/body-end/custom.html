@@ -1,26 +1,6 @@
-<script type="text/javascript">
-	document.addEventListener("mousemove", parallax);
-	function parallax(event) {
-		this.querySelectorAll(".mouse").forEach((shift) => {
-		const position = shift.getAttribute("value");
-		const x = (window.innerWidth - event.pageX * position) / 90;
-		const y = (window.innerHeight - event.pageY * position) / 90;
-		shift.style.transform = `translateX(${x}px) translateY(${y}px)`;
-		});
-	}
-    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {
-    isMobile = true;
-    }
-    if(!isMobile) {
-        parallaxBox.mousemove(function(event) {
-            event.stopPropagation();
-            event = event || window.event;
-            var x = Math.floor(event.clientX - $(this).offset().left),
-            y = Math.floor(event.clientY - $(this).offset().top),
-            boxWidth = $(this).width(),
-            boxHeight = $(this).height();
-            parallaxMove(this, x, y, boxWidth, boxHeight);
+<script src="/js/parallax.min.js"></script>
 
-        });
-    }
+<script type="text/javascript">
+    let scene = document.getElementById('scene')
+    let parallax = new Parallax(scene) 
 </script>
