@@ -65,7 +65,7 @@
     {{ if $image }}
       {{ $isSVG := eq $image.MediaType.SubType "svg" }}
       {{ if $isSVG -}}
-      {{/* Parralax effect for hero media per mouse cursor */}}
+      {{/* Parallax effect for hero media per mouse cursor */}}
       <div id="scene">
         <div class="layer" data-depth="0.2">
           <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}">
