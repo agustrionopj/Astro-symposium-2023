@@ -9,7 +9,7 @@ weight: 10
 title: "Symposium: From the Universe Back to Earth"
 active: true
 cta:
-  url: "#courses"
+  url: "#"
   label: Register
   icon_pack: fas
   icon: fa-solid fa-pencil
