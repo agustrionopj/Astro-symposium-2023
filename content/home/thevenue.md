@@ -1,5 +1,5 @@
 ---
-title: The Venue
+title: 
 subtitle:
 widget: blank
 headless: true
@@ -7,9 +7,11 @@ weight: 50
 active: true
 design:
   columns: '1'
+css_style: 
 ---
 
 <div class="container-md">
+  <h1 style="text-align: center; margin-bottom: 3rem; margin-top: 5rem;">The Venue</h1>
   <div class="row">
     <div class="col-md-4 .d-flex .align-items-center" style="margin-bottom:1rem;">
       <img src="media/itb.jpg" style="margin-bottom:1em;">
