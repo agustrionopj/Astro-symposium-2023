@@ -25,8 +25,10 @@ design:
     gradient_end: rgb(153,238,255)
     text_color_light: true
     image: bosscha01.jpg
-    image_darken: "0.5"
+    image_darken: "0.4"
 # hero_media: 100thbosschaWhite.png
 hero_media: night-sky.svg
+# css_class: d-flex fullscreen
 ---
+
 Developing Astronomy <br> to Meet Today's Natural Challenges

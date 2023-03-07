@@ -2,11 +2,13 @@
 title: The Venue
 subtitle:
 widget: blank
+headless: true
 weight: 50
 active: true
 design:
   columns: '1'
 ---
+
 <div class="container-md">
   <div class="row">
     <div class="col-md-4 .d-flex .align-items-center" style="margin-bottom:1rem;">
