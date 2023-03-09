@@ -28,9 +28,8 @@ design:
     text_color_light: true
     image: bosscha01.jpg
     image_darken: "0.4"
-# hero_media: 100thbosschaWhite.png
-hero_media: night-sky.svg
-# css_class: d-flex fullscreen
+hero_media: 100thOB-white.svg
+# hero_media: night-sky.svg
 ---
 
 Developing Astronomy <br> to Meet Today's Natural Challenges

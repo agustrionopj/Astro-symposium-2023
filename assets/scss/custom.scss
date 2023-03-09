@@ -74,15 +74,5 @@ img {
   font-size: 18px;
 }
 
-.vertical-center {
-  height:100%;
-  width:100%;
-}
-
-.vertical-center .row {
-  align-items: center;
-  display: flex;
-}
-
 @import "martel";
 @import "assistant";
