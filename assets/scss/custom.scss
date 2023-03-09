@@ -74,9 +74,15 @@ img {
   font-size: 18px;
 }
 
-// .wg-blank {
-//   margin-top: 5rem;
-// }
+.vertical-center {
+  height:100%;
+  width:100%;
+}
+
+.vertical-center .row {
+  align-items: center;
+  display: flex;
+}
 
 @import "martel";
 @import "assistant";

@@ -19,6 +19,8 @@ cta_alt:
   ? url
   ? label
 design:
+  # tambahkan css_class untuk full screen vertically aligned hero page
+  css_class: d-flex align-items-center fullscreen 
   background:
     gradient_angle: 0
     gradient_start: rgb(224,223,255)
