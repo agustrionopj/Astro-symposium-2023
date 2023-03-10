@@ -6,7 +6,7 @@ advanced:
 widget: hero
 headless: true
 weight: 10
-title: "Symposium: From the Universe Back to Earth"
+title: "From the Universe Back to Earth"
 active: true
 cta:
   url: "#"
@@ -34,6 +34,8 @@ hero_media: 100thOB-white.svg
 
 Developing Astronomy <br> to Meet Today's Natural Challenges
 
-<p class="kotak_transparan">
-Bandung, 10 - 15 July, 2023
-</p>
+<div>
+  <p class="kotak_transparan">
+    BANDUNG, INDONESIA, 10 - 14 JULY 2023
+  </p>
+</div>
