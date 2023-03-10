@@ -1,5 +1,5 @@
 ---
-title: Travel Resources
+title: Travel Information
 share: false
 show_breadcrumb: true
 ---
