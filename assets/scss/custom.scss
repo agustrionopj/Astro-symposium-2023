@@ -37,7 +37,7 @@ img {
 
 /* Clear floats after the columns */
 .baris:after {
-  content: "";
+  // content: "";
   display: table;
   clear: both;
 }
@@ -58,6 +58,21 @@ img {
 }
 
 /* Style the counter cards */
+
+.card {
+  height: 100%;
+}
+
+.col-sm{
+  margin-bottom: 1em;
+}
+
+.card-text:last-child {
+  margin-bottom: 0;
+  padding: 0;
+  // text-align: center;
+}
+
 .kartu {
   flex: 1;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -76,23 +91,23 @@ img {
 }
 
 // scss for topics page
-.how-section1{
-  // margin-top:-15%;
-  // padding: 5%;
-}
-.how-section1 h4{
-  color: #ffa500;
-  font-weight: bold;
-  font-size: 30px;
-}
-.how-section1 .subheading{
-  color: #3931af;
-  font-size: 20px;
-}
-.how-section1 .row
-{
-  margin-top: 10%;
-}
+// .how-section1{
+//   margin-top:-15%;
+//   padding: 5%;
+// }
+// .how-section1 h4{
+//   color: #ffa500;
+//   font-weight: bold;
+//   font-size: 30px;
+// }
+// .how-section1 .subheading{
+//   color: #3931af;
+//   font-size: 20px;
+// }
+// .how-section1 .row
+// {
+//   margin-top: 10%;
+// }
 .how-img 
 {
   text-align: center;

@@ -12,25 +12,39 @@ main:
     url: topics/
     weight: 10
     identifier: topics
+  - name: Program
+    url: program/
+    weight: 15
+    identifier: program
   - name: Organizers
     url: organizers/
     weight: 20
     identifier: organizers
-  - name: Invited Speakers
-    url: "#speakers"
+  - name: Speakers
+    url: '#speakers'
     weight: 30
+    identifier: speakers
   - name: Participants
     url: participants/
     weight: 40
+    identifier: participants
   - name: Venue
     url: "#thevenue"
     weight: 50
-  - name: Proceeding
+    identifier: venue
+  - name: Proceedings
     url: "#proceeding"
     weight: 60
-  - name: Travel Resources
+    identifier: proceedings
+  - name: Travel Information
     url: travel/
     weight: 70
+    identifier: travel
+  - name: Registration
+    url: registration/
+    weight: 80
+    identifier: registration
   - name: Contact
     url: "#contact"
-    weight: 80
+    weight: 90
+    identifier: contact

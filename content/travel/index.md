@@ -4,7 +4,7 @@ share: false
 show_breadcrumb: true
 ---
 
-<span class="text-gradient-primary">Indonesia</span>
+<!-- <span class="text-gradient-primary">Indonesia</span>
 
 <style>
     .text-gradient-primary {
@@ -17,4 +17,4 @@ show_breadcrumb: true
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }
-</style>
+</style> -->
