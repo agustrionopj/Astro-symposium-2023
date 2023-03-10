@@ -7,7 +7,8 @@ show_breadcrumb: true
 ## Scientific Organizing Committee
 
   <div class="row">
-      <div class="col-sm">
+      <!-- <div class="col-sm mt-3"> -->
+      <div class="col-6 col-md-3 mt-3">
           <div class="card text-center">
               <img src="avatar/premana.jpg" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
               <div class="card-body">
@@ -17,7 +18,7 @@ show_breadcrumb: true
               </div>
             </div>
       </div>
-      <div class="col-sm">
+      <div class="col-6 col-md-3 mt-3">
           <div class="card text-center">
               <img src="avatar/miley.jpg" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
               <div class="card-body">
@@ -27,7 +28,7 @@ show_breadcrumb: true
               </div>
             </div>
       </div>
-      <div class="col-sm">
+      <div class="col-6 col-md-3 mt-3">
           <div class="card text-center">
               <img src="avatar/taufiq.jpg" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
               <div class="card-body">
@@ -37,7 +38,7 @@ show_breadcrumb: true
               </div>
             </div>
       </div>
-      <div class="col-sm">
+      <div class="col-6 col-md-3 mt-3">
           <div class="card text-center">
               <img src="avatar/scaife.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
               <div class="card-body">
@@ -49,7 +50,7 @@ show_breadcrumb: true
       </div>
   </div>
   <div class="row">
-      <div class="col-sm">
+      <div class="col-6 col-md-3 mt-3">
           <div class="card text-center">
               <img src="avatar/paulho.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
               <div class="card-body">
@@ -59,7 +60,7 @@ show_breadcrumb: true
               </div>
             </div>
       </div>
-      <div class="col-sm">
+      <div class="col-6 col-md-3 mt-3">
           <div class="card text-center">
               <img src="avatar/scorza.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
               <div class="card-body">
@@ -69,7 +70,7 @@ show_breadcrumb: true
               </div>
             </div>
       </div>
-      <div class="col-sm">
+      <div class="col-6 col-md-3 mt-3">
           <div class="card text-center">
               <img src="avatar/batih.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
               <div class="card-body">
@@ -79,7 +80,7 @@ show_breadcrumb: true
               </div>
             </div>
       </div>
-      <div class="col-sm">
+      <div class="col-6 col-md-3 mt-3">
           <div class="card text-center">
               <img src="avatar/boonrucksar.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
               <div class="card-body">
@@ -91,7 +92,7 @@ show_breadcrumb: true
       </div>
   </div>
   <div class="row">
-      <div class="col-sm col-sm-3">
+      <div class="col-6 col-md-3 mt-3">
           <div class="card text-center">
               <img src="avatar/raupach.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
               <div class="card-body">
@@ -101,7 +102,7 @@ show_breadcrumb: true
               </div>
             </div>
       </div>
-      <div class="col-sm col-sm-3">
+      <div class="col-6 col-md-3 mt-3">
           <div class="card text-center">
               <img src="avatar/herrera.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
               <div class="card-body">
@@ -111,7 +112,7 @@ show_breadcrumb: true
               </div>
             </div>
       </div>
-      <div class="col-sm col-sm-3">
+      <div class="col-6 col-md-3 mt-3">
           <div class="card text-center">
               <img src="avatar/rector.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
               <div class="card-body">
@@ -130,7 +131,7 @@ show_breadcrumb: true
 ## Local Organizing Committee
 
 <div class="row">
-    <div class="col-sm">
+    <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/jaelani.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
@@ -140,7 +141,7 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
-    <div class="col-sm">
+    <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/kiki.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
@@ -150,7 +151,7 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
-    <div class="col-sm">
+    <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/yatny.jpg" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
@@ -160,7 +161,7 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
-    <div class="col-sm">
+    <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/wahid.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
@@ -172,7 +173,7 @@ show_breadcrumb: true
     </div>
 </div>
 <div class="row">
-    <div class="col-sm">
+    <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/lucky.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
@@ -182,7 +183,7 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
-    <div class="col-sm">
+    <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/argo.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
@@ -192,7 +193,7 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
-    <div class="col-sm">
+    <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/rhorom.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
@@ -202,7 +203,7 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
-    <div class="col-sm">
+    <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/yudhiakto.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
@@ -214,7 +215,7 @@ show_breadcrumb: true
     </div>
 </div>
 <div class="row">
-    <div class="col-sm col-sm-3">
+    <div class="col-6 col-md-3 mt-3">
         <div class="card text-center">
             <img src="avatar/sungging.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
@@ -224,7 +225,7 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
-    <div class="col-sm col-sm-3">
+    <div class="col-6 col-md-3 mt-3">
         <div class="card text-center">
             <img src="avatar/avivah.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
@@ -234,7 +235,7 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
-    <div class="col-sm col-sm-3">
+    <div class="col-6 col-md-3 mt-3">
         <div class="card text-center">
             <img src="avatar/verena.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
