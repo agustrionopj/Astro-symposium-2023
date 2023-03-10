@@ -14,7 +14,7 @@ cta:
   icon_pack: fas
   icon: fa-solid fa-pencil
 widget_id: symposium-title
-subtitle: "tes"
+# subtitle: "ini hanya tes saja"
 cta_alt:
   ? url
   ? label
@@ -33,3 +33,7 @@ hero_media: 100thOB-white.svg
 ---
 
 Developing Astronomy <br> to Meet Today's Natural Challenges
+
+<p class="kotak_transparan">
+Bandung, 10 - 15 July, 2023
+</p>
