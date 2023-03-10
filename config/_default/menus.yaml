@@ -4,6 +4,10 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: Rationale
+    url: rationale/
+    weight: 5
+    identifier: rationale
   - name: Topics
     url: topics/
     weight: 10
