@@ -29,7 +29,7 @@ main:
     weight: 40
     identifier: participants
   - name: Venue
-    url: "venue/"
+    url: "#venue"
     weight: 50
     identifier: venue
   - name: Proceedings
