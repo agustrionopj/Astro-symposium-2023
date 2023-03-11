@@ -108,36 +108,36 @@ projects: []
   <table class="table table-striped">
       <thead>
         <tr>
-          <th scope="col">Date</th>
           <th scope="col">Time (UTC+7)</th>
           <th scope="col"></th>
+          <th scope="col">Room</th>
         </tr>
       </thead>
       <tbody class="table-group-divider">
         <tr>
-          <th scope="row">Mon, 10 Jul 2023</th>
           <td>09:00 - 10:00</td>
           <td>Opening remarks, opening lecture</td>
+          <td>Room A</td>
         </tr>
         <tr>
-          <th scope="row"></th>
           <td>10:00 - 10:30</td>
           <td>Coffee break</td>
+          <td>Room B</td>
         </tr>
         <tr>
-          <th scope="row"></th>
-          <td>10:30 - 12:00</td>
+          <td >10:30 - 12:00</td>
           <td>3 plenary talks</td>
+          <td>Room A</td>
         </tr>
         <tr>
-          <th scope="row"></th>
           <td>12:00 - 13:30</td>
           <td>Lunch etc.</td>
+          <td>Room A</td>
         </tr>
         <tr>
-          <th scope="row"></th>
           <td>13:30 - 16:30</td>
           <td>2 parallels + poster session + exhibition + coffee break</td>
+          <td>Room C</td>
         </tr>
       </tbody>
   </table>
@@ -151,26 +151,26 @@ projects: []
     <table class="table table-striped">
       <thead>
         <tr>
-          <th scope="col">Date</th>
           <th scope="col">Time (UTC+7)</th>
           <th scope="col"></th>
+          <th scope="col">Room</th>
         </tr>
       </thead>
       <tbody class="table-group-divider">
         <tr>
-          <th scope="row">Tue, 11 Jul 2023</th>
           <td>09:00 - 12:00</td>
           <td>4 plenaries + 1 coffee break</td>
+          <td>Room C</td>
         </tr>
         <tr>
-          <th scope="row"></th>
           <td>12:00 - 13:30</td>
           <td>Lunch etc.</td>
+          <td>Room C</td>
         </tr>
         <tr>
-          <th scope="row"></th>
           <td>13:30 - 16:30</td>
           <td>4 parallels + 1 coffee break</td>
+          <td>Room C</td>
         </tr>
       </tbody>
     </table>
@@ -184,26 +184,26 @@ projects: []
     <table class="table table-striped">
       <thead>
         <tr>
-          <th scope="col">Date</th>
           <th scope="col">Time (UTC+7)</th>
           <th scope="col"></th>
+          <th scope="col">Room</th>
         </tr>
       </thead>
       <tbody class="table-group-divider">
         <tr>
-          <th scope="row">Wed, 12 Jul 2023</th>
           <td>09:00 - 12:00</td>
           <td>4 plenaries + 1 coffee break</td>
+          <td>Room C</td>
         </tr>
         <tr>
-          <th scope="row"></th>
           <td>12:00 - 13:30</td>
           <td>Lunch etc.</td>
+          <td>Room C</td>
         </tr>
         <tr>
-          <th scope="row"></th>
           <td>13:30 - 16:30</td>
           <td>4 parallels + 1 coffee break</td>
+          <td>Room C</td>
         </tr>
       </tbody>
     </table>
@@ -217,26 +217,26 @@ projects: []
     <table class="table table-striped">
       <thead>
         <tr>
-          <th scope="col">Date</th>
           <th scope="col">Time (UTC+7)</th>
           <th scope="col"></th>
+          <th scope="col">Room</th>
         </tr>
       </thead>
       <tbody class="table-group-divider">
         <tr>
-          <th scope="row">Thu, 13 Jul 2023</th>
           <td>09:00 - 12:00</td>
           <td>4 plenaries + 1 coffee break</td>
+          <td>Room C</td>
         </tr>
         <tr>
-          <th scope="row"></th>
           <td>12:00 - 13:30</td>
           <td>Lunch etc.</td>
+          <td>Room C</td>
         </tr>
         <tr>
-          <th scope="row"></th>
           <td>13:30 - 16:30</td>
           <td>Exhibitions + 1 coffee break</td>
+          <td>Room C</td>
         </tr>
       </tbody>
     </table>
@@ -250,26 +250,26 @@ projects: []
     <table class="table table-striped">
       <thead>
         <tr>
-          <th scope="col">Date</th>
           <th scope="col">Time (UTC+7)</th>
           <th scope="col"></th>
+          <th scope="col">Room</th>
         </tr>
       </thead>
       <tbody class="table-group-divider">
         <tr>
-          <th scope="row">Fri, 14 Jul 2023</th>
           <td>08:30 - 11:00</td>
           <td>Plenary and closing</td>
+          <td>Room C</td>
         </tr>
         <tr>
-          <th scope="row"></th>
           <td>12:00 - 13:30</td>
           <td>Lunch etc.</td>
+          <td>Room C</td>
         </tr>
         <tr>
-          <th scope="row"></th>
           <td>13:30 - 16:30</td>
           <td>Tour to Bosscha Observatory</td>
+          <td>Room C</td>
         </tr>
       </tbody>
     </table>
