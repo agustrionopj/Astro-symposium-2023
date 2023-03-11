@@ -3,7 +3,8 @@ widget: featurette
 headless: true
 weight: 20
 title: Program
-subtitle: 
+subtitle:
+active: false 
 feature:
   - icon: chalkboard-user
     icon_pack: fas

@@ -7,9 +7,9 @@
   box-sizing: border-box;
 }
 
-img {
-  border-radius: 15px;
-}
+// img {
+//   border-radius: 15px;
+// }
 
 /* container */
 .kontainer {
@@ -61,6 +61,12 @@ img {
 
 .card {
   height: 100%;
+}
+
+.card .card-header {
+  background-color: #CA4B6F;
+  // opacity: 0.75;
+  margin-top: 0;
 }
 
 .card-body {
