@@ -19,7 +19,7 @@ css_style:
                         </h4>
                         <div class="card-body">
                                 <p class="card-title">
-                                        <ul>
+                                        <ul style="padding-left:inherit;margin-left:.7rem;">
                                                 <li>Symposium announcement</li>
                                                 <li>Call for papers</li>
                                                 <li>Website launched</li>
@@ -31,11 +31,11 @@ css_style:
         <div class="col-sm mt-3">
                 <div class="card">
                         <h4 class="card-header text-center text-white">
-                                21 Mar  - 21 May 2023
+                                21 Mar-21 May 2023
                         </h4>
                                 <div class="card-body">
                                         <p class="card-title">
-                                                <ul>
+                                                <ul style="padding-left:inherit;margin-left:.7rem;">
                                                         <li>Registration</li>
                                                         <li>Abstract submission</li>
                                                         <li>Invitation letters for participants</li>
@@ -51,7 +51,7 @@ css_style:
                         </h4>
                                 <div class="card-body">
                                         <p class="card-title">
-                                                <ul>
+                                                <ul style="padding-left:inherit;margin-left:.7rem;">
                                                         <li>Program finalized</li>
                                                 </ul>
                                         </p>
@@ -61,11 +61,11 @@ css_style:
         <div class="col-sm mt-3">
                 <div class="card">
                         <h4 class="card-header text-center text-white">
-                                10 - 14 Jul 2023
+                                10-14 Jul 2023
                         </h4>
                                 <div class="card-body">
                                         <p class="card-title">
-                                                <ul>        
+                                                <ul style="padding-left:inherit;margin-left:.7rem;">        
                                                         <li>Symposium</li>
                                                 </ul>
                                         </p>
