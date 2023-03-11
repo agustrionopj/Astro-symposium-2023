@@ -31,7 +31,7 @@ css_style:
                 <div class="card text-center" style="border:none;box-shadow:none;">
                 <img src="media/speakers/phalazera.jpg" class="card-img-top rounded-circle" alt="..." style="padding:1rem; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Phalazera M. Kalawira</h4>
+                                <h4 class="card-title" style="color:#4E4899;">Zera</h4>
                                 <div class="card-footer bg-white">
                                         <p>Institut Teknologi Bandung</p>
                                 </div>
