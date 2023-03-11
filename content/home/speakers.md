@@ -16,7 +16,7 @@ css_style:
 <h1 style="text-align: center; margin-bottom: 3rem; margin-top: 5rem;">The Invited Speakers</h1>
 
 <div class="row row-cols-1 row-cols-md-4">
-        <div class="col-sm mt-3">
+        <div class="col-sm mt-4">
                 <div class="card text-center" style="border:none;box-shadow:none;">
                 <img src="media/speakers/avatar.svg" class="card-img-top rounded-circle" alt="..." style="padding:1rem; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
@@ -27,7 +27,7 @@ css_style:
                         </div>
                 </div>
         </div>
-        <div class="col-sm mt-3">
+        <div class="col-sm mt-4">
                 <div class="card text-center" style="border:none;box-shadow:none;">
                 <img src="media/speakers/phalazera.jpg" class="card-img-top rounded-circle" alt="..." style="padding:1rem; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
@@ -38,7 +38,7 @@ css_style:
                         </div>
                 </div>
         </div>
-        <div class="col-sm mt-3">
+        <div class="col-sm mt-4">
                 <div class="card text-center h-100" style="border:none; box-shadow:none;">
                 <img src="media/speakers/avatar.svg" class="card-img-top rounded-circle" alt="..." style="padding:1rem; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
@@ -49,7 +49,7 @@ css_style:
                         </div>
                 </div>
         </div>
-        <div class="col-sm mt-3">
+        <div class="col-sm mt-4">
                 <div class="card text-center h-100" style="border:none; box-shadow:none;">
                 <img src="media/speakers/avatar.svg" class="card-img-top rounded-circle" alt="..." style="padding:1rem; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
