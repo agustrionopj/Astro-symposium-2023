@@ -17,15 +17,15 @@ css_style:
                         <h4 class="card-header text-center text-white">
                                 20 Mar 2023
                         </h4>
-                                <div class="card-body">
-                                        <p class="card-title">
-                                                <ul>
-                                                        <li>Symposium announcement</li>
-                                                        <li>Call for papers</li>
-                                                        <li>Website launched</li>
-                                                </ul>
-                                        </p>
-                                </div>
+                        <div class="card-body">
+                                <p class="card-title">
+                                        <ul>
+                                                <li>Symposium announcement</li>
+                                                <li>Call for papers</li>
+                                                <li>Website launched</li>
+                                        </ul>
+                                </p>
+                        </div>
                 </div>
         </div>
         <div class="col-sm mt-3">
