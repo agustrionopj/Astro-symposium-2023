@@ -30,9 +30,10 @@ image:
 projects: []
 ---
 <!-- <div class="how-section1"> -->
-  <div class="row">
+  <div class="row align-items-center">
       <div class="col-md-6 how-img order-md-1">
-          <img src="https://image.ibb.co/dDW27U/Work_Section2_freelance_img1.png" class="rounded-circle img-fluid" alt=""/>
+          <!-- <img src="img/earth.svg" class="rounded-circle img-fluid" alt=""/> -->
+          <img src="img/earth.svg" class="img-fluid" alt=""/>
       </div>
       <div class="col-md-6 order-md-2">
           <!-- <h4>Find rewarding projects</h4> -->
@@ -40,9 +41,9 @@ projects: []
       <p class="text-muted">Nunc luctus vel nulla in semper. Aenean faucibus sodales fringilla. Cras aliquam tincidunt ex, ac elementum risus sodales ac. Curabitur augue libero, sagittis ut nulla id, dapibus scelerisque tellus. Aenean commodo et ligula id sagittis. Suspendisse et blandit tellus, sed pulvinar ligula. Phasellus tristique justo massa. Nam vestibulum dignissim neque accumsan posuere. In hac habitasse platea dictumst. Vivamus feugiat, libero non feugiat ornare, lacus erat suscipit arcu, sed consequat ipsum urna ut odio.</p>
       </div>
   </div>
-  <div class="row">
+  <div class="row align-items-center">
       <div class="col-md-6 how-img order-md-2">
-          <img src="https://image.ibb.co/cHgKnU/Work_Section2_freelance_img2.png" class="rounded-circle img-fluid" alt=""/>
+          <img src="img/sun-planet.svg" class="img-fluid" alt=""/>
       </div>
       <div class="col-md-6 order-md-1">
           <!-- <h4>Get hired quickly</h4> -->
@@ -50,9 +51,9 @@ projects: []
           <p class="text-muted">Nunc luctus vel nulla in semper. Aenean faucibus sodales fringilla. Cras aliquam tincidunt ex, ac elementum risus sodales ac. Curabitur augue libero, sagittis ut nulla id, dapibus scelerisque tellus. Aenean commodo et ligula id sagittis. Suspendisse et blandit tellus, sed pulvinar ligula. Phasellus tristique justo massa. Nam vestibulum dignissim neque accumsan posuere. In hac habitasse platea dictumst. Vivamus feugiat, libero non feugiat ornare, lacus erat suscipit arcu, sed consequat ipsum urna ut odio.</p>
       </div>
   </div>
-  <div class="row">
+  <div class="row align-items-center">
       <div class="col-md-6 how-img order-md-1">
-            <img src="https://image.ibb.co/ctSLu9/Work_Section2_freelance_img3.png" class="rounded-circle img-fluid" alt=""/>
+            <img src="img/satellite.svg" class="img-fluid" alt=""/>
       </div>
       <div class="col-md-6 order-md-2">
           <!-- <h4>Work efficiently, effectively.</h4> -->
@@ -60,9 +61,9 @@ projects: []
           <p class="text-muted">Nunc luctus vel nulla in semper. Aenean faucibus sodales fringilla. Cras aliquam tincidunt ex, ac elementum risus sodales ac. Curabitur augue libero, sagittis ut nulla id, dapibus scelerisque tellus. Aenean commodo et ligula id sagittis. Suspendisse et blandit tellus, sed pulvinar ligula. Phasellus tristique justo massa. Nam vestibulum dignissim neque accumsan posuere. In hac habitasse platea dictumst. Vivamus feugiat, libero non feugiat ornare, lacus erat suscipit arcu, sed consequat ipsum urna ut odio.</p>
       </div>
   </div>
-  <div class="row">
+  <div class="row align-items-center">
       <div class="col-md-6 how-img order-md-2">
-          <img src="https://image.ibb.co/gQ9iE9/Work_Section2_freelance_img4.png" class="rounded-circle img-fluid" alt=""/>
+          <img src="img/learn.svg" class="img-fluid" alt=""/>
       </div>
       <div class="col-md-6 order-md-1">
           <!-- <h4>Get paid on time</h4> -->
@@ -70,9 +71,9 @@ projects: []
           <p class="text-muted">Nunc luctus vel nulla in semper. Aenean faucibus sodales fringilla. Cras aliquam tincidunt ex, ac elementum risus sodales ac. Curabitur augue libero, sagittis ut nulla id, dapibus scelerisque tellus. Aenean commodo et ligula id sagittis. Suspendisse et blandit tellus, sed pulvinar ligula. Phasellus tristique justo massa. Nam vestibulum dignissim neque accumsan posuere. In hac habitasse platea dictumst. Vivamus feugiat, libero non feugiat ornare, lacus erat suscipit arcu, sed consequat ipsum urna ut odio.</p>
       </div>
   </div>
-  <div class="row">
+  <div class="row align-items-center">
       <div class="col-md-6 how-img order-md-1">
-          <img src="https://image.ibb.co/gQ9iE9/Work_Section2_freelance_img4.png" class="rounded-circle img-fluid" alt=""/>
+          <img src="img/science.svg" class="img-fluid" alt=""/>
       </div>
       <div class="col-md-6 order-md-2">
           <!-- <h4>Get paid on time</h4> -->
@@ -80,9 +81,9 @@ projects: []
           <p class="text-muted">Nunc luctus vel nulla in semper. Aenean faucibus sodales fringilla. Cras aliquam tincidunt ex, ac elementum risus sodales ac. Curabitur augue libero, sagittis ut nulla id, dapibus scelerisque tellus. Aenean commodo et ligula id sagittis. Suspendisse et blandit tellus, sed pulvinar ligula. Phasellus tristique justo massa. Nam vestibulum dignissim neque accumsan posuere. In hac habitasse platea dictumst. Vivamus feugiat, libero non feugiat ornare, lacus erat suscipit arcu, sed consequat ipsum urna ut odio.</p>
       </div>
   </div>
-  <div class="row">
+  <div class="row align-items-center">
       <div class="col-md-6 how-img order-md-2">
-          <img src="https://image.ibb.co/gQ9iE9/Work_Section2_freelance_img4.png" class="rounded-circle img-fluid" alt=""/>
+          <img src="img/team.svg" class="img-fluid" alt=""/>
       </div>
       <div class="col-md-6 order-md-1">
           <!-- <h4>Get paid on time</h4> -->

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+<circle style="fill:#BBBBBB;" cx="82.76" cy="371.76" r="41.384"/>
+<g>
+	<path style="fill:#333333;" d="M80.92,512l-39.536-86.44c0,0-41.384,0.92-41.384,38.624V512H80.92z"/>
+	<path style="fill:#333333;" d="M84.6,512l39.544-86.44c0,0,41.384,0.92,41.384,38.624V512H84.6z"/>
+</g>
+<polygon style="fill:#E21B1B;" points="53.84,425.56 82.76,489.928 111.68,425.56 "/>
+<circle style="fill:#BBBBBB;" cx="429.24" cy="371.76" r="41.384"/>
+<g>
+	<path style="fill:#333333;" d="M427.4,512l-39.544-86.44c0,0-41.384,0.92-41.384,38.624V512H427.4z"/>
+	<path style="fill:#333333;" d="M431.08,512l39.544-86.44c0,0,41.376,0.92,41.376,38.624V512H431.08z"/>
+</g>
+<polygon style="fill:#E21B1B;" points="400.32,425.56 429.24,489.928 458.16,425.56 "/>
+<circle style="fill:#BBBBBB;" cx="429.24" cy="41.384" r="41.384"/>
+<g>
+	<path style="fill:#333333;" d="M427.4,181.664L387.856,95.2c0,0-41.384,0.92-41.384,38.624v47.816L427.4,181.664z"/>
+	<path style="fill:#333333;" d="M431.08,181.664L470.616,95.2c0,0,41.384,0.944,41.384,38.648v47.816H431.08z"/>
+</g>
+<polygon style="fill:#E21B1B;" points="400.32,95.224 429.24,159.592 458.16,95.224 "/>
+<circle style="fill:#BBBBBB;" cx="82.76" cy="41.384" r="41.384"/>
+<g>
+	<path style="fill:#333333;" d="M80.92,181.664L41.384,95.2c0,0-41.384,0.944-41.384,38.648v47.816H80.92z"/>
+	<path style="fill:#333333;" d="M84.6,181.664L124.144,95.2c0,0,41.384,0.92,41.384,38.624v47.816L84.6,181.664z"/>
+</g>
+<polygon style="fill:#E21B1B;" points="53.84,95.224 82.76,159.592 111.68,95.224 "/>
+<circle style="fill:#BBBBBB;" cx="256" cy="206.552" r="41.384"/>
+<g>
+	<path style="fill:#333333;" d="M254.16,346.832l-39.544-86.44c0,0-41.384,0.92-41.384,38.624v47.816H254.16z"/>
+	<path style="fill:#333333;" d="M257.84,346.832l39.544-86.44c0,0,41.384,0.92,41.384,38.624v47.816H257.84z"/>
+</g>
+<polygon style="fill:#E21B1B;" points="227.08,260.392 256,324.76 284.92,260.392 "/>
+</svg>
