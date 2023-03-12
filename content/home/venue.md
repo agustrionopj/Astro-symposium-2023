@@ -9,6 +9,38 @@ design:
   columns: '1'
 css_style: 
 ---
+<style>
+  /********************************
+* Buat tombol baru
+********************************/
+.tombol {
+  background-color: #4CAF50;
+  /* Green */
+  border: none;
+  color: white;
+  /* padding: 16px 32px; */
+  padding: 10px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 0.9rem;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.tombol3 {
+  background-color: white;
+  color: #CA4B6F;
+  border: 2px solid #CA4B6F;
+  border-radius: 0.5rem;
+}
+
+.tombol3:hover {
+  background-color: #CA4B6F;
+  color: white;
+}
+</style>
 
 <div class="container-md">
   <h1 style="text-align: center; margin-bottom: 3rem; margin-top: 5rem;">The Venue</h1>
@@ -27,6 +59,6 @@ css_style:
 </div>
 <div class="d-flex justify-content-center mt-5 mb-3">
       <p>
-        <a href="venue/" class="btn btn-outline-primary btn-lg fw-bold" role="button">View more...</a>
+        <a href="venue/" class="tombol tombol3">{{< icon name="book-open" pack="fas">}} View more</a>
       </p>
 <div>
