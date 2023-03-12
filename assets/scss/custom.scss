@@ -3,6 +3,10 @@
   font-size: 0.85rem;
  }
 
+.nav-link:hover {
+  color: $sta-menu-text-active !important;
+}
+
 * {
   box-sizing: border-box;
 }
