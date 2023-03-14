@@ -9,7 +9,7 @@ weight: 10
 title: "From the Universe Back to Earth"
 active: true
 cta:
-  url: "#"
+  url: "registration/"
   label: Register
   icon_pack: fas
   icon: fa-solid fa-pencil

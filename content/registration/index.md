@@ -30,4 +30,29 @@ image:
 projects: []
 ---
 
+<div class="container" style="margin-bottom:3rem;">
+  <div class="row d-flex justify-content-center">
+    <div class="col-6 col-md-3">
+      <div class="card text-center">
+          <img src="img/in-person.svg" class="card-img-top" alt="..." style="width:60%; margin-top:1rem; margin-bottom:0; ">
+          <div class="card-body">
+            <h2 class="card-title text-primary"><i class="fas fa-euro-sign"></i> 160</h2>
+            <p><b>In person participation</b></p>
+          </div>
+      </div>
+    </div>
+    <div class="col-6 col-md-3">
+      <div class="card text-center">
+          <img src="img/online.svg" class="card-img-top" alt="..." style="width:60%; margin-top:1rem; margin-bottom:0; ">
+          <div class="card-body">
+            <h2 class="card-title text-primary"><i class="fas fa-euro-sign"></i> 110</h2>
+            <p><b>Online participation</b></p>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+Please fill the form below.
+
 <iframe src="https://script.google.com/macros/s/AKfycbxWx3sqL_qAH5AppBhMlIHzuEbGClIboK48VMWpDdikZcHzxuKMlbSH5nDEcJ0cyYIm/exec" frameborder="0" width="100%" height=800px style="overflow:hidden;"></iframe>
