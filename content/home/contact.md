@@ -27,7 +27,7 @@ design:
       <h3>Contact:</h3>
       <!-- <h4><i class="fa fa-envelope" aria-hidden="true"></i> Email</h4> -->
       <h4 style="margin-top:2rem;">LOC Co-Chairs</h4>
-      <p style="font-size:0.9rem">
+      <p style="font-size:0.85rem">
         <ul>
           <li>Premana W. Premadi ({{< icon name="envelope" pack="fa">}}: <a href="mailto:premadi@as.itb.ac.id">premadi@as.itb.ac.id</a>)</li>
           <li>Anton T. Jaelani ({{< icon name="envelope" pack="fa">}}: <a href="mailto:jaelani.at@gmail.com">jaelani.at@gmail.com</a>)</li>
@@ -35,7 +35,7 @@ design:
       </p>
       <!-- <h4 style="margin-top:2rem;"><i class="fa-solid fa-phone"></i> Phone</h4> -->
       <h4 style="margin-top:2rem;">{{< icon name="phone" pack="fas">}} Phone or Fax</h4>
-      <p style="font-size:0.9rem">
+      <p style="font-size:0.85rem">
         <ul>
           <li>+62 22 2786027</li>
           <li>+62 811 246601</li>
@@ -43,7 +43,7 @@ design:
       </p>
       <!-- <h4 style="margin-top:2rem;"><i class="fa-solid fa-location-dot"></i> Postal Address</h4> -->
       <h4 style="margin-top:2rem;">{{< icon name="location-dot" pack="fas">}} Address</h4>
-      <p style="font-size:0.9rem; margin-bottom:2rem;">Bosscha Observatory, Institut Teknologi Bandung<br>Lembang 40391, Indonesia</p>
+      <p style="font-size:0.85rem; margin-bottom:2rem;">Bosscha Observatory, Institut Teknologi Bandung<br>Lembang 40391, Indonesia</p>
     </div>
   </div>
 </div>
