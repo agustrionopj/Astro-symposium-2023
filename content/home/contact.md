@@ -11,7 +11,7 @@ design:
     text_color_light: true 
 ---
 <div class="container-md">
-  <div class="row" style="margin-top:0;">
+  <div class="row">
     <div class="col-md-6 .d-flex .align-items-center">
     <h3 style="margin-bottom:2rem;">Organized by:</h3>
       <div class="row">
