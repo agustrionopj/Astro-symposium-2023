@@ -27,16 +27,22 @@ design:
       <h3>Contact:</h3>
       <!-- <h4><i class="fa fa-envelope" aria-hidden="true"></i> Email</h4> -->
       <h4 style="margin-top:2rem;">LOC Co-Chairs</h4>
-      <p style="font-size:0.85rem">
-        <ul>
-          <li>Premana W. Premadi ({{< icon name="envelope" pack="fa">}}: <a href="mailto:premadi@as.itb.ac.id">premadi@as.itb.ac.id</a>)</li>
-          <li>Anton T. Jaelani ({{< icon name="envelope" pack="fa">}}: <a href="mailto:jaelani.at@gmail.com">jaelani.at@gmail.com</a>)</li>
+      <p>
+        <ul style="font-size:0.85rem">
+          <li>Premana W. Premadi</li>
+          <ul style="list-style-type:none;padding-left:0;">
+            <li>{{< icon name="envelope" pack="fa">}} Email: <a href="mailto:premadi@as.itb.ac.id">premadi@as.itb.ac.id</a></li>
+          </ul>
+          <li style="margin-top:0.85rem;">Anton T. Jaelani </li>
+          <ul style="list-style-type:none;padding-left:0;">
+            <li>{{< icon name="envelope" pack="fa">}} Email: <a href="mailto:jaelani.at@gmail.com">jaelani.at@gmail.com</a></li>
+          </ul>
         </ul>
       </p>
       <!-- <h4 style="margin-top:2rem;"><i class="fa-solid fa-phone"></i> Phone</h4> -->
       <h4 style="margin-top:2rem;">{{< icon name="phone" pack="fas">}} Phone or Fax</h4>
-      <p style="font-size:0.85rem">
-        <ul>
+      <p>
+        <ul style="font-size:0.85rem">
           <li>+62 22 2786027</li>
           <li>+62 811 246601</li>
         </ul>
