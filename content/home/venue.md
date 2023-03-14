@@ -43,7 +43,7 @@ css_style:
 </style>
 
 <div class="container-md">
-  <h1 style="text-align: center; margin-bottom: 3rem; margin-top: 5rem;">The Venue</h1>
+  <h1 style="text-align: center; margin-bottom: 3rem; margin-top: 3rem;">The Venue</h1>
   <div class="row align-items-center">
     <div class="col-md-4" style="margin-bottom:1rem;">
       <img class="rounded" src="media/crcs_f3.jpg" style="margin-bottom:1em;">

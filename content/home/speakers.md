@@ -13,7 +13,7 @@ css_style:
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
 </style>
 
-<h1 style="text-align: center; margin-bottom: 3rem; margin-top: 5rem;">The Invited Speakers</h1>
+<h1 style="text-align: center; margin-bottom: 3rem; margin-top: 3rem;">The Invited Speakers</h1>
 
 <div class="row row-cols-1 row-cols-md-4">
         <div class="col-sm mt-4">
