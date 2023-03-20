@@ -65,7 +65,7 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/wowchemy/starter-hugo-online-course'
     content_dir: content
