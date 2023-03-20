@@ -16,6 +16,22 @@ show_breadcrumb: true
 If you came from the South-East Asia region, you may eligible for visa exemption. Please refer to the <a href="https://www.imigrasi.go.id/en/" target="_blank"> Indonesia Immigration official website </a> for further information (click <b>Information <i class="fa-solid fa-caret-right"></i> Immigration Services <i class="fa-solid fa-caret-right"></i> For Foreign Nationals <i class="fa-solid fa-caret-right"></i> Visa Exemption </b>) or click <a href="https://www.imigrasi.go.id/en/bebas-visa-kunjungan/" target="_blank"> here </a> to directly visit the visa exemption page.
 </div>
 
+## Traveling to Bandung
+
+<div class="px-3">
+As per February 2023, there were no direct international flights to Bandung anymore. To go to Bandung, you could go to Jakarta by plane (i.e. to Soekarno-Hatta International Airport (CGK)) and then get to Bandung by several ways:
+<ul>
+    <li>
+    <h5>By Train</h5>
+    <p>This is perhaps the most comfortable way of getting to Bandung from Jakarta. You could reach Gambir Train Station in Jakarta from CGK by Taxi, or DAMRI Bus. The train ticket from Gambir Train Station to Bandung Train Station could be booked online from <a href="https://booking.kai.id/" target="_blank"> official site of Indonesia Railways Company (or PT. KAI) </a> or using its official apps on Google Play Store or App Store. Search for "KAI Access" with the logo as shown below. <img src="/media/kaiaccess.png" width=64 height=64 style="vertical-align:middle;"></p>
+    </li>
+    <li>
+    <h5>By Shuttle Services</h5>
+    <p>There are several direct shuttle services from CGK airport to Bandung. You could book the ticket online by using their booking website or apps (see, for example, <a href="https://www.cititrans.co.id/book-now/" target="_blank"> Cititrans Booking Site </a> or using <a href="https://play.google.com/store/apps/details?id=air.com.cititrans.birdev02&hl=en" target="_blank"> the apps (for Android)</a>) </p>
+    </li>
+</ul>
+</div>
+
 ## Hotel Around ITB
 
 <div class="px-3 pb-2">
