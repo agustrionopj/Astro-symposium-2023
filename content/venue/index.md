@@ -1,7 +1,7 @@
 ---
 title: The Venue
 subtitle:
-widget: blank
+# widget: blank
 weight: 50
 active: true
 design:

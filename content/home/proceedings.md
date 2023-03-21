@@ -1,8 +1,9 @@
 ---
 title: 
 subtitle:
-widget: blank
-headless: true
+# widget: blank
+# type: widget_page
+# headless: true
 weight: 60
 active: true
 design:

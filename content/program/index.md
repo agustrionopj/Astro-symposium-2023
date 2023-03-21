@@ -3,6 +3,7 @@ title: Program
 subtitle:
 share: false
 show_breadcrumb: true
+# headless: true
 ---
 
 <style>
