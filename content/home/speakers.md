@@ -60,15 +60,4 @@ css_style:
                         </div>
                 </div>
         </div>
-        <!-- <div class="col-sm mt-3">
-                <div class="card text-center h-100" style="border:none; box-shadow:none;">
-                <img src="media/speakers/avatar.svg" class="card-img-top rounded-circle" alt="..." style="padding:1rem; margin-top:1rem; margin-bottom:0;">
-                        <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Khoirul</h4>
-                                <div class="card-footer bg-white">
-                                        <p>Institut Teknologi Bandung</p>
-                                </div>
-                        </div>
-                </div>
-        </div> -->
 </div>
