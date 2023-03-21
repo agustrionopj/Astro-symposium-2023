@@ -9,7 +9,7 @@ design:
   columns: '1'
 css_style: 
 ---
-<h1 style="text-align: center; margin-bottom: 3rem; margin-top: 3rem;">Important Dates</h1>
+<h1 style="text-align: center; margin-bottom: 3rem;">Important Dates</h1>
 
 <div class="row" style="margin-bottom:2rem;">
         <div class="col-sm mt-3">
