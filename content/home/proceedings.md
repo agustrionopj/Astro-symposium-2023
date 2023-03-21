@@ -57,5 +57,5 @@ design:
       <td>Indonesia</td>
     </tr>
   </tbody>
-</table>
+  </table>
 </div>
