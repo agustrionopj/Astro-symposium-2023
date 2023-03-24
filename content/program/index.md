@@ -10,68 +10,68 @@ show_breadcrumb: true
 
 <ul class="nav nav-tabs nav-fill mb-3" id="TabProgram" role="tablist">
   <li class="nav-item" role="presentation">
-    <button
+    <a
       class="nav-link active"
       id="day1-tab"
-      type="button"
+      type="a"
       data-bs-toggle="tab"
       data-bs-target="#day1"
       role="tab"
       aria-controls="day1-tab-pane"
       aria-selected="true"
-      ><b>MON, 10 JUL 2023</b></button
+      ><b>MON, 10 JUL 2023</b></a
     >
   </li>
   <li class="nav-item" role="presentation">
-    <button
+    <a
       class="nav-link"
       id="day2-tab"
-      type="button"
+      type="a"
       data-bs-toggle="tab"
       data-bs-target="#day2"
       role="tab"
       aria-controls="day2-tab-pane"
       aria-selected="false"
-      ><b>TUE, 11 JUL 2023</b></button
+      ><b>TUE, 11 JUL 2023</b></a
     >
   </li>
   <li class="nav-item" role="presentation">
-    <button
+    <a
       class="nav-link"
       id="day3-tab"
-      type="button"
+      type="a"
       data-bs-toggle="tab"
       data-bs-target="#day3"
       role="tab"
       aria-controls="day3-tab-pane"
       aria-selected="false"
-      ><b>WED, 12 JUL 2023</b></button
+      ><b>WED, 12 JUL 2023</b></a
     >
   </li>
   <li class="nav-item" role="presentation">
-    <button
+    <a
       class="nav-link"
       id="day4-tab"
-      type="button"
+      type="a"
       data-bs-toggle="tab"
       data-bs-target="#day4"
       role="tab"
       aria-controls="day4-tab-pane"
       aria-selected="false"
-      ><b>THU, 13 JUL 2023</b></button
+      ><b>THU, 13 JUL 2023</b></a
     >
   </li>
   <li class="nav-item" role="presentation">
-    <button
+    <a
       class="nav-link"
       id="day5-tab"
-      type="button"
+      type="a"
       data-bs-toggle="tab"
       data-bs-target="#day5"
       role="tab"
       aria-controls="day5-tab-pane"
       aria-selected="false"
-      ><b>FRI, 14 JUL 2023</b></button
+      ><b>FRI, 14 JUL 2023</b></a
     >
   </li>
 </ul>
