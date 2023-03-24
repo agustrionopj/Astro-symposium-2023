@@ -13,7 +13,6 @@ show_breadcrumb: true
     <a
       class="nav-link active"
       id="day1-tab"
-      type="a"
       data-bs-toggle="tab"
       data-bs-target="#day1"
       role="tab"
@@ -26,7 +25,6 @@ show_breadcrumb: true
     <a
       class="nav-link"
       id="day2-tab"
-      type="a"
       data-bs-toggle="tab"
       data-bs-target="#day2"
       role="tab"
@@ -39,7 +37,6 @@ show_breadcrumb: true
     <a
       class="nav-link"
       id="day3-tab"
-      type="a"
       data-bs-toggle="tab"
       data-bs-target="#day3"
       role="tab"
@@ -52,7 +49,6 @@ show_breadcrumb: true
     <a
       class="nav-link"
       id="day4-tab"
-      type="a"
       data-bs-toggle="tab"
       data-bs-target="#day4"
       role="tab"
@@ -65,7 +61,6 @@ show_breadcrumb: true
     <a
       class="nav-link"
       id="day5-tab"
-      type="a"
       data-bs-toggle="tab"
       data-bs-target="#day5"
       role="tab"
