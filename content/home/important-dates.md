@@ -61,7 +61,7 @@ css_style:
         <div class="col-sm mt-3">
                 <div class="card">
                         <h4 class="card-header text-center text-white">
-                                2-7 Oct 2023
+                                2-6 Oct 2023
                         </h4>
                                 <div class="card-body">
                                         <p class="card-title">

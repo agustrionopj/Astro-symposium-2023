@@ -13,19 +13,19 @@ show_breadcrumb: true
 
 <ul class="nav nav-tabs nav-justified mb-3" id="program-tab" role="tablist">
   <li class="nav-item" role="presentation">
-    <button class="nav-link active" id="day-1-tab" data-bs-toggle="tab" data-bs-target="#program-day-1" type="button" role="tab" aria-controls="pills-home" aria-selected="true"><b>MON, 10 JUL 2023</b></button>
+    <button class="nav-link active" id="day-1-tab" data-bs-toggle="tab" data-bs-target="#program-day-1" type="button" role="tab" aria-controls="pills-home" aria-selected="true"><b>MON, 02 OCT 2023</b></button>
   </li>
   <li class="nav-item" role="presentation">
-    <button class="nav-link" id="day-2-tab" data-bs-toggle="tab" data-bs-target="#program-day-2" type="button" role="tab" aria-controls="pills-profile" aria-selected="false"><b>TUE, 11 JUL 2023</b></button>
+    <button class="nav-link" id="day-2-tab" data-bs-toggle="tab" data-bs-target="#program-day-2" type="button" role="tab" aria-controls="pills-profile" aria-selected="false"><b>TUE, 03 OCT 2023</b></button>
   </li>
   <li class="nav-item" role="presentation">
-    <button class="nav-link" id="day-3-tab" data-bs-toggle="tab" data-bs-target="#program-day-3" type="button" role="tab" aria-controls="pills-contact" aria-selected="false"><b>WED, 12 JUL 2023</b></button>
+    <button class="nav-link" id="day-3-tab" data-bs-toggle="tab" data-bs-target="#program-day-3" type="button" role="tab" aria-controls="pills-contact" aria-selected="false"><b>WED, 04 OCT 2023</b></button>
   </li>
   <li class="nav-item" role="presentation">
-    <button class="nav-link" id="day-4-tab" data-bs-toggle="tab" data-bs-target="#program-day-4" type="button" role="tab" aria-controls="pills-disabled" aria-selected="false"><b>THU, 13 JUL 2023</b></button>
+    <button class="nav-link" id="day-4-tab" data-bs-toggle="tab" data-bs-target="#program-day-4" type="button" role="tab" aria-controls="pills-disabled" aria-selected="false"><b>THU, 05 OCT 2023</b></button>
   </li>
   <li class="nav-item" role="presentation">
-    <button class="nav-link" id="day-5-tab" data-bs-toggle="tab" data-bs-target="#program-day-5" type="button" role="tab" aria-controls="pills-disabled" aria-selected="false"><b>FRI, 14 JUL 2023</b></button>
+    <button class="nav-link" id="day-5-tab" data-bs-toggle="tab" data-bs-target="#program-day-5" type="button" role="tab" aria-controls="pills-disabled" aria-selected="false"><b>FRI, 06 OCT 2023</b></button>
   </li>
 </ul>
 <div class="tab-content" id="pills-tabContent">
