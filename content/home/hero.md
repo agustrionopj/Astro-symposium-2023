@@ -36,6 +36,6 @@ Developing Astronomy <br> to Meet Today's Natural Challenges
 
 <div>
   <p class="kotak_transparan">
-    BANDUNG, INDONESIA, 2 - 7 OCTOBER 2023
+    BANDUNG, INDONESIA, 2 - 6 OCTOBER 2023
   </p>
 </div>
