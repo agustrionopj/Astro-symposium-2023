@@ -36,12 +36,12 @@ projects: []
       <div class="card text-center">
           <img src="img/in-person.svg" class="card-img-top" alt="..." style="width:60%; margin-top:1rem; margin-bottom:0; ">
           <div class="card-body">
-            <h2 class="card-title text-primary"><i class="fas fa-euro-sign"></i> 160</h2>
+            <h2 class="card-title text-primary"><i class="fas fa-euro-sign"></i> 200</h2>
             <p><b>In person participation</b></p>
           </div>
       </div>
     </div>
-    <div class="col-6 col-md-3">
+    <!-- <div class="col-6 col-md-3">
       <div class="card text-center">
           <img src="img/online.svg" class="card-img-top" alt="..." style="width:60%; margin-top:1rem; margin-bottom:0; ">
           <div class="card-body">
@@ -49,7 +49,7 @@ projects: []
             <p><b>Online participation</b></p>
           </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </div>
 

@@ -122,6 +122,16 @@ show_breadcrumb: true
               </div>
             </div>
       </div>
+      <div class="col-6 col-md-3 mt-3">
+          <div class="card text-center">
+              <img src="avatar/herdiwijaya.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
+              <div class="card-body">
+                <h4 class="card-title text-primary">Dhani Herdiwijaya</h4>
+                <p><b></b></p>
+                <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
+              </div>
+            </div>
+      </div>
   </div>
 
 <br>
@@ -133,10 +143,20 @@ show_breadcrumb: true
 <div class="row">
     <div class="col-6 col-md mt-3">
         <div class="card text-center">
+            <img src="avatar/hesti.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
+            <div class="card-body">
+              <h4 class="card-title text-primary">Hesti R. T. Wulandari</h4>
+              <p><b>Chair</b></p>
+              <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
+            </div>
+          </div>
+    </div>
+    <div class="col-6 col-md mt-3">
+        <div class="card text-center">
             <img src="avatar/jaelani.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
               <h4 class="card-title text-primary">Anton T. Jaelani</h4>
-              <p><b>Co-Chair</b></p>
+              <p><b>Chair</b></p>
               <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
             </div>
           </div>
@@ -146,7 +166,7 @@ show_breadcrumb: true
             <img src="avatar/kiki.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
               <h4 class="card-title text-primary">Kiki Vierdayanti</h4>
-              <p><b>Co-Chair</b></p>
+              <p><b>Chair</b></p>
               <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
             </div>
           </div>
@@ -156,23 +176,23 @@ show_breadcrumb: true
             <img src="avatar/yatny.jpg" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
               <h4 class="card-title text-primary">Yatny Yulianty</h4>
-              <p><b>Co-Chair</b></p>
-              <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
-            </div>
-          </div>
-    </div>
-    <div class="col-6 col-md mt-3">
-        <div class="card text-center">
-            <img src="avatar/wahid.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
-            <div class="card-body">
-              <h4 class="card-title text-primary">Wahyu Hidayat</h4>
-              <p><b></b></p>
+              <p><b>Chair</b></p>
               <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
             </div>
           </div>
     </div>
 </div>
 <div class="row">
+    <div class="col-6 col-md mt-3">
+        <div class="card text-center">
+            <img src="avatar/wahid.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
+            <div class="card-body">
+              <h4 class="card-title text-primary">Wahyu Hidayat</h4>
+              <p><b>Chair</b></p>
+              <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
+            </div>
+          </div>
+    </div>
     <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/lucky.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
@@ -183,17 +203,7 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
-    <div class="col-6 col-md mt-3">
-        <div class="card text-center">
-            <img src="avatar/hesti.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
-            <div class="card-body">
-              <h4 class="card-title text-primary">Hesti R. T. Wulandari</h4>
-              <p><b></b></p>
-              <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
-            </div>
-          </div>
-    </div>
-    <div class="col-6 col-md mt-3">
+    <!-- <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/jatmiko.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
@@ -202,8 +212,8 @@ show_breadcrumb: true
               <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
             </div>
           </div>
-    </div>
-    <div class="col-6 col-md mt-3">
+    </div> -->
+    <!-- <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/ikbal.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
@@ -212,9 +222,7 @@ show_breadcrumb: true
               <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
             </div>
           </div>
-    </div>
-</div>
-<div class="row">
+    </div> -->
     <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/argo.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
@@ -235,6 +243,8 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
+</div>
+<div class="row">
     <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/yudhiakto.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
@@ -255,8 +265,6 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
-</div>
-<div class="row">
     <div class="col-6 col-md-3 mt-3">
         <div class="card text-center">
             <img src="avatar/avivah.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
@@ -278,3 +286,6 @@ show_breadcrumb: true
           </div>
     </div>
 </div>
+<!-- <div class="row">
+    
+</div> -->

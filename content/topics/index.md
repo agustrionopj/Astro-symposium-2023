@@ -91,4 +91,14 @@ projects: []
           <p class="text-muted">Citizen science programs involve the active participation of members of the public in scientific research. These programs can involve a range of activities, such as collecting and analyzing data, contributing to scientific knowledge, and promoting community engagement and education. Citizen science can provide valuable data that might not otherwise be collected, as well as help increase public awareness of environmental issues and promote scientific literacy. By involving people from diverse backgrounds and skill levels, citizen science programs can also promote equity and diversity in science, and foster a sense of ownership and stewardship of the natural world.</p>
       </div>
   </div>
+  <div class="row align-items-center">
+      <div class="col-md-6 how-img order-md-1">
+          <img src="img/earth-hand.svg" class="img-fluid" alt=""/>
+      </div>
+      <div class="col-md-6 order-md-1">
+          <!-- <h4>Get paid on time</h4> -->
+          <h4 class="subheading">Astronomy in past and present culture: reviving astronomical local wisdoms for the care of Earth and humanity.</h4>
+          <p class="text-muted">Astronomy has played a significant role in past and present cultures, serving as a bridge between humanity and the cosmos. Throughout history, different civilizations have developed their own astronomical knowledge, often rooted in local wisdom and observations of celestial phenomena. In the past, this wisdom guided agricultural practices, navigation, and the marking of significant events such as solstices and equinoxes. In the present, reviving and honoring these astronomical local wisdoms holds great potential for promoting a deeper connection between humans, the Earth, and the universe. By studying and incorporating ancient astronomical knowledge, we can gain insights into sustainable living, ecological balance, and the preservation of our planet. This holistic approach can enhance our understanding of celestial objects, foster cultural diversity, and inspire a sense of stewardship for Earth and humanity. Embracing astronomical local wisdoms can help us navigate our collective future and encourage a harmonious relationship between science, culture, and the natural world.</p>
+      </div>
+  </div>
 <!-- </div> -->
