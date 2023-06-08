@@ -9,8 +9,19 @@ show_breadcrumb: true
 <head>
     <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous"> -->
 </head>
+
+<style>
+  /* Custom styles for nav-tabs */
+  .nav-tabs {
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 5px;
+  }
+</style>
+
+
 <div class="container">
-  <ul class="nav nav-tabs nav-fill mb-3" id="program-tab" role="tablist">
+  <ul class="nav nav-tabs justify-content-around mb-3" id="program-tab" role="tablist">
     <li class="nav-item" role="presentation">
       <button class="nav-link active" id="day-1-tab" data-bs-toggle="tab" data-bs-target="#program-day-1" type="button" role="tab" aria-controls="pills-home" aria-selected="true"><b>MON, 02 OCT 2023</b></button>
     </li>
@@ -232,6 +243,9 @@ show_breadcrumb: true
       </table>
     </div>
     <div class="tab-pane fade" id="program-day-6" role="tabpanel" aria-labelledby="day-6-tab" tabindex="0">
+    <br>
+    <br>
+    <h4 class="text-primary"></h4>
     <table class="table table-striped">
         <thead>
           <tr>
