@@ -66,8 +66,6 @@ talks, posters, and exhibitions with fair allotted time for each. Participants w
 hands-on material, apparatus, softwares, etc, are welcome to use exhibition area (must indicate the
 wish in the registration form).
 
-All contributions adhering to IAU proceedings rule will be included in the symposium proceedings.
-
 <!-- The year 2023 will be special for astronomy in Indonesia: (1) the 100th birthday of its Bosscha Observatory, one of the first few large (then) observatories in the southern hemisphere. It is still a functioning observatory now and should be ready to embark on its new mission; (2) Indonesia will be fortunate to have a Total Solar Eclipse passes over its eastern part. We plan for a year of astronomy activities with various aims, including for public at large. It will be a unique time for astronomy to get attention as well as to show how it can contribute to development of civilization. This symposium strengthens the motivation to identify knowledges and skills in astronomy and astrophysics that push our contribution to saving Earth, strengthen collaborative networks that will expedite the achievement of the motivation.
 
 The various topics in this proposed symposium cover details of science developed in astronomy and astrophysics that could be useful in investigating and understanding the Earth as part of the solar system, but also as a unique planet. This idea has inspired a number of astronomical projects around the world to invest significant portions of their projects to study Earth, which are now developing into interesting projects of their own rights. 

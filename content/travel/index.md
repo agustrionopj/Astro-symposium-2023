@@ -10,16 +10,16 @@ show_breadcrumb: true
     For foreign nationals outside of the South-East Asia region, you may apply for single-entry visitor visa. Please refer to the <a href="https://www.imigrasi.go.id/en/" target="_blank"> Indonesia Immigration official website </a> for further information (click <b>Information <i class="fa-solid fa-caret-right"></i> Immigration Services <i class="fa-solid fa-caret-right"></i> For Foreign Nationals <i class="fa-solid fa-caret-right"></i> Apply for Indonesian Visa</b> and choose <b>Single-Entry visitor visa (Index B211A)</b>) or click <a href="https://www.imigrasi.go.id/en/visa-kunjungan-satu-kali-perjalanan-b211a/" target="_blank"> here </a> to directly visit the single-entry visitor visa page.
 </div>
 
-## Health Regulations regarding COVID-19 Pandemic
-
-<div class="px-3">
-    Due to the Covid-19 pandemic, restrictions for entry into Indonesia may apply. Foreign nationals may consult the respective Indonesian Embassy/Consulate accredited to their country.
-</div>
-
 ## Visa Exemption
 
 <div class="px-3">
 If you came from the South-East Asia region, you may eligible for visa exemption. Please refer to the <a href="https://www.imigrasi.go.id/en/" target="_blank"> Indonesia Immigration official website </a> for further information (click <b>Information <i class="fa-solid fa-caret-right"></i> Immigration Services <i class="fa-solid fa-caret-right"></i> For Foreign Nationals <i class="fa-solid fa-caret-right"></i> Visa Exemption </b>) or click <a href="https://www.imigrasi.go.id/en/bebas-visa-kunjungan/" target="_blank"> here </a> to directly visit the visa exemption page.
+</div>
+
+## Health Regulations regarding COVID-19 Pandemic
+
+<div class="px-3">
+    Due to the Covid-19 pandemic, restrictions for entry into Indonesia may apply. Foreign nationals may consult the respective Indonesian Embassy/Consulate accredited to their country. You could also refer to Consulate General of The Republic of Indonesia for Davao City of the Philippines <a href="https://kemlu.go.id/davaocity/en/news/21093/regulations-for-traveling-to-indonesia#:~:text=Upon%20arrival%20in%20Indonesia%2C%20foreign,check%2C%20with%20the%20following%20provisions%3A&text=Without%20symptoms%20of%20COVID%2D19,RT%2DPCR%20examination%20upon%20arrival" target="_blank">official webpage</a> for the aformentioned information.  
 </div>
 
 ## Traveling to Bandung
