@@ -4,7 +4,7 @@ subtitle: To be Determined
 share: false
 show_breadcrumb: true
 ---
-
+<!-- 
 #### Contoh daftar partisipan:
 
 <table class="table table-striped">
@@ -31,7 +31,6 @@ show_breadcrumb: true
     </tr>
     <tr>
       <th scope="row">3</th>
-      <!-- <td colspan="2">Larry the Bird</td> -->
       <td>Cool</td>
       <td>Name</td>
       <td>Institut Teknologi Bandung</td>
@@ -43,4 +42,4 @@ show_breadcrumb: true
       <td>Kediri</td>
     </tr>
   </tbody>
-</table>
+</table> -->
