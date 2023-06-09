@@ -73,13 +73,13 @@ projects: []
   <iframe src="https://script.google.com/macros/s/AKfycbz4P8Itknx7AsJK3SM6ClwDJgwBlWm47OMv63iXXPkeFjoa9U2ZBqqA4hhr3WXRYw8M/exec" frameborder="0" width="100%" id="iframe_1" ></iframe>
 </div>
 
-<div class="container">
+<!-- <div class="container">
   <div class="alert alert-info">
     If you already made a payment, please upload the payment proof using the form below.
   </div>
 
   <iframe src="https://script.google.com/macros/s/AKfycbw1YTxWIfq9f17EicPTnNHZ5dKOoDQKvfOmJR5w8HYlC3h0X3RHbsMY0Em_WPoHJ0Ad/exec" frameborder="0" width="100%" height=480px id="iframe_2" ></iframe>
-</div>
+</div> -->
 
 <script src="/js/iframeResizer.js"></script>
 <script>

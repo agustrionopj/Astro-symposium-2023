@@ -31,7 +31,7 @@ design:
         <ul style="font-size:0.85rem">
           <li>Premana W. Premadi</li>
           <ul style="list-style-type:none;padding-left:0;">
-            <li>{{< icon name="envelope" pack="fa">}} Email: <a href="mailto:premadi@as.itb.ac.id">premadi@as.itb.ac.id</a></li>
+            <li>{{< icon name="envelope" pack="fa">}} Email: <a href="mailto:premana@office.itb.ac.id">premana@office.itb.ac.id</a></li>
           </ul>
           <li style="margin-top:0.85rem;">Anton T. Jaelani </li>
           <ul style="list-style-type:none;padding-left:0;">

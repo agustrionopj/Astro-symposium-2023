@@ -203,26 +203,16 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
-    <!-- <div class="col-6 col-md mt-3">
+    <div class="col-6 col-md-3 mt-3">
         <div class="card text-center">
-            <img src="avatar/jatmiko.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
+            <img src="avatar/verena.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
-              <h4 class="card-title text-primary">Agus T. P. Jatmiko</h4>
+              <h4 class="card-title text-primary">Verena Puspawardani</h4>
               <p><b></b></p>
-              <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
+              <p class="card-text">Coaction Indonesia (Indonesia)</p>
             </div>
-          </div>
-    </div> -->
-    <!-- <div class="col-6 col-md mt-3">
-        <div class="card text-center">
-            <img src="avatar/ikbal.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
-            <div class="card-body">
-              <h4 class="card-title text-primary">M. Ikbal Arifyanto</h4>
-              <p><b></b></p>
-              <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
-            </div>
-          </div>
-    </div> -->
+        </div>
+    </div>
     <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/argo.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
@@ -233,6 +223,8 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
+</div>
+<div class="row">
     <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/rhorom.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
@@ -243,8 +235,6 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
-</div>
-<div class="row">
     <div class="col-6 col-md mt-3">
         <div class="card text-center">
             <img src="avatar/yudhiakto.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
@@ -275,17 +265,16 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
+</div>
+<div class="row">
     <div class="col-6 col-md-3 mt-3">
         <div class="card text-center">
-            <img src="avatar/verena.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
+            <img src="avatar/jatmiko.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
-              <h4 class="card-title text-primary">Verena Puspawardani</h4>
+              <h4 class="card-title text-primary">Agus T. P. Jatmiko</h4>
               <p><b></b></p>
-              <p class="card-text">Coaction Indonesia (Indonesia)</p>
+              <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
             </div>
-          </div>
+        </div>
     </div>
 </div>
-<!-- <div class="row">
-    
-</div> -->
