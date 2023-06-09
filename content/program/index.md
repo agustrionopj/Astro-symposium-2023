@@ -44,70 +44,86 @@ show_breadcrumb: true
   <div class="tab-content" id="pills-tabContent">
     <div class="tab-pane fade show active" id="program-day-1" role="tabpanel" aria-labelledby="day-1-tab" tabindex="0">
     <br>
-    <h4 class="text-primary">Symposium "From the Universe Back to Earth"</h4>
+    <h4 class="text-primary">Topics:</h4>
+    <ul>
+      <li>Using the science of astronomy and astrophysics to understand the Earth system</li>
+      <li>The Sun and Space Weather</li>
+      <li>Using facilities, technologies, and data science in astronomy to study Earth system</li>
+      <li>Capacity building and network strategies: using astronomy to meet today’s natural challenges</li>
+      <li>Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</li>
+      <li>Citizen science programmes</li>
+    </ul>
     <table class="table table-striped">
         <thead>
           <tr>
             <th scope="col">Time (UTC+7)</th>
             <th scope="col"></th>
-            <th scope="col">Room</th>
+            <!-- <th scope="col">Room</th> -->
           </tr>
         </thead>
         <tbody class="table-group-divider">
           <tr>
             <td>09:00 - 10:00</td>
             <td>Opening remarks + opening lecture</td>
-            <td>Room A</td>
+            <!-- <td>Room A</td> -->
           </tr>
           <tr>
             <td>10:00 - 10:30</td>
             <td>Coffee break and socialize</td>
-            <td>Room B</td>
+            <!-- <td>Room B</td> -->
           </tr>
           <tr>
             <td >10:30 - 12:00</td>
             <td>3 plenary talks</td>
-            <td>Room A</td>
+            <!-- <td>Room A</td> -->
           </tr>
           <tr>
             <td>12:00 - 13:30</td>
             <td>Lunch etc.</td>
-            <td>Room A</td>
+            <!-- <td>Room A</td> -->
           </tr>
           <tr>
             <td>13:30 - 16:30</td>
             <td>2 parallels + poster session + exhibition + coffee break</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
         </tbody>
     </table>
     </div>
     <div class="tab-pane fade" id="program-day-2" role="tabpanel" aria-labelledby="day-2-tab" tabindex="0">
     <br>
-    <h4 class="text-primary">Symposium "From the Universe Back to Earth"</h4>
+    <h4 class="text-primary">Topics:</h4>
+    <ul>
+      <li>Using the science of astronomy and astrophysics to understand the Earth system</li>
+      <li>The Sun and Space Weather</li>
+      <li>Using facilities, technologies, and data science in astronomy to study Earth system</li>
+      <li>Capacity building and network strategies: using astronomy to meet today’s natural challenges</li>
+      <li>Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</li>
+      <li>Citizen science programmes</li>
+    </ul>
       <table class="table table-striped">
         <thead>
           <tr>
             <th scope="col">Time (UTC+7)</th>
             <th scope="col"></th>
-            <th scope="col">Room</th>
+            <!-- <th scope="col">Room</th> -->
           </tr>
         </thead>
         <tbody class="table-group-divider">
           <tr>
             <td>09:00 - 12:00</td>
             <td>4 plenaries + 1 coffee break</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <tr>
             <td>12:00 - 13:00</td>
             <td>Lunch etc.</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <tr>
             <td>13:00 - 16:00</td>
             <td>4 parallels</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <!-- <tr>
             <td>16:00 - 16:30</td>
@@ -124,120 +140,134 @@ show_breadcrumb: true
     </div>
     <div class="tab-pane fade" id="program-day-3" role="tabpanel" aria-labelledby="day-3-tab" tabindex="0">
     <br>
-    <h4 class="text-primary">Symposium "From the Universe Back to Earth"</h4>
+    <h4 class="text-primary">Topics:</h4>
+    <ul>
+      <li>Using the science of astronomy and astrophysics to understand the Earth system</li>
+      <li>The Sun and Space Weather</li>
+      <li>Using facilities, technologies, and data science in astronomy to study Earth system</li>
+      <li>Capacity building and network strategies: using astronomy to meet today’s natural challenges</li>
+      <li>Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</li>
+      <li>Citizen science programmes</li>
+    </ul>
     <table class="table table-striped">
         <thead>
           <tr>
             <th scope="col">Time (UTC+7)</th>
             <th scope="col"></th>
-            <th scope="col">Room</th>
+            <!-- <th scope="col">Room</th> -->
           </tr>
         </thead>
         <tbody class="table-group-divider">
           <tr>
             <td>09:00 - 12:00</td>
             <td>4 plenaries + 1 coffee break</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <tr>
             <td>12:00 - 13:00</td>
             <td>Lunch etc.</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <tr>
             <td>13:00 - 16:00</td>
             <td>4 parallels</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <tr>
             <td>16:00 - 16:30</td>
             <td>Closing of symposium, remarks, photos</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <tr>
             <td>16:30 - 18:30</td>
             <td>Early dinner</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
         </tbody>
       </table>
     </div>
     <div class="tab-pane fade" id="program-day-4" role="tabpanel" aria-labelledby="day-4-tab" tabindex="0">
     <br>
-    <h4 class="text-primary">Mini Conference on Astronomy and Culture</h4>
+    <h4 class="text-primary">Topic:</h4>
+    <ul>
+      <li>Astronomy in past and present culture: reviving astronomical local wisdoms for the care of Earth and humanity</li>
+    </ul>
     <table class="table table-striped">
         <thead>
           <tr>
             <th scope="col">Time (UTC+7)</th>
             <th scope="col"></th>
-            <th scope="col">Room</th>
+            <!-- <th scope="col">Room</th> -->
           </tr>
         </thead>
         <tbody class="table-group-divider">
           <tr>
             <td>09:00 - 10:00</td>
             <td>Plenary: Opening remarks and 2 keynote talks</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <tr>
             <td>10:00 - 10:15</td>
             <td>Coffee break</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <tr>
             <td>10:15 - 12:15</td>
             <td>4 plenaries</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <tr>
             <td>12:15 - 13:30</td>
             <td>Lunch</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <tr>
             <td>13:30 - 16:30</td>
             <td>Parallel sessions and exhibitions + 1 coffee break</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
         </tbody>
       </table>
     </div>
     <div class="tab-pane fade" id="program-day-5" role="tabpanel" aria-labelledby="day-5-tab" tabindex="0">
     <br>
-    <h4 class="text-primary">Mini Conference on Astronomy and Culture</h4>
+    <h4 class="text-primary">Topic:</h4>
+    <ul>
+      <li>Astronomy in past and present culture: reviving astronomical local wisdoms for the care of Earth and humanity</li>
+    </ul>
     <table class="table table-striped">
         <thead>
           <tr>
             <th scope="col">Time (UTC+7)</th>
             <th scope="col"></th>
-            <th scope="col">Room</th>
+            <!-- <th scope="col">Room</th> -->
           </tr>
         </thead>
         <tbody class="table-group-divider">
           <tr>
             <td>08:30 - 11:00</td>
             <td>Plenary and closing</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <tr>
             <td>12:00 - 13:30</td>
             <td>Lunch etc.</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <tr>
             <td>13:30 - 16:30</td>
             <td>Parallel sessions and exhibitions</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <tr>
             <td>16:30 - 17:00</td>
             <td>Closing remarks and photo</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
           <tr>
             <td>18:30 - 20:30</td>
             <td>Conference dinner</td>
-            <td>Room C</td>
+            <!-- <td>Room C</td> -->
           </tr>
         </tbody>
       </table>
@@ -251,7 +281,7 @@ show_breadcrumb: true
           <tr>
             <th scope="col">Time (UTC+7)</th>
             <th scope="col"></th>
-            <th scope="col">Room</th>
+            <!-- <th scope="col">Room</th> -->
           </tr>
         </thead>
         <tbody class="table-group-divider">
