@@ -38,24 +38,9 @@ design:
       <td>United Kingdom</td>
     </tr>
     <tr>
-      <td>Travis Rector</td>
-      <td>University of Alaska</td>
-      <td>USA</td>
-    </tr>
-    <tr>
-      <td>Hesti R. T. Wulandari</td>
-      <td>Institut Teknologi Bandung</td>
-      <td>Indonesia</td>
-    </tr>
-    <tr>
-      <td>Kiki Vierdayanti</td>
-      <td>Institut Teknologi Bandung</td>
-      <td>Indonesia</td>
-    </tr>
-    <tr>
-      <td>M. Ikbal Arifyanto</td>
-      <td>Institut Teknologi Bandung</td>
-      <td>Indonesia</td>
+      <td>Paul Ho</td>
+      <td>East Asian Observatory</td>
+      <td>Taiwan</td>
     </tr>
   </tbody>
   </table>

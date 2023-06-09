@@ -20,7 +20,7 @@ show_breadcrumb: true
 </style>
 
 
-<div class="container">
+<!-- <div class="container"> -->
   <ul class="nav nav-tabs justify-content-around mb-3" id="program-tab" role="tablist">
     <li class="nav-item" role="presentation">
       <button class="nav-link active" id="day-1-tab" data-bs-toggle="tab" data-bs-target="#program-day-1" type="button" role="tab" aria-controls="pills-home" aria-selected="true"><b>MON, 02 OCT 2023</b></button>
@@ -264,6 +264,6 @@ show_breadcrumb: true
       </table>
     </div>
   </div>
-</div>
+<!-- </div> -->
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
