@@ -63,8 +63,8 @@ css_style:
     </div>
   </div>
 </div>
-<div class="d-flex justify-content-center mt-5 mb-3">
+<!-- <div class="d-flex justify-content-center mt-5 mb-3">
       <p>
         <a href="venue/" class="tombol tombol3">{{< icon name="book-open" pack="fas">}} View more</a>
       </p>
-<div>
+<div> -->
