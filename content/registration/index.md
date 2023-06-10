@@ -38,7 +38,7 @@ projects: []
 <body>
 <div class="container" style="margin-bottom:3rem;">
   <div class="row d-flex justify-content-center">
-    <div class="col-12 col-md-6">
+    <div class="col-12 col-md-6 mt-3">
       <!-- <div class="card text-center"> -->
       <div class="card">
           <!-- <img src="img/in-person.svg" class="card-img-top" alt="..." style="width:50%; margin-top:1rem; margin-bottom:0; "> -->
@@ -58,7 +58,7 @@ projects: []
           </div>
       </div>
     </div>
-    <div class="col-12 col-md-6">
+    <div class="col-12 col-md-6 mt-3">
       <div class="card">
           <!-- <img src="img/online.svg" class="card-img-top" alt="..." style="width:50%; margin-top:1rem; margin-bottom:0; "> -->
           <div class="card-body">
