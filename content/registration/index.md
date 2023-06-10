@@ -38,14 +38,15 @@ projects: []
 <body>
 <div class="container" style="margin-bottom:3rem;">
   <div class="row d-flex justify-content-center">
-    <div class="col-12 col-md-4">
+    <div class="col-12 col-md-6">
       <!-- <div class="card text-center"> -->
       <div class="card">
           <!-- <img src="img/in-person.svg" class="card-img-top" alt="..." style="width:50%; margin-top:1rem; margin-bottom:0; "> -->
           <div class="card-body">
-            <h2 class="card-title text-center">Registration Fee</h2>
-            <br>
-            <h2 class="card-subtitle text-primary text-center"><i class="fas fa-euro-sign"></i> 200</h2>
+            <!-- <h2 class="card-title text-center">Registration Fee</h2>
+            <br> -->
+            <h2 class="card-title text-primary text-center"><i class="fas fa-euro-sign"></i> 200</h2>
+            <h4 class="text-center"><b>In-person participation</b></h4>
             <br>
             <p><b>Expenses covered by registration fee:</b></p>
             <ul>
@@ -57,15 +58,20 @@ projects: []
           </div>
       </div>
     </div>
-    <!-- <div class="col-6 col-md-3">
-      <div class="card text-center">
-          <img src="img/online.svg" class="card-img-top" alt="..." style="width:60%; margin-top:1rem; margin-bottom:0; ">
+    <div class="col-12 col-md-6">
+      <div class="card">
+          <!-- <img src="img/online.svg" class="card-img-top" alt="..." style="width:50%; margin-top:1rem; margin-bottom:0; "> -->
           <div class="card-body">
-            <h2 class="card-title text-primary"><i class="fas fa-euro-sign"></i> 110</h2>
-            <p><b>Online participation</b></p>
+            <h2 class="card-title text-primary text-center"><i class="fas fa-euro-sign"></i> 110</h2>
+            <h4 class="text-center"><b>Online participation</b></h4>
+            <br>
+            <p><b>Expenses covered by registration fee:</b></p>
+            <ul>
+              <li>Symposium Proceedings</li>
+            </ul>
           </div>
       </div>
-    </div> -->
+    </div>
   </div>
 </div>
 
