@@ -15,7 +15,7 @@ css_style:
         <div class="col-sm mt-3">
                 <div class="card py-0">
                         <h4 class="card-header text-center text-white">
-                                xx Jul 2023
+                                16 Jun 2023
                         </h4>
                         <div class="card-body">
                                 <p class="card-title">
@@ -31,7 +31,7 @@ css_style:
         <div class="col-sm mt-3">
                 <div class="card">
                         <h4 class="card-header text-center text-white">
-                                21 Jul-21 Aug 2023
+                                19 Jun-19 Aug 2023
                         </h4>
                                 <div class="card-body">
                                         <p class="card-title">
@@ -47,7 +47,7 @@ css_style:
         <div class="col-sm mt-3">
                 <div class="card">
                         <h4 class="card-header text-center text-white">
-                                4 Aug 2023
+                                15 Aug 2023
                         </h4>
                                 <div class="card-body">
                                         <p class="card-title">

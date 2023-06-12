@@ -13,7 +13,7 @@ design:
 <div class="container-md">
   <h1 style="text-align: center; margin-bottom: 3rem;">Proceedings</h1>
   <p style="font-size:0.85rem; margin-bottom:1rem;width=100%">
-    Invited and contributed papers will be published in a proceedings of the symposium while maintaining publication quality through review process. Registration fee includes proceedings publication cost of EUR 100 per paper.
+    Invited and contributed papers will be published in a proceedings of the symposium while maintaining publication quality through review process. Registration fee includes proceedings publication cost of EUR 110 per paper.
   </p>
   <table class="table table-borderless" style="margin-bottom:3rem;">
   <thead>
