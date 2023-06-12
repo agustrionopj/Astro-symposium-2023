@@ -4,8 +4,8 @@ subtitle: To be Determined
 share: false
 show_breadcrumb: true
 ---
-<!-- 
-#### Contoh daftar partisipan:
+
+<!-- #### Contoh daftar partisipan:
 
 <table class="table table-striped">
   <thead>
