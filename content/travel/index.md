@@ -22,7 +22,7 @@ If you came from the South-East Asia region, you may eligible for visa exemption
     Due to the Covid-19 pandemic, restrictions for entry into Indonesia may apply. Foreign nationals may consult the respective Indonesian Embassy/Consulate accredited to their country. You could also refer to Consulate General of The Republic of Indonesia for Davao City of the Philippines <a href="https://kemlu.go.id/davaocity/en/news/21093/regulations-for-traveling-to-indonesia#:~:text=Upon%20arrival%20in%20Indonesia%2C%20foreign,check%2C%20with%20the%20following%20provisions%3A&text=Without%20symptoms%20of%20COVID%2D19,RT%2DPCR%20examination%20upon%20arrival" target="_blank">official webpage</a> for the aformentioned information.  
 </div>
 
-## Traveling to Bandung
+## Traveling to Bandung 
 
 <div class="px-3">
 As per February 2023, there were no direct international flights to Bandung anymore. To go to Bandung, you could go to Jakarta by plane (i.e. to Soekarno-Hatta International Airport (CGK) or also known as Soetta Airport) and then get to Bandung by several ways:
