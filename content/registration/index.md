@@ -87,7 +87,7 @@ projects: []
   <iframe src="https://script.google.com/macros/s/AKfycbw1YTxWIfq9f17EicPTnNHZ5dKOoDQKvfOmJR5w8HYlC3h0X3RHbsMY0Em_WPoHJ0Ad/exec" frameborder="0" width="100%" height=480px id="iframe_2" ></iframe>
 </div> -->
 
-<script src="/js/iframeResizer.js"></script>
+<script src="/symposium-2023/js/iframeResizer.js"></script>
 <script>
   window.addEventListener(
   'message',
