@@ -74,7 +74,7 @@ show_breadcrumb: true
           </tr>
           <tr>
             <td >10:30 - 12:00</td>
-            <td>3 plenary talks</td>
+            <td>3 plenaries</td>
             <!-- <td>Room A</td> -->
           </tr>
           <tr>
@@ -84,7 +84,7 @@ show_breadcrumb: true
           </tr>
           <tr>
             <td>13:30 - 16:30</td>
-            <td>2 parallels + poster session + exhibition + coffee break</td>
+            <td>2 parallels + poster session</td>
             <!-- <td>Room C</td> -->
           </tr>
         </tbody>
@@ -122,7 +122,7 @@ show_breadcrumb: true
           </tr>
           <tr>
             <td>13:00 - 16:00</td>
-            <td>4 parallels</td>
+            <td>4 parallels + exhibition + coffee break</td>
             <!-- <td>Room C</td> -->
           </tr>
           <!-- <tr>
@@ -170,17 +170,7 @@ show_breadcrumb: true
           </tr>
           <tr>
             <td>13:00 - 16:00</td>
-            <td>4 parallels</td>
-            <!-- <td>Room C</td> -->
-          </tr>
-          <tr>
-            <td>16:00 - 16:30</td>
-            <td>Closing of symposium, remarks, photos</td>
-            <!-- <td>Room C</td> -->
-          </tr>
-          <tr>
-            <td>16:30 - 18:30</td>
-            <td>Early dinner</td>
+            <td>4 parallels + exhibition + coffee break</td>
             <!-- <td>Room C</td> -->
           </tr>
         </tbody>
@@ -286,7 +276,7 @@ show_breadcrumb: true
         </thead>
         <tbody class="table-group-divider">
           <tr>
-            <td>08:30 - 13:30</td>
+            <td>Morning - noon</td>
             <td>Tour to Bosscha Observatory</td>
             <td>-</td>
           </tr>
