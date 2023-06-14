@@ -18,7 +18,7 @@ css_style:
                                 19 Jun 2023
                         </h4>
                         <div class="card-body">
-                                <p class="card-title">
+                                <p class="card-title" style="font-size: 0.9rem;">
                                 Launch of website and symposium flyer to public
                                         <!-- <ul style="padding-left:inherit;margin-left:.7rem;">
                                                 <li>Launch of website and symposium flyer to public</li>
@@ -33,7 +33,7 @@ css_style:
                                 26 Jun 2023
                         </h4>
                                 <div class="card-body">
-                                        <p class="card-title">
+                                        <p class="card-title" style="font-size: 0.9rem;">
                                         Open for registration and abstract submission
                                                 <!-- <ul style="padding-left:inherit;margin-left:.7rem;">
                                                         <li>Registration</li>
@@ -49,7 +49,7 @@ css_style:
                         <h4 class="card-header text-center text-white">
                                 26 Aug 2023
                         </h4>
-                                <div class="card-body">
+                                <div class="card-body" style="font-size: 0.9rem;">
                                 Deadline for registration, abstract submission, and registration fee payment
                                         <!-- <p class="card-title">
                                                 <ul style="padding-left:inherit;margin-left:.7rem;">
@@ -65,7 +65,7 @@ css_style:
                                 15 Sep 2023
                         </h4>
                                 <div class="card-body">
-                                        <p class="card-title">
+                                        <p class="card-title" style="font-size: 0.9rem;">
                                         Symposium programme finalised
                                                 <!-- <ul style="padding-left:inherit;margin-left:.7rem;">        
                                                         <li>Symposium</li>
