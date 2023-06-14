@@ -15,15 +15,14 @@ css_style:
         <div class="col-sm mt-3">
                 <div class="card py-0">
                         <h4 class="card-header text-center text-white">
-                                16 Jun 2023
+                                19 Jun 2023
                         </h4>
                         <div class="card-body">
                                 <p class="card-title">
-                                        <ul style="padding-left:inherit;margin-left:.7rem;">
-                                                <li>Symposium announcement</li>
-                                                <li>Call for papers</li>
-                                                <li>Website launched</li>
-                                        </ul>
+                                Launch of website and symposium flyer to public
+                                        <!-- <ul style="padding-left:inherit;margin-left:.7rem;">
+                                                <li>Launch of website and symposium flyer to public</li>
+                                        </ul> -->
                                 </p>
                         </div>
                 </div>
@@ -31,15 +30,16 @@ css_style:
         <div class="col-sm mt-3">
                 <div class="card">
                         <h4 class="card-header text-center text-white">
-                                19 Jun-19 Aug 2023
+                                26 Jun 2023
                         </h4>
                                 <div class="card-body">
                                         <p class="card-title">
-                                                <ul style="padding-left:inherit;margin-left:.7rem;">
+                                        Open for registration and abstract submission
+                                                <!-- <ul style="padding-left:inherit;margin-left:.7rem;">
                                                         <li>Registration</li>
                                                         <li>Abstract submission</li>
                                                         <li>Invitation letters for participants</li>
-                                                </ul>
+                                                </ul> -->
                                         </p>
                                 </div>
                 </div>
@@ -47,27 +47,29 @@ css_style:
         <div class="col-sm mt-3">
                 <div class="card">
                         <h4 class="card-header text-center text-white">
-                                15 Aug 2023
+                                26 Aug 2023
                         </h4>
                                 <div class="card-body">
-                                        <p class="card-title">
+                                Deadline for registration, abstract submission, and registration fee payment
+                                        <!-- <p class="card-title">
                                                 <ul style="padding-left:inherit;margin-left:.7rem;">
                                                         <li>Program finalized</li>
                                                 </ul>
-                                        </p>
+                                        </p> -->
                                 </div>
                 </div>
         </div>
         <div class="col-sm mt-3">
                 <div class="card">
                         <h4 class="card-header text-center text-white">
-                                2-7 Oct 2023
+                                15 Sep 2023
                         </h4>
                                 <div class="card-body">
                                         <p class="card-title">
-                                                <ul style="padding-left:inherit;margin-left:.7rem;">        
+                                        Symposium programme finalised
+                                                <!-- <ul style="padding-left:inherit;margin-left:.7rem;">        
                                                         <li>Symposium</li>
-                                                </ul>
+                                                </ul> -->
                                         </p>
                                 </div>
                 </div>
