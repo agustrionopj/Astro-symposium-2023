@@ -19,7 +19,24 @@ If you came from the South-East Asia region, you may eligible for visa exemption
 ## Health Regulations regarding COVID-19 Pandemic
 
 <div class="px-3">
-    Due to the Covid-19 pandemic, restrictions for entry into Indonesia may apply. Foreign nationals may consult the respective Indonesian Embassy/Consulate accredited to their country. You could also refer to Consulate General of The Republic of Indonesia for Davao City of the Philippines <a href="https://kemlu.go.id/davaocity/en/news/21093/regulations-for-traveling-to-indonesia#:~:text=Upon%20arrival%20in%20Indonesia%2C%20foreign,check%2C%20with%20the%20following%20provisions%3A&text=Without%20symptoms%20of%20COVID%2D19,RT%2DPCR%20examination%20upon%20arrival" target="_blank">official webpage</a> for the aformentioned information.  
+    On 5 May 2023, World Health Organization (WHO) Director-General had transmit the Report of the fifteenth meeting of the International Health Regulations (IHR) Emergency Committee regarding the COVID-19 pandemic. He determines that COVID-19 is now an established and ongoing health issue which no longer constitutes a public health emergency of international concern (PHEIC). In conjuction, The Indonesia COVID-19 Task Force had issued a <a href="https://covid19.go.id/artikel/2023/06/09/surat-edaran-kasatgas-nomor-1-tahun-2023" target="_blank">Circular Letter number 1 year 2023</a> on 9 June 2023 regarding Health Protocols during the Transition Phase of COVID-19 endemic. The health protocols for individuals are listed as follows.
+    <ul>
+        <li>
+        It is recommended to continue receiving COVID-19 vaccination up to the second booster or fourth dose, especially for individuals at high risk of COVID-19 transmission.
+        </li>
+        <li>
+        It is allowed to not wear a mask when in a healthy condition and not at risk of contracting or transmitting COVID-19, and it is recommended to still wear a well-covered mask when in an unhealthy condition or at risk of COVID-19, before and during travel and activities in public facilities.
+        </li>
+        <li>
+        It is recommended to always carry hand sanitizer and/or use soap and running water to wash hands regularly, especially after coming into contact with shared objects e.g. door knobs, elevator's and stair's handle, etc.
+        </li>
+        <li>
+        For individuals who are unwell and at risk of contracting or transmitting COVID-19, it is advised to maintain distance or avoid crowded places to prevent the spread of COVID-19.
+        </li>
+        <li>
+        It is recommended to continue using the SATUSEHAT application for <a href="https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en&gl=US" target="_blank">Android</a> or <a href="https://apps.apple.com/us/app/satusehat-mobile/id1504600374" target="_blank">iOS</a> devices to monitor personal health. This application is only available in Bahasa Indonesia.
+        </li>
+    </ul>
 </div>
 
 ## Traveling to Bandung 
