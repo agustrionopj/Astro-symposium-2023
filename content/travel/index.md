@@ -13,13 +13,19 @@ show_breadcrumb: true
 ## Visa Exemption
 
 <div class="px-3">
-If you came from the South-East Asia region, you may eligible for visa exemption. Please refer to the <a href="https://www.imigrasi.go.id/en/" target="_blank"> Indonesia Immigration official website </a> for further information (click <b>Information <i class="fa-solid fa-caret-right"></i> Immigration Services <i class="fa-solid fa-caret-right"></i> For Foreign Nationals <i class="fa-solid fa-caret-right"></i> Visa Exemption </b>) or click <a href="https://www.imigrasi.go.id/en/bebas-visa-kunjungan/" target="_blank"> here </a> to directly visit the visa exemption page.
+If you are from the South-East Asia region, you may be eligible for visa exemption. Please refer to the <a href="https://www.imigrasi.go.id/en/" target="_blank"> Indonesia Immigration official website </a> for further information (click <b>Information <i class="fa-solid fa-caret-right"></i> Immigration Services <i class="fa-solid fa-caret-right"></i> For Foreign Nationals <i class="fa-solid fa-caret-right"></i> Visa Exemption </b>) or click <a href="https://www.imigrasi.go.id/en/bebas-visa-kunjungan/" target="_blank"> here </a> to directly visit the visa exemption page.
+</div>
+
+## Visa On Arrival
+
+<div class="px-3">
+Please <a href="https://www.imigrasi.go.id/en/e-voa/" target="_blank">check</a> whether your country is in the list of countries whose citizen may enter Indonesia with visa that you can get upon your arrival.
 </div>
 
 ## Health Regulations regarding COVID-19 Pandemic
 
 <div class="px-3">
-    On 5 May 2023, World Health Organization (WHO) Director-General had transmit the Report of the fifteenth meeting of the International Health Regulations (IHR) Emergency Committee regarding the COVID-19 pandemic. He determines that COVID-19 is now an established and ongoing health issue which no longer constitutes a public health emergency of international concern (PHEIC). In conjuction, The Indonesia COVID-19 Task Force had issued a <a href="https://covid19.go.id/artikel/2023/06/09/surat-edaran-kasatgas-nomor-1-tahun-2023" target="_blank">Circular Letter number 1 year 2023</a> on 9 June 2023 regarding Health Protocols during the Transition Phase of COVID-19 endemic. The health protocols for individuals are listed as follows.
+    On 5 May 2023, World Health Organization (WHO) Director-General issued the Report of the 15<sup>th</sup> meeting on the International Health Regulations (IHR) Emergency Committee regarding the COVID-19 pandemic. It was decided that COVID-19 is now an ongoing health issue which no longer constitutes a public health emergency of international concern (PHEIC). In conjuction, The Indonesia COVID-19 Task Force had issued a <a href="https://covid19.go.id/artikel/2023/06/09/surat-edaran-kasatgas-nomor-1-tahun-2023" target="_blank">Circular Letter number 1 year 2023</a> on 9 June 2023 regarding Health Protocols during the Transition Phase of COVID-19 endemic. The health protocols for individuals are listed as follows.
     <ul>
         <li>
         It is recommended to continue receiving COVID-19 vaccination up to the second booster or fourth dose, especially for individuals at high risk of COVID-19 transmission.
@@ -28,10 +34,10 @@ If you came from the South-East Asia region, you may eligible for visa exemption
         It is allowed to not wear a mask when in a healthy condition and not at risk of contracting or transmitting COVID-19, and it is recommended to still wear a well-covered mask when in an unhealthy condition or at risk of COVID-19, before and during travel and activities in public facilities.
         </li>
         <li>
-        It is recommended to always carry hand sanitizer and/or use soap and running water to wash hands regularly, especially after coming into contact with shared objects e.g. door knobs, elevator's and stair's handle, etc.
+        It is recommended to always carry hand sanitizer and/or use soap and running water to wash hands regularly, especially after coming into contact with shared objects e.g. door knobs, elevator button,  and stairs handrail, etc.
         </li>
         <li>
-        For individuals who are unwell and at risk of contracting or transmitting COVID-19, it is advised to maintain distance or avoid crowded places to prevent the spread of COVID-19.
+        For individuals who are unwell and at risk of contracting or transmitting COVID-19, it is advised to maintain safe distance or avoid crowded places to prevent the spread of COVID-19.
         </li>
         <li>
         It is recommended to continue using the SATUSEHAT application for <a href="https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en&gl=US" target="_blank">Android</a> or <a href="https://apps.apple.com/us/app/satusehat-mobile/id1504600374" target="_blank">iOS</a> devices to monitor personal health. This application is only available in Bahasa Indonesia.
@@ -46,7 +52,7 @@ As per February 2023, there were no direct international flights to Bandung anym
 <ul>
     <li>
     <h5>By Train</h5>
-    <p>This is perhaps the most comfortable way of getting to Bandung from Jakarta eventhough it is not direct. The journey typically takes around 3 hours. You could reach Gambir Train Station in Jakarta from CGK by Taxi, or DAMRI Bus. The train ticket from Gambir Train Station to Bandung Train Station could be booked online from <a href="https://booking.kai.id/" target="_blank"> official site of Indonesia Railways Company (or PT. KAI) </a> or using its <a href="https://play.google.com/store/apps/details?id=com.kai.kaiticketing&hl=en" target="_blank"> official apps on Google Play Store (for Android) </a> or App Store (for iOS). Total expenses is approximately <i class="fas fa-euro-sign"></i> 35. 
+    <p>This is perhaps the most comfortable way of getting to Bandung from Jakarta eventhough it is not direct. The journey typically takes around 3 hours. You could reach Gambir Train Station in Jakarta from CGK by Taxi, or DAMRI Bus. The train ticket from Gambir Train Station to Bandung Train Station could be booked online from <a href="https://booking.kai.id/" target="_blank"> official site of Indonesia Railways Company (or PT. KAI) </a> or using its <a href="https://play.google.com/store/apps/details?id=com.kai.kaiticketing&hl=en" target="_blank"> official apps on Google Play Store (for Android) </a> or <a href="https://apps.apple.com/id/app/kai-access/id901804734" target="_blank">App Store (for iOS)</a>. Total expenses is approximately <i class="fas fa-euro-sign"></i> 35. 
     <!-- Search for "KAI Access" with the logo as shown below. <img src="/media/kaiaccess.png" width=64 height=64 style="vertical-align:middle;"> -->
     </p> 
     </li>
