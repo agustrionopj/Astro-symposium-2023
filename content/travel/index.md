@@ -48,27 +48,31 @@ Please <a href="https://www.imigrasi.go.id/en/e-voa/" target="_blank">check</a> 
 ## Traveling to Bandung 
 
 <div class="px-3">
-As per February 2023, there were no direct international flights to Bandung anymore. To go to Bandung, you could go to Jakarta by plane (i.e. to Soekarno-Hatta International Airport (CGK) or also known as Soetta Airport) and then get to Bandung by several ways:
+As February 2023, direct international flights to Bandung are still discontinued. To reach  Bandung, you could go to Jakarta by plane (i.e. to Soekarno-Hatta International Airport (CGK) or also known as Soetta Airport) and then get to Bandung by several ways:
 <ul>
     <li>
     <h5>By Train</h5>
-    <p>This is perhaps the most comfortable way of getting to Bandung from Jakarta eventhough it is not direct. The journey typically takes around 3 hours. You could reach Gambir Train Station in Jakarta from CGK by Taxi, or DAMRI Bus. The train ticket from Gambir Train Station to Bandung Train Station could be booked online from <a href="https://booking.kai.id/" target="_blank"> official site of Indonesia Railways Company (or PT. KAI) </a> or using its <a href="https://play.google.com/store/apps/details?id=com.kai.kaiticketing&hl=en" target="_blank"> official apps on Google Play Store (for Android) </a> or <a href="https://apps.apple.com/id/app/kai-access/id901804734" target="_blank">App Store (for iOS)</a>. Total expenses is approximately <i class="fas fa-euro-sign"></i> 35. 
-    <!-- Search for "KAI Access" with the logo as shown below. <img src="/media/kaiaccess.png" width=64 height=64 style="vertical-align:middle;"> -->
+    <p>
+    This is perhaps the most comfortable way of getting to Bandung from Jakarta eventhough the airport and the railway station are not linked. You could reach Gambir Train Station in Jakarta from CGK by Taxi, or DAMRI Bus, the journey takes about 1.5 hours. The train ticket from Gambir Train Station to Bandung Train Station could be booked online from <a href="https://booking.kai.id/" target="_blank">official site of Indonesia Railways Company (or PT. KAI)</a> or using its <a href="https://play.google.com/store/apps/details?id=com.kai.kaiticketing&hl=en" target="_blank">official apps on Google Play Store (for Android)</a> or <a href="https://apps.apple.com/id/app/kai-access/id901804734" target="_blank">App Store (for iOS)</a>, or travel services such as <a href="https://www.traveloka.com/en-en/" target="_blank">Traveloka</a>. The train ticket fare is about IDR 200000.
     </p> 
     </li>
     <li>
     <h5>By Shuttle Services</h5>
-    <p>There are several direct shuttle services from CGK airport to several destination points in Bandung. Make sure that your destination point is located as nearest as possible with your hotel location. The journey typically takes around 2,5-3 hours. You could book the ticket online by using their booking website or apps (see, for example, <a href="https://www.cititrans.co.id/book-now/" target="_blank"> Cititrans Booking Site </a> or using <a href="https://play.google.com/store/apps/details?id=air.com.cititrans.birdev02&hl=en" target="_blank"> the apps (for Android)</a>) with the approximate fare of <i class="fas fa-euro-sign"></i> 16. 
-    <!-- Search for "Cititrans" with the logo as shown below. <img src="/media/cititrans.webp" width=64 height=64 style="vertical-align:middle;"> -->
+    <p>
+    There are several direct shuttle services from CGK airport to several destination points in Bandung. Make sure that your destination point is located as nearest as possible with your hotel location. The journey typically takes around 3-4 hours. You could book the ticket online by using their booking website or apps (see, for example, <a href="https://www.cititrans.co.id/book-now/" target="_blank">Cititrans Booking Site</a> or using <a href="https://play.google.com/store/apps/details?id=air.com.cititrans.birdev02&hl=en" target="_blank">the apps (for Android)</a>) with the approximate fare of IDR 200000.
     </p>
     </li>
     <li>
     <h5>By Bus</h5>
-    <p>Traveling from Jakarta's Soekarno-Hatta International Airport (CGK) to Bandung by bus is a popular choice for budget-conscious travelers. Upon arrival at CGK, passengers can easily find bus operators offering trips to Bandung at the airport's transportation hub. The journey typically takes around 3-4 hours depending on traffic conditions and the type of bus chosen. Passengers can expect a comfortable ride with air-conditioning, reclining seats, and occasionally, onboard entertainment. Upon arrival in Bandung, passengers can disembark at the city's main bus terminal or request a drop-off at their preferred location. The estimated fare is around <i class="fas fa-euro-sign"></i> 16.</p>
+    <p>
+    Traveling from Jakarta's Soekarno-Hatta International Airport (CGK) to Bandung by bus is a popular choice for budget-conscious travelers. Upon arrival at CGK, passengers can easily find bus operators offering trips to Bandung at the airport's transportation hub. The journey typically takes around 4 hours depending on traffic conditions and the type of bus chosen. Passengers can expect a comfortable ride with air-conditioning, reclining seats, and occasionally, onboard entertainment. Upon arrival in Bandung, passengers can disembark at the city's main bus terminal or request a drop-off at their preferred location. The estimated fare is around IDR 175000.
+    </p>
     </li>
     <li>
     <h5>By Taxi</h5>
-    <p>If you prefer a more convenient and faster option, taking a taxi from Jakarta's Soekarno-Hatta International Airport (CGK) to Bandung is a good choice. Upon arrival at the airport, passengers can easily find taxis at the designated pick-up points. Depending on traffic conditions, the journey typically takes around 2-3 hours. Taxis are air-conditioned, and drivers usually speak English or basic Indonesian, which can be helpful for non-Indonesian speakers. Upon arrival in Bandung, passengers can be dropped off at their preferred location, such as their hotel or the city's main tourist areas. Taking a taxi is a good option for those who value privacy and comfort during their travels, especially after a long flight. However, it is worth noting that taxi fares can be higher than other transportation options, so it's important to negotiate and agree on the fare with the driver before embarking on the journey. The estimated fare is vary, depends on taximeter and/or negotiation (approximately around <i class="fas fa-euro-sign"></i> 90-95).</p>
+    <p>
+    If you prefer a more convenient and faster option, taking a taxi from Jakarta's Soekarno-Hatta International Airport (CGK) to Bandung is a good choice. Upon arrival at the airport, passengers can easily find taxis at the designated pick-up points. Depending on traffic conditions, the journey typically takes around 3 hours. Taxis are air-conditioned, and drivers usually speak English or basic Indonesian, which can be helpful for non-Indonesian speakers. Upon arrival in Bandung, passengers can be dropped off at their preferred location, such as their hotel or the city's main tourist areas. Taking a taxi is a good option for those who value privacy and comfort during their travels, especially after a long flight. However, it is worth noting that taxi fares can be higher than other transportation options, so it's important to negotiate and agree on the fare with the driver before embarking on the journey. The estimated fare varies, depends on taximeter and/or negotiation, but could reach to IDR 1500000.
+    </p>
     </li>
 </ul>
 </div>
