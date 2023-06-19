@@ -44,7 +44,7 @@ projects: []
           <div class="card-body">
             <h2 class="card-title text-center">Registration Fee</h2>
             <!-- <br> -->
-            <h2 class="card-title text-primary text-center"><i class="fas fa-euro-sign"></i> 180</h2>
+            <h2 class="card-title text-primary text-center">USD 180</h2>
             <h4 class="text-center"><b>In-person participation</b></h4>
             <br>
             <p><b>Expenses covered by registration fee:</b></p>
@@ -64,7 +64,7 @@ projects: []
           <div class="card-body">
             <h2 class="card-title text-center">Registration Fee</h2>
             <!-- <br> -->
-            <h2 class="card-title text-primary text-center"><i class="fas fa-euro-sign"></i> 100</h2>
+            <h2 class="card-title text-primary text-center">USD 100</h2>
             <h4 class="text-center"><b>Online participation</b></h4>
             <br>
             <p><b>Expenses covered by registration fee:</b></p>
@@ -92,10 +92,10 @@ projects: []
 
 <!-- hanya untuk deploy di subdomain Bosscha -->
 <!-- ---------------------------------------- -->
-<!-- <script src="/symposium-2023/js/iframeResizer.js"></script> -->
+<script src="/symposium-2023/js/iframeResizer.js"></script>
 
 <!-- hanya untuk deploy lokal/netlify -->
-<script src="/js/iframeResizer.js"></script>
+<!-- <script src="/js/iframeResizer.js"></script> -->
 <script>
   window.addEventListener(
   'message',

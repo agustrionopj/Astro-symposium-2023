@@ -20,8 +20,8 @@
       {{if $show_logo}}
       <div class="d-none d-lg-inline-flex">
         <!-- hanya untuk deployment di subdomain Bosscha -->
-        <!-- <a class="navbar-brand" href="{{ "/symposium-2023" | relLangURL }}"> -->
-        <a class="navbar-brand" href="{{ "/" | relLangURL }}">   
+        <a class="navbar-brand" href="{{ "/symposium-2023" | relLangURL }}">
+        <!-- <a class="navbar-brand" href="{{ "/" | relLangURL }}">    -->
           {{- if $has_logo -}}
             <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
             {{with site.Params.header.image.width}}width="{{.}}"{{end}}
@@ -43,8 +43,8 @@
       {{if $show_logo}}
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
         <!-- hanya untuk deployment di subdomain Bosscha -->
-        <!-- <a class="navbar-brand" href="{{ "/symposium-2023" | relLangURL }}"> -->
-        <a class="navbar-brand" href="{{ "/" | relLangURL }}">
+        <a class="navbar-brand" href="{{ "/symposium-2023" | relLangURL }}">
+        <!-- <a class="navbar-brand" href="{{ "/" | relLangURL }}"> -->
         {{- if $has_logo -}}
           <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
           {{with site.Params.header.image.width}}width="{{.}}"{{end}}

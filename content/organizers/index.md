@@ -309,18 +309,6 @@ show_breadcrumb: true
     </div>
     <div class="col-6 col-md-3 mt-3">
         <div class="card text-center">
-            <img src="avatar/verena.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
-            <div class="card-body">
-              <h4 class="card-title text-primary">Verena Puspawardani</h4>
-              <p><b></b></p>
-              <p class="card-text">Coaction Indonesia (Indonesia)</p>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="row">
-    <div class="col-6 col-md-3 mt-3">
-        <div class="card text-center">
             <img src="avatar/sungging.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
               <h4 class="card-title text-primary">E. Sungging Mumpuni</h4>
@@ -329,6 +317,19 @@ show_breadcrumb: true
             </div>
           </div>
     </div>
+    <!-- <div class="col-6 col-md-3 mt-3">
+        <div class="card text-center">
+            <img src="avatar/verena.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
+            <div class="card-body">
+              <h4 class="card-title text-primary">Verena Puspawardani</h4>
+              <p><b></b></p>
+              <p class="card-text">Coaction Indonesia (Indonesia)</p>
+            </div>
+        </div>
+    </div> -->
+</div>
+<div class="row">
+    
 </div>
 <!-- <div class="row"> -->
   
