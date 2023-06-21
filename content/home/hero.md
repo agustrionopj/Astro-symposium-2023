@@ -34,8 +34,15 @@ hero_media: 100thOB-white.svg
 
 Developing Astronomy <br> to Meet Today's Natural Challenges
 
+<div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <img src="media/logo-itb-white.svg" width="150rem%">
+      </div>
+    </div>
+</div>
 <div>
   <p class="kotak_transparan">
-    BANDUNG, INDONESIA, 2 - 7 OCTOBER 2023
+    <b>INSTITUT TEKNOLOGI BANDUNG, INDONESIA</b> <br> 2 - 7 OCTOBER 2023
   </p>
 </div>

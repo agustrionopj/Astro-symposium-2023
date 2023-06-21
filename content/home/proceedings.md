@@ -13,35 +13,39 @@ design:
 <div class="container-md">
   <h1 style="text-align: center; margin-bottom: 3rem;">Proceedings</h1>
   <p style="font-size:0.85rem; margin-bottom:1rem;width=100%">
-    Invited and contributed papers will be published in a proceedings of the symposium while maintaining publication quality through review process. Registration fee includes symposium management and proceedings publication cost of USD 100 per paper.
+    Invited and contributed papers will be published in a proceedings of the symposium while maintaining publication quality through review process. Registration fee includes symposium management and proceedings publication.
   </p>
-  <table class="table table-borderless" style="margin-bottom:3rem;">
-  <thead>
-    <tr>
-      <th colspan="3" class="text-center"><p>Editors of the Proceedings</p></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Premana W. Premadi</td>
-      <td>Institut Teknologi Bandung</td>
-      <td>Indonesia</td>
-    </tr>
-    <tr>
-      <td>Anton T. Jaelani</td>
-      <td>Institut Teknologi Bandung</td>
-      <td>Indonesia</td>
-    </tr>
-    <tr>
-      <td>Anna Scaife</td>
-      <td>Manchester University</td>
-      <td>United Kingdom</td>
-    </tr>
-    <tr>
-      <td>Paul Ho</td>
-      <td>East Asian Observatory</td>
-      <td>Taiwan</td>
-    </tr>
-  </tbody>
-  </table>
+  <div class="row justify-content-center">
+    <div class="col-12 col-md-8 d-flex justify-content-center">
+      <table class="table table-sm table-borderless" style="margin-bottom:3rem;">
+      <thead>
+        <tr>
+          <th colspan="3" class="text-center"><p>Editors of the Proceedings</p></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Premana W. Premadi</td>
+          <td>Institut Teknologi Bandung</td>
+          <td>Indonesia</td>
+        </tr>
+        <tr>
+          <td>Anton T. Jaelani</td>
+          <td>Institut Teknologi Bandung</td>
+          <td>Indonesia</td>
+        </tr>
+        <tr>
+          <td>Anna Scaife</td>
+          <td>Manchester University</td>
+          <td>United Kingdom</td>
+        </tr>
+        <tr>
+          <td>Paul Ho</td>
+          <td>East Asian Observatory</td>
+          <td>Taiwan</td>
+        </tr>
+      </tbody>
+      </table>
+    </div>
+  </div>
 </div>

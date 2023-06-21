@@ -20,7 +20,7 @@ main:
     url: organizers/
     weight: 20
     identifier: organizers
-  - name: Speakers
+  - name: Invited Speakers
     url: '#speakers'
     weight: 30
     identifier: speakers

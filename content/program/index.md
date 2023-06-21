@@ -19,6 +19,7 @@ show_breadcrumb: true
   }
 </style>
 
+This symposium will be conducted in hybrid platform (in-person and online participation).
 
 <!-- <div class="container"> -->
   <ul class="nav nav-tabs justify-content-around mb-3" id="program-tab" role="tablist">

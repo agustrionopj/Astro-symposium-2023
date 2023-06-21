@@ -1,6 +1,6 @@
 ---
-title: The Participants
-subtitle: To be Determined
+title: List of Participants
+subtitle: Updated throughout the registration process
 share: false
 show_breadcrumb: true
 ---

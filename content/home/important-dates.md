@@ -12,7 +12,7 @@ css_style:
 <h1 style="text-align: center; margin-bottom: 3rem;">Important Dates</h1>
 
 <div class="row" style="margin-bottom:2rem;">
-        <div class="col-sm mt-3">
+        <!-- <div class="col-sm mt-3">
                 <div class="card py-0">
                         <h4 class="card-header text-center text-white">
                                 19 Jun 2023
@@ -20,13 +20,10 @@ css_style:
                         <div class="card-body">
                                 <p class="card-title" style="font-size: 0.95rem;">
                                 Launch of website and symposium flyer to public
-                                        <!-- <ul style="padding-left:inherit;margin-left:.7rem;">
-                                                <li>Launch of website and symposium flyer to public</li>
-                                        </ul> -->
                                 </p>
                         </div>
                 </div>
-        </div>
+        </div> -->
         <div class="col-sm mt-3">
                 <div class="card">
                         <h4 class="card-header text-center text-white">

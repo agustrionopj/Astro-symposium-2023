@@ -146,7 +146,7 @@ show_breadcrumb: true
             <img src="avatar/hesti.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
               <h4 class="card-title text-primary">Hesti R. T. Wulandari</h4>
-              <p><b>Chair</b></p>
+              <p><b>Co-Chair</b></p>
               <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
             </div>
           </div>
@@ -156,7 +156,7 @@ show_breadcrumb: true
             <img src="avatar/jaelani.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
               <h4 class="card-title text-primary">Anton T. Jaelani</h4>
-              <p><b>Chair</b></p>
+              <p><b>Co-Chair</b></p>
               <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
             </div>
           </div>
@@ -166,7 +166,7 @@ show_breadcrumb: true
             <img src="avatar/kiki.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
               <h4 class="card-title text-primary">Kiki Vierdayanti</h4>
-              <p><b>Chair</b></p>
+              <p><b>Co-Chair</b></p>
               <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
             </div>
           </div>
@@ -176,7 +176,7 @@ show_breadcrumb: true
             <img src="avatar/yatny.jpg" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
               <h4 class="card-title text-primary">Yatny Yulianty</h4>
-              <p><b>Chair</b></p>
+              <p><b>Co-Chair</b></p>
               <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
             </div>
           </div>
@@ -188,7 +188,7 @@ show_breadcrumb: true
             <img src="avatar/wahid.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:80%; margin-top:1rem; margin-bottom:0; ">
             <div class="card-body">
               <h4 class="card-title text-primary">Wahyu Hidayat</h4>
-              <p><b>Chair</b></p>
+              <p><b>Co-Chair</b></p>
               <p class="card-text">Institut Teknologi Bandung (Indonesia)</p>
             </div>
           </div>

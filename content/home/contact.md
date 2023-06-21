@@ -26,7 +26,7 @@ design:
     <div class="col-md-6 .d-flex .align-items-center">
       <h3>Contact:</h3>
       <!-- <h4><i class="fa fa-envelope" aria-hidden="true"></i> Email</h4> -->
-      <h4 style="margin-top:2rem;">LOC Co-Chairs</h4>
+      <h4 style="margin-top:2rem;">SOC & LOC Co-Chairs</h4>
       <p>
         <ul style="font-size:0.85rem">
           <li>Premana W. Premadi</li>

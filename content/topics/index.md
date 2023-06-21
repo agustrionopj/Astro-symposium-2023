@@ -29,6 +29,16 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+<ul>
+      <li>Using the science of astronomy and astrophysics to understand the Earth system</li>
+      <li>The Sun and Space Weather</li>
+      <li>Using facilities, technologies, and data science in astronomy to study Earth system</li>
+      <li>Capacity building and network strategies: using astronomy to meet today’s natural challenges</li>
+      <li>Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</li>
+      <li>Citizen science programmes</li>
+      <li>Astronomy in past and present culture: reviving astronomical local wisdoms for the care of Earth and humanity</li>
+</ul>
+
 <!-- <div class="how-section1"> -->
   <div class="row align-items-center">
       <div class="col-md-6 how-img order-md-1">
