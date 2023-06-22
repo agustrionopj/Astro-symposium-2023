@@ -111,7 +111,8 @@
 * Kotak transparan pada hero page
 *********************************/
 .kotak_transparan {
-  // margin: auto;
+  margin: auto;
+  display: flex;
   border-radius: 16px;
   padding: 15px 20px;
   background: linear-gradient(230deg, rgba(255,255,255,0.08) 0%, rgba(248,248,248,0) 100%);
@@ -128,6 +129,7 @@
   font-weight: 500;
   // width: auto;
   justify-content: center;
+  // margin-left: 10px;
 }
 
 /********************************
