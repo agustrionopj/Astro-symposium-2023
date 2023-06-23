@@ -39,7 +39,7 @@ hero_media: 100thOB-white-resized.svg
         display: block;
         margin-left: auto;
         margin-right: auto;
-        max-width: 30%;
+        max-width: 25%;
         height: auto;
       }
     }
