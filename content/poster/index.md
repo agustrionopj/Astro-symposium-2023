@@ -13,9 +13,11 @@ show_breadcrumb: true
 </style>
 
 <div class="text-center">
-    <h4><a href="files/Symposium-2023-poster.pdf" target="_blank">Download the PDF Version</a></h4>
+    <b>PDF Version:</b> <a href="files/Symposium-2023-poster.pdf" target="_blank" class="tombol tombol3">Download</a>
+    <!-- <h4><a href="files/Symposium-2023-poster.pdf" target="_blank" class="button">Download the PDF Version</a></h4> -->
     <img src="Symposium-2023-poster.webp" width="35%">
 </div>
+
 <!-- <div class="row justify-content-center">
     <div class="col-md-6 mt-0">
         <img src="Symposium-2023-poster.png" width="85%">
@@ -24,7 +26,6 @@ show_breadcrumb: true
     <h4>PDF Version</h4>
     </div>
 </div>
-
 <div class="container">
   <div class="row">
     <div class="col-md-6">
@@ -35,4 +36,37 @@ show_breadcrumb: true
     </div>
   </div>
 </div> -->
+
+<style>
+  /********************************
+* Buat tombol baru
+********************************/
+.tombol {
+  background-color: #4CAF50;
+  /* Green */
+  border: none;
+  color: white;
+  /* padding: 16px 32px; */
+  padding: 10px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 0.9rem;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.tombol3 {
+  background-color: white;
+  color: #CA4B6F;
+  border: 2px solid #CA4B6F;
+  border-radius: 1rem;
+}
+
+.tombol3:hover {
+  background-color: #CA4B6F;
+  color: white;
+}
+</style>
 

@@ -28,7 +28,8 @@ design:
     text_color_light: true
     image: hero-bg.png
     image_darken: "0.35"
-hero_media: 100thOB-white.svg
+hero_media: hero-image-blank.svg 
+# hero_media: 100thOB-white.svg
 # hero_media: night-sky.svg
 ---
 <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
@@ -68,16 +69,25 @@ Developing Astronomy <br> to Meet Today's Natural Challenges
 
 <div>
     <div class="row kotak_transparan" style="align-items:center;">
-        <div class="col-sm-3">
-        <!-- <div> -->
+      <div class="row align-items-center">
+        <div class="col-md-2 .d-flex .align-items-center cols">
           <img src="media/logo-itb-white.svg" class="img-fluid transparansi hero-gambar">
         </div>
-        <div class="col-sm-9">
-        <!-- <div> -->
+        <div class="col-md-2 .d-flex .align-items-center cols">
+          <img src="media/100thOB-white.svg" class="img-fluid transparansi hero-gambar">
+        </div>
+        <!-- <div class="col-sm-2">
+          <img src="media/logo-itb-white.svg" class="img-fluid transparansi hero-gambar">
+        </div>
+        <div class="col-sm-2">
+          <img src="media/logo-itb-white.svg" class="img-fluid transparansi hero-gambar">
+        </div> -->
+        <div class="col-md-8">
           <p>
             INSTITUT TEKNOLOGI BANDUNG <br> INDONESIA <br> 2 - 7 OCTOBER 2023
           </p>
         </div>
+      </div>
     </div>
 </div>
 
