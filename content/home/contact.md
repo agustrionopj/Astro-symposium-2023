@@ -16,10 +16,10 @@ design:
     <h3 style="margin-bottom:2rem;">Organized by:</h3>
       <div class="row">
         <div class="col-md-3 .d-flex .align-items-center cols">
-          <img src="media/logo-itb-white.svg" height=100%>
+          <img src="media/logo-itb-white.svg" class="img-fluid transparansi hero-gambar">
         </div>
         <div class="col-md-3 .d-flex .align-items-center cols">
-          <img src="media/100thOB-white.svg" height=100%>
+          <img src="media/100thOB-white.svg" class="img-fluid transparansi hero-gambar">
         </div>
       </div>
     </div>
@@ -55,3 +55,24 @@ design:
     </div>
   </div>
 </div>
+
+<style>
+ @media (max-width: 767px) {
+      .hero-gambar {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 30%;
+        height: auto;
+      }
+    }
+    
+    .transparansi {
+      opacity: 0.7;
+    }
+    
+    .kontainer {
+      display: flex;
+      align-items: center;
+    }
+</style>
