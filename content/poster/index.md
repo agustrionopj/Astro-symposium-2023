@@ -14,7 +14,7 @@ show_breadcrumb: true
 
 <div class="text-center">
     <h4><a href="files/Symposium-2023-poster.pdf" target="_blank">Download the PDF Version</a></h4>
-    <img src="Symposium-2023-poster.png" width="35%">
+    <img src="Symposium-2023-poster.webp" width="35%">
 </div>
 <!-- <div class="row justify-content-center">
     <div class="col-md-6 mt-0">
