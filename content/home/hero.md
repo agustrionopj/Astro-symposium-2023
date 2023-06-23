@@ -26,8 +26,8 @@ design:
     gradient_start: rgb(224,223,255)
     gradient_end: rgb(153,238,255)
     text_color_light: true
-    image: bosscha01.jpg
-    image_darken: "0.4"
+    image: hero-bg.png
+    image_darken: "0.35"
 hero_media: 100thOB-white.svg
 # hero_media: night-sky.svg
 ---
@@ -52,11 +52,16 @@ hero_media: 100thOB-white.svg
       align-items: center;
     }
 
-    .image {
-      width: auto;
-      height: 100%;
+    /* img {
+      position: absolute;
       /* margin-right: 20px; */
-    }
+    } */
+
+    /* .koloms {
+      flex: 1;
+      position: relative;
+    } */
+    
 </style>
 
 Developing Astronomy <br> to Meet Today's Natural Challenges
