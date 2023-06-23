@@ -8,6 +8,10 @@ main:
     url: rationale/
     weight: 5
     identifier: rationale
+  - name: Poster
+    url: poster/
+    weight: 7
+    identifier: poster
   - name: Topics
     url: topics/
     weight: 10

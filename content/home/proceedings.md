@@ -12,7 +12,7 @@ design:
 
 <div class="container-md">
   <h1 style="text-align: center; margin-bottom: 3rem;">Proceedings</h1>
-  <p style="font-size:0.85rem; margin-bottom:1rem;width=100%">
+  <p style="font-size: 0.95rem; margin-bottom:1rem;width=100%">
     Invited and contributed papers will be published in a proceedings of the symposium while maintaining publication quality through review process. Registration fee includes symposium management and proceedings publication.
   </p>
   <div class="row justify-content-center">

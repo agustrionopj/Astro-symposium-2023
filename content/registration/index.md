@@ -47,14 +47,14 @@ projects: []
             <h3 class="card-title text-primary text-center">USD 180</h3>
             <h5 class="text-center"><b>In-person participation</b></h5>
             <br>
-            <p style="font-size:0.85rem;"><b>Expenses covered by registration fee:</b></p>
-            <ul style="font-size:0.75rem;">
-              <li>Coffee breaks (twice per day) and lunch (once per day)</li>
-              <li>Conference dinners for participant (accompanying person pays separately)</li>
-              <li>Transportation for tour to Bosscha Observatory</li>
-              <li>Symposium Proceedings</li>
-              <li>Symposium management</li>
-            </ul>
+            <p ><b>Expenses covered by registration fee:</b></p>
+              <ul style="font-size:0.85rem;">
+                <li>Coffee breaks (twice per day) and lunch (once per day)</li>
+                <li>Conference dinners for participant (accompanying person pays separately)</li>
+                <li>Transportation for tour to Bosscha Observatory</li>
+                <li>Symposium Proceedings</li>
+                <li>Symposium management</li>
+              </ul>
           </div>
       </div>
     </div>
@@ -67,8 +67,8 @@ projects: []
             <h3 class="card-title text-primary text-center">USD 100</h3>
             <h5 class="text-center"><b>Online participation</b></h5>
             <br>
-            <p style="font-size:0.85rem;"><b>Expenses covered by registration fee:</b></p>
-            <ul style="font-size:0.75rem;">
+            <p ><b>Expenses covered by registration fee:</b></p>
+            <ul style="font-size:0.85rem;">
               <li>Symposium Proceedings</li>
               <li>Symposium management</li>
             </ul>
