@@ -76,7 +76,7 @@ show_breadcrumb: true
               <div class="card-body">
                 <h4 class="card-title text-primary">Hakimul Batih</h4>
                 <p><b></b></p>
-                <p class="card-text">Indonesian Insititute for Energy Economics (Indonesia)</p>
+                <p class="card-text">Indonesian Institute for Energy Economics (Indonesia)</p>
               </div>
             </div>
       </div>
@@ -84,7 +84,7 @@ show_breadcrumb: true
           <div class="card text-center">
               <img src="avatar/boonrucksar.webp" class="card-img-top rounded-circle shadow-4-strong" alt="..." style="width:60%; margin-top:1rem; margin-bottom:0; ">
               <div class="card-body">
-                <h4 class="card-title text-primary">Boonrucksar Soonthurnthum</h4>
+                <h4 class="card-title text-primary">Boonrucksar Soonthornthum</h4>
                 <p><b></b></p>
                 <p class="card-text">NARIT (Thailand)</p>
               </div>
