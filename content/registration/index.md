@@ -44,8 +44,11 @@ projects: []
           <div class="card-body">
             <h3 class="card-title text-center">Registration Fee</h3>
             <!-- <br> -->
+            <h4>Early bird payment</h4>
             <h3 class="card-title text-primary text-center">USD 180</h3>
-            <h5 class="text-center"><b>In-person participation</b></h5>
+            <h5 class="text-center border border-primary px-3 py-3"><b>In-person participation</b></h5><br>
+            <h4>After 26 August 2023</h4>
+            <h3 class="card-title text-primary text-center">USD 200</h3>
             <br>
             <p ><b>Expenses covered by registration fee:</b></p>
               <ul style="font-size:0.85rem;">
@@ -64,8 +67,11 @@ projects: []
           <div class="card-body">
             <h3 class="card-title text-center">Registration Fee</h3>
             <!-- <br> -->
+            <h4>Early bird payment</h4>
             <h3 class="card-title text-primary text-center">USD 100</h3>
-            <h5 class="text-center"><b>Online participation</b></h5>
+            <h5 class="text-center border border-primary px-3 py-3"><b>Online participation</b></h5><br>
+            <h4>After 26 August 2023</h4>
+            <h3 class="card-title text-primary text-center">USD 120</h3>
             <br>
             <p ><b>Expenses covered by registration fee:</b></p>
             <ul style="font-size:0.85rem;">
@@ -87,6 +93,14 @@ projects: []
         <li><b>15 Sep 2023</b>: symposium programme finalised</li>  
       </ul>
       <p>Even though the deadline is 26 August 2023, we would really appreciate early registration and abstract submission for detail program and venue preparation.</p>
+      <h4>Payment details:</h4>
+      <ul>
+        <li>Bank Name: <b>BNI</b></li>
+        <li>BIC/SWIFT Code: <b>BNINIDJA</b></li>
+        <li>Virtual Account (VA) Number: <b>7020902021000123</b></li>
+        <li>Name: <b>ITB - Premana W. Premadi</b></li>
+        <li>Description: <b>Konferensi Ilmiah Internasional Batch II: From the Universe Back to Earth</b></li>
+      </ul>
     </div>
 </div>
 <br>
@@ -94,13 +108,13 @@ projects: []
   <iframe src="https://script.google.com/macros/s/AKfycbz4P8Itknx7AsJK3SM6ClwDJgwBlWm47OMv63iXXPkeFjoa9U2ZBqqA4hhr3WXRYw8M/exec" frameborder="0" width="100%" id="iframe_1" scrolling="no"></iframe>
 </div>
 
-<!-- <div class="container">
+<div class="container">
   <div class="alert alert-info">
     If you already made a payment, please upload the payment proof using the form below.
   </div>
 
   <iframe src="https://script.google.com/macros/s/AKfycbw1YTxWIfq9f17EicPTnNHZ5dKOoDQKvfOmJR5w8HYlC3h0X3RHbsMY0Em_WPoHJ0Ad/exec" frameborder="0" width="100%" height=480px id="iframe_2" ></iframe>
-</div> -->
+</div>
 
 <!-- hanya untuk deploy di subdomain Bosscha -->
 <!-- ---------------------------------------- -->
