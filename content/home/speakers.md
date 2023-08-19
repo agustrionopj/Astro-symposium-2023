@@ -13,11 +13,12 @@ css_style:
          <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
         
         .custom-card-title {
-        font-size: 1.1rem; /* Adjust the font size as needed */
+                font-size: 1rem !important;
         }
 
         .custom-card-footer {
-        font-size: 0.85rem; /* Adjust the font size as needed */
+                font-size: 0.85rem; /* Adjust the font size as needed */
+                line-height: 1rem;
         }
 </style>
 
@@ -30,9 +31,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none;box-shadow:none;">
                 <img src="media/speakers/palmer.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title custom-card-title" style="color:#4E4899;">Professor Timothy Palmer</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Professor Timothy Palmer</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Department of Physics, University of Oxford (UK)</p>
+                                        <p>Department of Physics, University of Oxford, UK</p>
                                 </div>
                         </div>
                 </div>
@@ -41,9 +42,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none;box-shadow:none;">
                 <img src="media/speakers/visser.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Dr. Jan Visser</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Dr. Jan Visser</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Learning Development Institute (the Netherlands)</p>
+                                        <p>Learning Development Institute, The Netherlands</p>
                                 </div>
                         </div>
                 </div>
@@ -52,9 +53,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none; box-shadow:none;">
                 <img src="media/speakers/greaves.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Professor Jane Greaves</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Professor Jane Greaves</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>School of Physics and Astronomy, University of Cardiff (UK)</p>
+                                        <p>School of Physics and Astronomy, University of Cardiff, UK</p>
                                 </div>
                         </div>
                 </div>
@@ -63,9 +64,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none; box-shadow:none;">
                 <img src="media/speakers/tang.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Dr. Ya-Wen Tang</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Dr. Ya-Wen Tang</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Institute of Astronomy and Astrophysics, Academia Sinica (Taiwan)</p>
+                                        <p>Institute of Astronomy and Astrophysics, Academia Sinica, Taiwan</p>
                                 </div>
                         </div>
                 </div>
@@ -76,9 +77,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none;box-shadow:none">
                 <img src="media/speakers/herdiwijaya.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Professor Dhani Herdiwijaya</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Professor Dhani Herdiwijaya</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Astronomy Research Division & Bosscha Observatory, Institut Teknologi Bandung (Indonesia)</p>
+                                        <p>Astronomy Research Division & Bosscha Observatory, Institut Teknologi Bandung, Indonesia</p>
                                 </div>
                         </div>
                 </div>
@@ -87,9 +88,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none;box-shadow:none;">
                 <img src="media/speakers/srivastava.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Professor Nandita Srivastava</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Professor Nandita Srivastava</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Udaipur Solar Observatory, Physical Research Laboratory (India)</p>
+                                        <p>Udaipur Solar Observatory, Physical Research Laboratory, India</p>
                                 </div>
                         </div>
                 </div>
@@ -98,9 +99,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none;box-shadow:none;">
                 <img src="media/speakers/breton.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Professor René Breton</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Professor René Breton</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Department of Physics and Astronomy & Jodrell Bank Centre for Astrophysics, University of Manchester (UK)</p>
+                                        <p>Department of Physics and Astronomy & Jodrell Bank Centre for Astrophysics, University of Manchester, UK</p>
                                 </div>
                         </div>
                 </div>
@@ -109,9 +110,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none; box-shadow:none;">
                 <img src="media/speakers/lambert.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Dr. Sébastian Lambert</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Dr. Sébastian Lambert</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Observatoire de Paris, CNRS (France)</p>
+                                        <p>Observatoire de Paris, CNRS, France</p>
                                 </div>
                         </div>
                 </div>
@@ -122,9 +123,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none; box-shadow:none;">
                 <img src="media/speakers/moss.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Dr. Vanessa Moss</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Dr. Vanessa Moss</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Division of Astronomy and Space Science, CSIRO (Australia)</p>
+                                        <p>Division of Astronomy and Space Science, CSIRO, Australia</p>
                                 </div>
                         </div>
                 </div>
@@ -133,9 +134,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none;box-shadow:none;">
                 <img src="media/speakers/sugiyama.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Dr. Koichiro Sugiyama</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Dr. Koichiro Sugiyama</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>National Astronomical Research Institute of Thailand (Thailand)</p>
+                                        <p>National Astronomical Research Institute of Thailand, Thailand</p>
                                 </div>
                         </div>
                 </div>
@@ -144,9 +145,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none;box-shadow:none;">
                 <img src="media/speakers/mickaelian.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Dr. Areg Mickaelian</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Dr. Areg Mickaelian</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Leading Scientist and Head of Research Department NAS RA V. Ambartsumian Byurakan Astrophysical Observatory  (Armenia)</p>
+                                        <p>Leading Scientist and Head of Research Department NAS RA V. Ambartsumian Byurakan Astrophysical Observatory, Armenia</p>
                                 </div>
                         </div>
                 </div>
@@ -155,9 +156,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none; box-shadow:none;">
                 <img src="media/speakers/takada.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Professor Masahiro Takada</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Professor Masahiro Takada</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Institute of Physics and Mathematics of the Universe, University of Tokyo (Japan)</p>
+                                        <p>Institute of Physics and Mathematics of the Universe, University of Tokyo, Japan</p>
                                 </div>
                         </div>
                 </div>
@@ -168,9 +169,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none; box-shadow:none;">
                 <img src="media/speakers/miley.jpg" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Professor George Miley</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Professor George Miley</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Leiden Observatory, Leiden University (the Netherlands)</p>
+                                        <p>Leiden Observatory, Leiden University, The Netherlands</p>
                                 </div>
                         </div>
                 </div>
@@ -179,9 +180,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none; box-shadow:none;">
                 <img src="media/speakers/trouille.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Dr. Laura Trouille</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Dr. Laura Trouille</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Vice President of Adler Planetarium, Chicago (USA)</p>
+                                        <p>Vice President of Adler Planetarium, Chicago, USA</p>
                                 </div>
                         </div>
                 </div>
@@ -190,9 +191,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none;box-shadow:none;">
                 <img src="media/speakers/scorza.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Dr. Cecilia Scorza</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Dr. Cecilia Scorza</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Ludwig Maximilians Universität München (Germany - Venezuela)</p>
+                                        <p>Ludwig Maximilians Universität München, Germany - Venezuela</p>
                                 </div>
                         </div>
                 </div>
@@ -201,9 +202,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none;box-shadow:none;">
                 <img src="media/speakers/tucker.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
-                                <h4 class="card-title" style="color:#4E4899;">Dr. Brad Tucker</h4>
+                                <h5 class="card-title" style="color:#4E4899;">Dr. Brad Tucker</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>College of Science, Australian National University (Australia)</p>
+                                        <p>College of Science, Australian National University, Australia</p>
                                 </div>
                         </div>
                 </div>
