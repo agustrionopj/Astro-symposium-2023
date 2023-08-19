@@ -93,6 +93,7 @@ projects: []
         <li><b>15 Sep 2023</b>: symposium programme finalised</li>  
       </ul>
       <p>Even though the deadline is 26 August 2023, we would really appreciate early registration and abstract submission for detail program and venue preparation.</p>
+      <p>Proceedings of the symposium will be publish in scopus indexed conference proceedings IOP Journal of Physics Conference Series (JPCS).</p>
       <h4>Payment details:</h4>
       <ul>
         <li>Bank Name: <b>BNI</b></li>
