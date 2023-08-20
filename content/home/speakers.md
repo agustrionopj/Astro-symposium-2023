@@ -32,9 +32,10 @@ css_style:
                 <img src="media/speakers/palmer.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
                                 <h5 class="card-title" style="color:#4E4899;">Professor Timothy Palmer</h5>
-                                <div class="custom-card-footer bg-white">
+                                <div class="custom-card-footer bg-white mb-4">
                                         <p>Department of Physics, University of Oxford, UK</p>
                                 </div>
+                                <h6 class="card-subtitle">"Understanding Uncertainties and How To Accommodate It in Modern Living"</h6>
                         </div>
                 </div>
         </div>
@@ -46,6 +47,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>Learning Development Institute, The Netherlands</p>
                                 </div>
+                                <h6>"Care for the Earth, Ourselves, and Others"</h6>
                         </div>
                 </div>
         </div>
@@ -57,6 +59,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>School of Physics and Astronomy, University of Cardiff, UK</p>
                                 </div>
+                                <h6>"What have we learned from other planets’ atmosphere?"</h6>
                         </div>
                 </div>
         </div>
@@ -68,6 +71,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>Institute of Astronomy and Astrophysics, Academia Sinica, Taiwan</p>
                                 </div>
+                                <h6>"The Study of Circumstellar Disk and Planetary System Formation"</h6>
                         </div>
                 </div>
         </div>
@@ -114,6 +118,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>Observatoire de Paris, CNRS, France</p>
                                 </div>
+                                <h6>"The Study of Geodynamics Using VLBI and GAIA"</h6>
                         </div>
                 </div>
         </div>
@@ -138,6 +143,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>National Astronomical Research Institute of Thailand, Thailand</p>
                                 </div>
+                                <h6>"Building infrastructure and human capacity for radio astronomy network in Asia"</h6>
                         </div>
                 </div>
         </div>
@@ -149,6 +155,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>Leading Scientist and Head of Research Department NAS RA V. Ambartsumian Byurakan Astrophysical Observatory, Armenia</p>
                                 </div>
+                                <h6>"Astronomy as the leader of inter- and multi- disciplinary sciences"</h6>
                         </div>
                 </div>
         </div>
@@ -160,6 +167,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>Institute of Physics and Mathematics of the Universe, University of Tokyo, Japan</p>
                                 </div>
+                                <h6>"Tomography in cosmology and other sciences"</h6>
                         </div>
                 </div>
         </div>
@@ -174,6 +182,7 @@ css_style:
                                         <p>Leiden Observatory, Leiden University, The Netherlands</p>
                                 </div>
                         </div>
+                        <h6>"The LOFAR Global Citizenship Radio Array 'GLORAY'"</h6>
                 </div>
         </div>
         <div class="col-sm mt-4">
@@ -184,6 +193,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>Vice President of Adler Planetarium, Chicago, USA</p>
                                 </div>
+                                <h6>"Citizen science: engaging the public in research"</h6>
                         </div>
                 </div>
         </div>
@@ -195,6 +205,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>Ludwig Maximilians Universität München, Germany - Venezuela</p>
                                 </div>
+                                <h6>"The Pale Blue Dot Project"</h6>
                         </div>
                 </div>
         </div>
