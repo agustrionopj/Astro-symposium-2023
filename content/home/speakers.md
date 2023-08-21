@@ -22,7 +22,7 @@ css_style:
         }
 </style>
 
-<h1 style="text-align: center; margin-bottom: 3rem;">The Invited Speakers</h1>
+<h1 style="text-align: center; margin-bottom: 3rem;">Invited Speakers</h1>
 
 <!-- <h3 class="text-muted text-center">To Be Confirmed</h3> -->
 

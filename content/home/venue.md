@@ -10,7 +10,7 @@ design:
 css_style: 
 ---
 <div class="container-md">
-  <h1 style="text-align: center; margin-bottom: 3.6rem;">The Venue</h1>
+  <h1 style="text-align: center; margin-bottom: 3.6rem;">Venue</h1>
   <div class="row align-items-center">
     <div class="col-md-12 p-2">
       <img class="rounded" src="media/itb.jpg" height="100%">

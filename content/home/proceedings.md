@@ -15,7 +15,7 @@ design:
   <p style="font-size: 0.85rem; margin-bottom:1rem;width=100%">
     Invited and contributed papers will be published in a proceedings of the symposium while maintaining publication quality through review process. Registration fee includes symposium management and proceedings publication. <br><br>
     Proceedings of the  symposium will be published in IOP Journal of Physics Conference Series (JPCS). Please check and read carefully the author guidelines on the <a href="https://publishingsupport.iopscience.iop.org/author-guidelines-for-conference-proceedings/" target="_blank">IOP website</a>. Authors must prepare their papers using Microsoft Word or LaTeX, according to the guidelines and templates.
-    Authors submit no more than two manuscripts to the committee before submission deadline with total pages per manuscript are 4-6 pages. The submitted manuscripts will be peer-reviewed by the committee. A blind peer-review process will be used to evaluate all submitted manuscripts. <br><br>
+    Authors submit no more than two manuscripts to the committee before submission deadline with total number of pages per manuscript is 4-6 pages. The submitted manuscripts will be peer-reviewed by the committee. A blind peer-review process will be used to evaluate all submitted manuscripts. <br><br>
     Authors can download the proceeding template below.
     <ul style="font-size: 0.85rem">
       <li><a href="https://cms.iopscience.iop.org/alfresco/d/d/workspace/SpacesStore/f67538ae-18b2-11e4-831a-29411a5deefe/WordGuidelines.zip" target="_blank">Microsoft Word templates</a></li>
@@ -23,7 +23,7 @@ design:
     </ul>
   </p>
   <p style="font-size: 0.85rem; margin-bottom:1rem;width=100%">
-    Deadline for paper submission is Monday, 30th of October 2023, 16:59 UTC.
+    <b>Deadline for paper submission is Monday, 30th of October 2023, 16:59 UTC</b>.
   </p>
   <div class="row justify-content-center">
     <div class="col-12 col-md-8 d-flex justify-content-center">
