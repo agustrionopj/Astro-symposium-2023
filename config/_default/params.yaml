@@ -21,7 +21,7 @@ marketing:
     description: 'Website for Astro Symposium 2023'
     twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-SXBWY2LB7T'
     baidu_tongji: ''
   verification:
     google: ''

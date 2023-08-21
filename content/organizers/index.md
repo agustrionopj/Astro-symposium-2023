@@ -3,7 +3,15 @@ title: "Organizers"
 share: false
 show_breadcrumb: true
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SXBWY2LB7T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-SXBWY2LB7T');
+</script>
 ## Scientific Organizing Committee
 
   <div class="row">
