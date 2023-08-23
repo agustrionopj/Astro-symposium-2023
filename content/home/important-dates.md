@@ -46,7 +46,7 @@ css_style:
         <div class="col-sm mt-3">
                 <div class="card">
                         <h4 class="card-header text-center text-white">
-                                26 Aug 2023
+                                11 Sep 2023
                         </h4>
                                 <div class="card-body" style="font-size: 0.95rem;">
                                 <ul>

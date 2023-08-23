@@ -44,11 +44,13 @@ projects: []
           <div class="card-body">
             <h3 class="card-title text-center">Registration Fee</h3>
             <!-- <br> -->
+            <h5 class="text-center border border-primary px-3 py-3"><b>In-person participation</b></h5><br>
             <h4>Early bird payment</h4>
             <h3 class="card-title text-primary text-center">USD 180</h3>
-            <h5 class="text-center border border-primary px-3 py-3"><b>In-person participation</b></h5><br>
-            <h4>After 26 August 2023</h4>
+            <h4>After 11 September 2023</h4>
             <h3 class="card-title text-primary text-center">USD 200</h3>
+            <h4>Sit-in/non-presenter</h4>
+            <h3 class="card-title text-primary text-center">USD 80</h3>
             <br>
             <p ><b>Expenses covered by registration fee:</b></p>
               <ul style="font-size:0.85rem;">
@@ -67,11 +69,13 @@ projects: []
           <div class="card-body">
             <h3 class="card-title text-center">Registration Fee</h3>
             <!-- <br> -->
+            <h5 class="text-center border border-primary px-3 py-3"><b>Online participation</b></h5><br>
             <h4>Early bird payment</h4>
             <h3 class="card-title text-primary text-center">USD 100</h3>
-            <h5 class="text-center border border-primary px-3 py-3"><b>Online participation</b></h5><br>
-            <h4>After 26 August 2023</h4>
+            <h4>After 11 September 2023</h4>
             <h3 class="card-title text-primary text-center">USD 120</h3>
+            <h4>Sit-in/non-presenter</h4>
+            <h3 class="card-title text-primary text-center">USD 20</h3>
             <br>
             <p ><b>Expenses covered by registration fee:</b></p>
             <ul style="font-size:0.85rem;">
@@ -89,10 +93,10 @@ projects: []
       <h4>Important dates:</h4>
       <ul>
         <li><b>26 Jun 2023</b>: open registration and abstract submission</li>
-        <li><b>26 Aug 2023</b>: deadline for registration, abstract submission, and registration fee payment</li>
+        <li><b>11 Sep 2023</b>: deadline for registration, abstract submission, and registration fee payment</li>
         <li><b>15 Sep 2023</b>: symposium programme finalised</li>  
       </ul>
-      <p>Even though the deadline is 26 August 2023, we would really appreciate early registration and abstract submission for detail program and venue preparation.</p>
+      <p>Even though the deadline is 11 September 2023, we would really appreciate early registration and abstract submission for detail program and venue preparation.</p>
       <p>Proceedings of the symposium will be published in scopus indexed conference proceedings IOP Journal of Physics Conference Series (JPCS).</p>
       <h4>Payment details:</h4>
       <ul>
