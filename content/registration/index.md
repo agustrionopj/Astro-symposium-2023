@@ -57,7 +57,7 @@ projects: []
                 <li>Coffee breaks (twice per day) and lunch (once per day)</li>
                 <li>Conference dinners for participant (accompanying person pays separately)</li>
                 <li>Transportation for tour to Bosscha Observatory</li>
-                <li>Symposium Proceedings</li>
+                <li>Symposium Proceedings (presenter only)</li>
                 <li>Symposium management</li>
               </ul>
           </div>
@@ -79,7 +79,7 @@ projects: []
             <br>
             <p ><b>Expenses covered by registration fee:</b></p>
             <ul style="font-size:0.85rem;">
-              <li>Symposium Proceedings</li>
+              <li>Symposium Proceedings (presenter only)</li>
               <li>Symposium management</li>
             </ul>
           </div>
