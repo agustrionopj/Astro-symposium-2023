@@ -45,7 +45,7 @@ css_style:
                         <div class="card-body pb-0">
                                 <h5 class="card-title" style="color:#4E4899;">Dr. Jan Visser</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Learning Development Institute, USA - France</p>
+                                        <p>Learning Development Institute, USA & France</p>
                                 </div>
                                 <h6>"Care for the Earth, Ourselves, and Others"</h6>
                         </div>
@@ -203,7 +203,7 @@ css_style:
                         <div class="card-body pb-0">
                                 <h5 class="card-title" style="color:#4E4899;">Dr. Cecilia Scorza</h5>
                                 <div class="custom-card-footer bg-white">
-                                        <p>Ludwig Maximilians Universität München, Germany - Venezuela</p>
+                                        <p>Ludwig Maximilians Universität München, Germany & Venezuela</p>
                                 </div>
                                 <h6>"The Pale Blue Dot Project"</h6>
                         </div>

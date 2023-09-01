@@ -74,7 +74,7 @@ show_breadcrumb: true
               <div class="card-body">
                 <h4 class="card-title text-primary">Cecilia Scorza</h4>
                 <p><b></b></p>
-                <p class="card-text">Pale Blue Dot Programme (Germany)</p>
+                <p class="card-text">Ludwig Maximilians Universität München (Germany & Venezuela)</p>
               </div>
             </div>
       </div>
