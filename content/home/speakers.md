@@ -143,7 +143,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>National Astronomical Research Institute of Thailand, Thailand</p>
                                 </div>
-                                <h6>"Building infrastructure and human capacity for radio astronomy network in Asia"</h6>
+                                <h6>"Thai National Radio Astronomy Observatory Project and a future South-East Asian VLBI Network"</h6>
                         </div>
                 </div>
         </div>
