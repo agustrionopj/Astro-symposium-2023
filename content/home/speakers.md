@@ -31,6 +31,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none;box-shadow:none;">
                 <img src="media/speakers/palmer.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
+                                <div class="custom-card-footer bg-white mb-0 pb-0" style="color:#DA3E61;">
+                                        <p><b>Opening Key Lecture</b></p>
+                                </div>
                                 <h5 class="card-title" style="color:#4E4899;">Professor Timothy Palmer</h5>
                                 <div class="custom-card-footer bg-white mb-4">
                                         <p>Department of Physics, University of Oxford, UK</p>
@@ -43,6 +46,9 @@ css_style:
                 <div class="card text-center d-flex align-items-center" style="border:none;box-shadow:none;">
                 <img src="media/speakers/visser.webp" class="card-img-top rounded-circle" alt="..." style="width:70%; margin-top:1rem; margin-bottom:0;">
                         <div class="card-body pb-0">
+                                <div class="custom-card-footer bg-white mb-0 pb-0" style="color:#DA3E61;">
+                                        <p><b>Closing Keynote Remark</b></p>
+                                </div>
                                 <h5 class="card-title" style="color:#4E4899;">Dr. Jan Visser</h5>
                                 <div class="custom-card-footer bg-white">
                                         <p>Learning Development Institute, USA & France</p>
