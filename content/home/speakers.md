@@ -65,7 +65,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>School of Physics and Astronomy, University of Cardiff, UK</p>
                                 </div>
-                                <h6>"What have we learned from other planets’ atmosphere?"</h6>
+                                <h6>"The Venus Atmosphere and Lessons for the Earth"</h6>
                         </div>
                 </div>
         </div>
