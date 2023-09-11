@@ -224,6 +224,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>College of Science, Australian National University, Australia</p>
                                 </div>
+                                <h6>"Astronomy and Space for the Public Good - What is it and how do we do it?"</h6>
                         </div>
                 </div>
         </div>
