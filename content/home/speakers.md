@@ -113,6 +113,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>Department of Physics and Astronomy & Jodrell Bank Centre for Astrophysics, University of Manchester, UK</p>
                                 </div>
+                                <h6>"From Pulsar Binaries to Invasive Plants"</h6>
                         </div>
                 </div>
         </div>
