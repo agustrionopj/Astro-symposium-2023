@@ -249,5 +249,11 @@ show_breadcrumb: true
       <td>Yulianty</td>
       <td>Bosscha Observatory</td>
     </tr>
+    <tr>
+      <th scope="row">40</th>
+      <td>Dwi Y.</td>
+      <td>Yuna</td>
+      <td>misiluarangkasa.id</td>
+    </tr>
   </tbody>
 </table>
