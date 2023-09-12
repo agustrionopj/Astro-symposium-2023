@@ -122,18 +122,24 @@ const secondsEl = document.getElementById('seconds');
 function updateCountdown(){
     const currentDate = new Date();
     const DeadlineDate = new Date("Sep 15, 2023 23:59:59").getTime();
+//     const DeadlineDate = new Date("Sep 12, 2023 14:04:10").getTime();
     const timeRemaining = DeadlineDate - currentDate;
-    const days = Math.floor(timeRemaining / (1000*60*60*24));
-    const hours =Math.floor((timeRemaining % (1000*60*60*24))/(1000*60*60));
-    const minutes = Math.floor((timeRemaining % (1000*60*60))/(1000*60));
-    const seconds = Math.floor((timeRemaining % (1000*60))/1000);
 
-    daysEl.innerHTML = days;
-    hoursEl.innerHTML = hours;
-    minutesEl.innerHTML = minutes;
-    secondsEl.innerHTML = seconds;
+    if (timeRemaining <= 0) {
+        clearInterval(timer);
+    } else {
+        const days = Math.floor(timeRemaining / (1000*60*60*24));
+        const hours =Math.floor((timeRemaining % (1000*60*60*24))/(1000*60*60));
+        const minutes = Math.floor((timeRemaining % (1000*60*60))/(1000*60));
+        const seconds = Math.floor((timeRemaining % (1000*60))/1000);
+
+        daysEl.innerHTML = days;
+        hoursEl.innerHTML = hours;
+        minutesEl.innerHTML = minutes;
+        secondsEl.innerHTML = seconds;
+    }
 }
 
 updateCountdown();
-setInterval(updateCountdown, 1000);
+const timer = setInterval(updateCountdown, 1000);
 </script>
