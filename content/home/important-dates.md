@@ -10,7 +10,7 @@ design:
 css_style: 
 ---
 <h1 style="text-align: center; margin-bottom: 3rem;">Important Dates</h1>
-<h3 style="text-align: center; margin-bottom: 1rem;">Countdown to registration deadline</h3>
+<h3 style="text-align: center; margin-bottom: 1rem;">Countdown to late registration payment deadline</h3>
 <div class="row justify-content-center">
         <div id="countdown">
                 <div class="countdown-item">
@@ -66,12 +66,12 @@ css_style:
         </div>
         <div class="col-sm mt-3">
                 <div class="card">
-                        <h4 class="card-header text-center text-white">
+                        <h4 class="card-header text-center text-white" style="background-color: #D3D3D3;">
                                 11 Sep 2023
                         </h4>
                                 <div class="card-body" style="font-size: 0.95rem;">
                                 <ul>
-                                        <li>Deadline for registration, abstract submission, and early bird registration fee payment</li>
+                                        <li class="text-muted">Deadline for registration, abstract submission, and early bird registration fee payment</li>
                                 </ul>
                                         <!-- <p class="card-title">
                                                 <ul style="padding-left:inherit;margin-left:.7rem;">
@@ -121,7 +121,7 @@ const secondsEl = document.getElementById('seconds');
 
 function updateCountdown(){
     const currentDate = new Date();
-    const DeadlineDate = new Date("Sep 11, 2023 23:59:59").getTime();
+    const DeadlineDate = new Date("Sep 15, 2023 23:59:59").getTime();
     const timeRemaining = DeadlineDate - currentDate;
     const days = Math.floor(timeRemaining / (1000*60*60*24));
     const hours =Math.floor((timeRemaining % (1000*60*60*24))/(1000*60*60));
