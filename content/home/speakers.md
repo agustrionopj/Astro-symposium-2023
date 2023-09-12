@@ -91,6 +91,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>Astronomy Research Division & Bosscha Observatory, Institut Teknologi Bandung, Indonesia</p>
                                 </div>
+                                <h6>"Identifying Solar Flare Precursors Using SHARP Parameters in Relation to The Space Weather Forecasting"</h6>
                         </div>
                 </div>
         </div>
