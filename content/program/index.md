@@ -644,7 +644,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
         </thead>
         <tbody class="table-group-divider">
           <tr>
-            <td>09:00 - 14:00 </td>
+            <td>07:00 - 13:00 </td>
             <td class="text-center">Excursion to Bosscha Observatory</td>
           </tr>
         </tbody>  
