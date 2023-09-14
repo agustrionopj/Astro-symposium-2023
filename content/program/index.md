@@ -17,6 +17,12 @@ show_breadcrumb: true
     padding: 10px;
     border-radius: 5px;
   }
+
+  /* Custom CSS to make the table full width */
+  .full-width-table {
+      width: 100%;
+      min-width: 100%;
+  }
 </style>
 
 This symposium will be conducted in hybrid platform (in-person and online participation).
@@ -38,9 +44,9 @@ This symposium will be conducted in hybrid platform (in-person and online partic
     <li class="nav-item" role="presentation">
       <button class="nav-link" id="day-5-tab" data-bs-toggle="tab" data-bs-target="#program-day-5" type="button" role="tab" aria-controls="pills-disabled" aria-selected="false"><b>FRI, 06 OCT 2023</b></button>
     </li>
-    <li class="nav-item" role="presentation">
+    <!-- <li class="nav-item" role="presentation">
       <button class="nav-link" id="day-6-tab" data-bs-toggle="tab" data-bs-target="#program-day-6" type="button" role="tab" aria-controls="pills-disabled" aria-selected="false"><b>SAT, 07 OCT 2023</b></button>
-    </li>
+    </li> -->
   </ul>
   <div class="tab-content" id="pills-tabContent">
     <div class="tab-pane fade show active" id="program-day-1" role="tabpanel" aria-labelledby="day-1-tab" tabindex="0">
@@ -54,12 +60,12 @@ This symposium will be conducted in hybrid platform (in-person and online partic
       <li>Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</li>
       <li>Citizen science programmes</li>
     </ul> -->
-    <table class="table table-striped">
+    <table class="table-sm table-bordered">
         <thead>
           <tr>
             <th class="col-2" scope="col">Time (UTC+7)</th>
-            <th class="col-5" scope="col">Room 1</th>
-            <th class="col-5" scope="col">Room 2</th>
+            <th class="col-5 text-center" scope="col">Room 1</th>
+            <th class="col-5 text-center" scope="col">Room 2</th>
           </tr>
         </thead>
         <tbody class="table-group-divider">
@@ -71,112 +77,140 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           <tr>
             <td></td>
             <td><h6 class="text-primary">Parallel: The Sun and Space Weather</h6></td>
-            <td><h6 class="text-primary">Parallel: Using the science of astronomy and astrophysics to understand the Earth system</h6></td>
-          </tr>
-          <tr>
-            <td >09:00 - 09:30</td>
-            <td style="color: #3273DC">Dhani Herdiwijaya</td>
-            <td style="color: #3273DC">Ya-Wen Tang</td>
-          </tr>
-          <tr>
-            <td>09:30 - 09:45</td>
-            <td>Premana W. Premadi</td>
-            <td>Thomas Djamaluddin</td>
-          </tr>
-          <tr>
-            <td>09:45 - 10:00</td>
             <td></td>
-            <td>Arya M. Nugraha</td>
           </tr>
           <tr>
-            <td>10:00 - 10:15</td>
+            <td >09:00 - 09:20</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">Nandita Srivastava</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td >09:20 - 09:40</td>
+            <!-- <td style="color: #3273DC"></td> -->
+            <td></td>
+          </tr>
+          <tr>
+            <td>09:40 - 10:00</td>
+            <td>Annisa N. I. Putri</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:00 - 10:20</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">Dhani Herdiwijaya</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:20 - 10:40</td>
+            <!-- <td style="color: #3273DC"></td> -->
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:40 - 10:50</td>
+            <td>Muhammad Yusuf</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:50 - 11:00</td>
             <td colspan="2" class="text-center">Coffee break</td>
-            <!-- <td></td> -->
+            <td></td>
           </tr>
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: The Sun and Space Weather</h6></td>
             <td><h6 class="text-primary">Parallel: Using the science of astronomy and astrophysics to understand the Earth system</h6></td>
+            <!-- <td><h6 class="text-primary">Parallel: Using the science of astronomy and astrophysics to understand the Earth system</h6></td> -->
           </tr>
           <tr>
-            <td>10:15 - 10:30</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>10:30 - 10:45</td>
-            <td></td>
+            <td>11:00 - 11:20</td>
+            <td>Habban R. S. Haz</td>
             <td></td>
           </tr>
           <tr>
-            <td>10:45 - 11:00</td>
-            <td></td>
+            <td>11:20 - 11:40</td>
+            <td>Thomas Djamaluddin</td>
+            <td></td>.
+          </tr>
+          <tr>
+            <td>11:40 - 12:00</td>
+            <td>Dhimaz G. Ramadhan</td>
             <td></td>
           </tr>
           <tr>
-            <td>11:00 - 11:15</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>11:15 - 11:30</td>
-            <td></td>
+            <td>12:00 - 12:20</td>
+            <td>Ammatul F. N. Cahyaningtyas</td>
             <td></td>
           </tr>
           <tr>
-            <td>11:30 - 11:45</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>11:45 - 12:00</td>
-            <td></td>
+            <td>12:20 - 12:40</td>
+            <td>Arya M. Nugraha</td>
             <td></td>
           </tr>
           <tr>
-            <td>12:00 - 13:30</td>
+            <td>12:40 - 13:30</td>
             <td colspan="2" class="text-center">Lunch break</td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: The Sun and Space Weather</h6></td>
             <td><h6 class="text-primary">Parallel: Using the science of astronomy and astrophysics to understand the Earth system</h6></td>
-          </tr>
-          <tr>
-            <td>13:30 - 14:00</td>
-            <td style="color: #3273DC">Nandita Srivastava</td>
-            <td style="color: #3273DC">Jane Greaves</td>
-          </tr>
-          <tr>
-            <td>14:00 - 14:15</td>
-            <td>Annisa N. I. Putri</td>
-            <td>Habban R. S. Haz</td>
-          </tr>
-          <tr>
-            <td>14:15 - 14:30</td>
             <td></td>
-            <td>Ammatul F. N. Cahyaningtyas</td>
           </tr>
           <tr>
-            <td>14:30 - 14:45</td>
+            <td>13:30 - 13:50</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">Ya-Wen Tang</td>
             <td></td>
-            <td>Dhimaz G. Ramadhan</td>
           </tr>
           <tr>
-            <td>14:45 - 15:00</td>
-            <td>Poster</td>
-            <td>Poster</td>
+            <td>13:50 - 14:10</td>
+            <!-- <td style="color: #3273DC">Ya-Wen Tang</td>. -->
+            <td></td>
+          </tr>
+          <tr>
+            <td>14:10 - 14:30</td>
+            <td>Ferry Yap</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>14:30 - 14:50</td>
+            <td>Gamma Rosyidin</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>14:50 - 15:10</td>
+            <td>Fathia R. Izzati</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>15:10 - 15:30</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">Jane Greaves</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>15:30 - 15:50</td>
+            <!-- <td style="color: #3273DC">Jane Greaves</td> -->
+            <td></td>
+          </tr>
+          <tr>
+            <td>15:50 - 16:10</td>
+            <td>Teduh Perhati</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>16:10 - 16:30</td>
+            <td>Bakti Fahredo Husen</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>16:30 - 16:50</td>
+            <td>Lucky Puspitarini</td>
+            <td></td>
           </tr>
           <tr>
             <td></td>
-            <td colspan="2" class="text-center">PLENARY</td>
-            <!-- <td>Poster</td> -->
+            <td colspan="2" class="text-center">Plenary</td>
           </tr>
           <tr>
             <td>18:30 - 18:45</td>
             <td colspan="2" class="text-center">Opening</td>
-            <!-- <td>Poster</td> -->
           </tr>
           <tr>
             <td>18:45 - 19:30</td>
@@ -186,7 +220,6 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           <tr>
             <td>19:30 - 20:30</td>
             <td colspan="2" class="text-center">Conference dinner</td>
-            <!-- <td>Poster</td> -->
           </tr>
         </tbody>
     </table>
@@ -202,12 +235,12 @@ This symposium will be conducted in hybrid platform (in-person and online partic
       <li>Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</li>
       <li>Citizen science programmes</li>
     </ul> -->
-      <table class="table table-striped">
+      <table class="table-sm table-bordered">
         <thead>
           <tr>
             <th class="col-2" scope="col">Time (UTC+7)</th>
-            <th class="col-5" scope="col">Room 1</th>
-            <th class="col-5" scope="col">Room 2</th>
+            <th class="col-5 text-center" scope="col">Room 1</th>
+            <th class="col-5 text-center" scope="col">Room 2</th>
           </tr>
         </thead>
         <tbody class="table-group-divider">
@@ -217,134 +250,146 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           </tr> -->
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: Citizen science programmes</h6></td>
-            <td><h6 class="text-primary">Parallel: Multi and Inter-discipline</h6></td>
+            <td><h6 class="text-primary">Parallel: <br><ul>
+              <li>Citizen science programmes</li>
+              <li>Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</li>
+              </ul>
+              </h6></td>
+            <td><h6 class="text-primary"></h6></td>
           </tr>
           <tr>
-            <td >09:00 - 09:30</td>
-            <td style="color: #3273DC">Laura Trouille</td>
-            <td style="color: #3273DC">Masahiro Takada</td>
+            <td >09:00 - 09:20</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">Laura Trouille</td>
+            <td style="color: #3273DC"></td>
           </tr>
           <tr>
-            <td>09:30 - 09:45</td>
-            <td></td>
+            <td >09:20 - 09:40</td>
+            <!-- <td style="color: #3273DC">Laura Trouille</td> -->
+            <td style="color: #3273DC"></td>
+          </tr>
+          <tr>
+            <td>09:40 - 10:00</td>
+            <td>Gustaff Iskandar</td>
             <td></td>
           </tr>
           <tr>
-            <td>09:45 - 10:00</td>
-            <td></td>
+            <td>10:00 - 10:20</td>
+            <td>Ade Djunainah</td>
             <td></td>
           </tr>
           <tr>
-            <td>10:00 - 10:15</td>
+            <td>10:20 - 10:30</td>
             <td colspan="2" class="text-center">Coffee break</td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td></td>
             <td><h6 class="text-primary">Parallel: Citizen Science Programmes</h6></td>
-            <td><h6 class="text-primary">Parallel: Multi and Inter-discipline</h6></td>
+            <td><h6 class="text-primary"></h6></td>
           </tr>
           <tr>
-            <td>10:15 - 10:30</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>10:30 - 10:45</td>
-            <td></td>
+            <td>10:30 - 10:50</td>
+            <td>Muhammad D. Firdaus</td>
             <td></td>
           </tr>
           <tr>
-            <td>10:45 - 11:00</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>11:00 - 11:15</td>
-            <td></td>
+            <td>10:50 - 11:10</td>
+            <td>Ajeng T. Handini</td>
             <td></td>
           </tr>
           <tr>
-            <td>11:15 - 11:30</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>11:30 - 11:45</td>
-            <td></td>
+            <td>11:10 - 11:30</td>
+            <td>Dina Lestari</td>
             <td></td>
           </tr>
           <tr>
-            <td>11:45 - 12:00</td>
-            <td></td>
+            <td>11:30 - 11:50</td>
+            <td>Endang Soegiartini</td>
             <td></td>
           </tr>
           <tr>
-            <td>12:00 - 13:30</td>
+            <td>11:50 - 13:00</td>
             <td colspan="2" class="text-center">Lunch break</td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: Citizen Science Programmes</h6></td>
-            <td><h6 class="text-primary">Parallel: Multi and Inter-discipline</h6></td>
+            <td><h6 class="text-primary">Parallel: Multi- and Inter- Disciplinary</h6></td>
+            <td><h6 class="text-primary"></h6></td>
           </tr>
           <tr>
-            <td>13:30 - 14:00</td>
-            <td style="color: #3273DC">Cecilia Scorza</td>
-            <td style="color: #3273DC">Areg Mickaelian</td>
+            <td>13:00 - 13:20</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">Areg Mickaelian</td>
+            <td style="color: #3273DC"></td>
           </tr>
           <tr>
-            <td>14:00 - 14:15</td>
-            <td></td>
-            <td></td>
+            <td>13:20 - 13:40</td>
+            <!-- <td style="color: #3273DC">Areg Mickaelian</td> -->
+            <td style="color: #3273DC"></td>
           </tr>
           <tr>
-            <td>14:15 - 14:30</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>14:30 - 14:45</td>
-            <td></td>
+            <td>13:40 - 14:00</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">George Miley</td>
             <td></td>
           </tr>
           <tr>
-            <td>14:45 - 15:00</td>
-            <td></td>
+            <td>14:00 - 14:20</td>
+            <!-- <td style="color: #3273DC">George Miley</td> -->
             <td></td>
           </tr>
           <tr>
-            <td>15:00 - 15:30</td>
+            <td>14:20 - 14:40</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">Masahiro Takada</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>14:40 - 15:00</td>
+            <!-- <td style="color: #3273DC">Masahiro Takada</td> -->
+            <td></td>
+          </tr>
+          <tr>
+            <td>15:00 - 15:20</td>
+            <td>Gerhana P. Putri</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>15:20 - 15:30</td>
             <td colspan="2" class="text-center">Coffee break</td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: Citizen Science Programmes</h6></td>
-            <td><h6 class="text-primary">Parallel: Multi and Inter-discipline</h6></td>
+            <td><h6 class="text-primary">Parallel: <br><ul>
+              <li>Citizen science programmes</li>
+              <li>Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</li>
+              </ul></h6></td>
+            <td><h6 class="text-primary"></h6></td>
           </tr>
           <tr>
-            <td>15:30 - 16:00</td>
-            <td></td>
-            <td style="color: #3273DC">George Miley</td>
-          </tr>
-          <tr>
-            <td>16:00 - 16:15</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>16:15 - 16:30</td>
-            <td></td>
+            <td>15:30 - 15:50</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">Cecilia Scorza</td>
             <td></td>
           </tr>
           <tr>
+            <td>15:50 - 16:10</td>
+            <!-- <td style="color: #3273DC">Cecilia Scorza</td> -->
+            <td></td>
+          </tr>
+          <tr>
+            <td>16:10 - 16:30</td>
+            <td>Abu Y. Raisal</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>16:30 - 16:50</td>
+            <td>Dwi Y. Yuna</td>
+            <td></td>
+          </tr>
+          <!-- <tr>
             <td>16:30 - 17:00</td>
             <td>Poster</td>
             <td>Poster</td>
-          </tr>
+          </tr> -->
         </tbody>
       </table>
     </div>
@@ -359,12 +404,12 @@ This symposium will be conducted in hybrid platform (in-person and online partic
       <li>Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</li>
       <li>Citizen science programmes</li>
     </ul> -->
-      <table class="table table-striped">
+      <table class="table-sm table-bordered">
         <thead>
           <tr>
             <th class="col-2" scope="col">Time (UTC+7)</th>
-            <th class="col-5" scope="col">Room 1</th>
-            <th class="col-5" scope="col">Room 2</th>
+            <th class="col-5 text-center" scope="col">Room 1</th>
+            <th class="col-5 text-center" scope="col">Room 2</th>
           </tr>
         </thead>
         <tbody class="table-group-divider">
@@ -375,132 +420,122 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           <tr>
             <td></td>
             <td><h6 class="text-primary">Parallel: Capacity building and network strategies: using astronomy to meet today’s natural challenges</h6></td>
-            <td><h6 class="text-primary">Parallel: </h6></td>
+            <td><h6 class="text-primary"></h6></td>
           </tr>
           <tr>
-            <td >09:00 - 09:30</td>
-            <td style="color: #3273DC">Vanessa Moss</td>
+            <td >09:00 - 09:20</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">Vanessa Moss</td>
             <td style="color: #3273DC"></td>
           </tr>
           <tr>
-            <td>09:30 - 09:45</td>
+            <td >09:20 - 09:40</td>
+            <!-- <td style="color: #3273DC">Vanessa Moss</td> -->
+            <td style="color: #3273DC"></td>
+          </tr>
+          <tr>
+            <td>09:40 - 10:00</td>
             <td>Chatief Kunjaya</td>
             <td></td>
           </tr>
           <tr>
-            <td>09:45 - 10:00</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>10:00 - 10:15</td>
-            <td colspan="2" class="text-center">Coffee break</td>
-            <!-- <td></td> -->
-          </tr>
-          <tr>
-            <td></td>
-            <td><h6 class="text-primary">Parallel: </h6></td>
-            <td><h6 class="text-primary">Parallel: </h6></td>
-          </tr>
-          <tr>
-            <td>10:15 - 10:30</td>
-            <td style="color: #3273DC">Koichiro Sugiyama</td>
+            <td>10:00 - 10:20</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">Koichiro Sugiyama</td>
             <td></td>
           </tr>
           <tr>
-            <td>10:30 - 10:45</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>10:45 - 11:00</td>
-            <td></td>
+            <td>10:20 - 10:40</td>
+            <!-- <td style="color: #3273DC">Koichiro Sugiyama</td> -->
             <td></td>
           </tr>
           <tr>
-            <td>11:00 - 11:15</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>11:15 - 11:30</td>
-            <td></td>
+            <td>10:40 - 11:00</td>
+            <td>Kiki Vierdayanti</td>
             <td></td>
           </tr>
           <tr>
-            <td>11:30 - 11:45</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>11:45 - 12:00</td>
-            <td></td>
+            <td>11:00 - 11:20</td>
+            <td>Luthfiandari</td>
             <td></td>
           </tr>
           <tr>
-            <td>12:00 - 13:30</td>
+            <td>11:20 - 11:40</td>
+            <td>Yatny Yulianty</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:40 - 13:00</td>
             <td colspan="2" class="text-center">Lunch break</td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: </h6></td>
             <td><h6 class="text-primary">Parallel: Using facilities, technologies, and data science in astronomy to study Earth system</h6></td>
+            <td><h6 class="text-primary"></h6></td>
           </tr>
           <tr>
-            <td>13:30 - 14:00</td>
+            <td>13:00 - 13:20</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">Sébastian Lambert</td>
             <td style="color: #3273DC"></td>
-            <td style="color: #3273DC">Sébastian Lambert</td>
           </tr>
           <tr>
-            <td>14:00 - 14:15</td>
-            <td></td>
+            <td>13:20 - 13:40</td>
+            <!-- <td style="color: #3273DC">Sébastian Lambert</td> -->
+            <td style="color: #3273DC"></td>
+          </tr>
+          <tr>
+            <td>13:40 - 14:00</td>
             <td>Ibnu N. Huda</td>
+            <td></td>
           </tr>
           <tr>
-            <td>14:15 - 14:30</td>
-            <td></td>
+            <td>14:00 - 14:20</td>
             <td>Yudhiakto Pramudya/Dhimas Prayoga Jullyantama A R.</td>
-          </tr>
-          <tr>
-            <td>14:30 - 14:45</td>
-            <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>14:45 - 15:00</td>
-            <td></td>
+            <td>14:20 - 14:40</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">René Breton</td>
             <td></td>
           </tr>
           <tr>
-            <td>15:00 - 15:30</td>
+            <td>14:40 - 15:00</td>
+            <!-- <td style="color: #3273DC">René Breton</td> -->
+            <td></td>
+          </tr>
+          <tr>
+            <td>15:00 - 15:20</td>
+            <td>Jessica S. Muthmaina</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>15:20 - 15:30</td>
             <td colspan="2" class="text-center">Coffee break</td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: </h6></td>
             <td><h6 class="text-primary">Parallel: Using facilities, technologies, and data science in astronomy to study Earth system</h6></td>
+            <td><h6 class="text-primary"></h6></td>
           </tr>
           <tr>
-            <td>15:30 - 16:00</td>
-            <td></td>
-            <td style="color: #3273DC">René Breton</td>
-          </tr>
-          <tr>
-            <td>16:00 - 16:15</td>
-            <td></td>
-            <td>Jessica S. Muthmaina</td>
-          </tr>
-          <tr>
-            <td>16:15 - 16:30</td>
-            <td></td>
+            <td>15:30 - 15:50</td>
+            <td>Akniz Salma</td>
             <td></td>
           </tr>
           <tr>
-            <td>16:30 - 17:00</td>
-            <td>Poster</td>
-            <td>Poster</td>
+            <td>15:50 - 16:10</td>
+            <td>Evan I. Akbar</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>16:10 - 16:30</td>
+            <td>NARIT</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>16:30 - 16:50</td>
+            <td>Sahlan Ramadhan</td>
+            <td></td>
           </tr>
         </tbody>
       </table>
@@ -511,12 +546,12 @@ This symposium will be conducted in hybrid platform (in-person and online partic
     <ul>
       <li>Astronomy in past and present culture: reviving astronomical local wisdoms for the care of Earth and humanity</li>
     </ul> -->
-      <table class="table table-striped">
+      <table class="table-sm table-bordered">
         <thead>
           <tr>
             <th class="col-2" scope="col">Time (UTC+7)</th>
-            <th class="col-5" scope="col">Room 1</th>
-            <th class="col-5" scope="col">Room 2</th>
+            <th class="col-5 text-center" scope="col">Room 1</th>
+            <th class="col-5 text-center" scope="col">Room 2</th>
           </tr>
         </thead>
         <tbody class="table-group-divider">
@@ -527,106 +562,51 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           <tr>
             <td></td>
             <td><h6 class="text-primary">Parallel: Astronomy in past and present culture: reviving astronomical local wisdoms for the care of Earth and humanity</h6></td>
-            <td><h6 class="text-primary">Parallel: Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</h6></td>
+            <td><h6 class="text-primary"></h6></td>
           </tr>
           <tr>
-            <td >09:00 - 09:30</td>
-            <td style="color: #3273DC">Brad Tucker</td>
+            <td >09:00 - 09:20</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">Brad Tucker</td>
             <td style="color: #3273DC"></td>
           </tr>
           <tr>
-            <td>09:30 - 09:45</td>
-            <td></td>
-            <td>Abu Y. Raisal</td>
+            <td >09:20 - 09:40</td>
+            <!-- <td style="color: #3273DC">Brad Tucker</td> -->
+            <td style="color: #3273DC"></td>
           </tr>
           <tr>
-            <td>09:45 - 10:00</td>
-            <td></td>
+            <td>09:40 - 10:00</td>
+            <td>Gustaff Iskandar</td>
             <td></td>
           </tr>
           <tr>
-            <td>10:00 - 10:15</td>
-            <td colspan="2" class="text-center">Coffee break</td>
-            <!-- <td></td> -->
-          </tr>
-          <tr>
-            <td></td>
-            <td><h6 class="text-primary">Parallel: Astronomy in past and present culture: reviving astronomical local wisdoms for the care of Earth and humanity</h6></td>
-            <td><h6 class="text-primary">Parallel: </h6></td>
-          </tr>
-          <tr>
-            <td>10:15 - 10:30</td>
+            <td>10:00 - 10:20</td>
             <td>Ivan Kumara</td>
             <td></td>
           </tr>
           <tr>
-            <td>10:30 - 10:45</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>10:45 - 11:00</td>
-            <td></td>
+            <td>10:20 - 10:40</td>
+            <td>NARIT</td>
             <td></td>
           </tr>
           <tr>
-            <td>11:00 - 11:15</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>11:15 - 11:30</td>
-            <td></td>
+            <td>10:40 - 11:00</td>
+            <td>Anna M. Raupach</td>
             <td></td>
           </tr>
           <tr>
-            <td>11:30 - 11:45</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>11:45 - 12:00</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>12:00 - 13:30</td>
+            <td>11:00 - 13:30</td>
             <td colspan="2" class="text-center">Lunch break</td>
             <!-- <td></td> -->
           </tr>
           <tr>
-            <td></td>
-            <td><h6 class="text-primary">Parallel: </h6></td>
-            <td><h6 class="text-primary">Parallel: </h6></td>
-          </tr>
-          <tr>
-            <td>13:30 - 14:00</td>
-            <td style="color: #3273DC"></td>
-            <td style="color: #3273DC"></td>
-          </tr>
-          <tr>
-            <td>14:00 - 14:15</td>
-            <td></td>
-            <td>Ibnu N. Huda</td>
-          </tr>
-          <tr>
-            <td>14:15 - 14:30</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>14:30 - 14:45</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>14:45 - 15:00</td>
-            <td></td>
-            <td></td>
+            <td>13:30 - 15:00</td>
+            <td>FGD</h6></td>
+            <td>FGD</h6></td>
           </tr>
           <tr>
             <td>15:00 - 15:30</td>
-            <td colspan="2" class="text-center">Coffee break</td>
+            <td colspan="2" class="text-center">Coffee break and FGD wrap up</td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -653,12 +633,28 @@ This symposium will be conducted in hybrid platform (in-person and online partic
     <ul>
       <li>Astronomy in past and present culture: reviving astronomical local wisdoms for the care of Earth and humanity</li>
     </ul> -->
+    <div>
+      <table class="table-sm table-bordered full-width-table">
+        <thead>
+          <tr>
+            <th class="col-2" scope="col">Time (UTC+7)</th>
+            <th class="col-10 text-center" scope="col"></th>
+            <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
+          </tr>
+        </thead>
+        <tbody class="table-group-divider">
+          <tr>
+            <td>09:00 - 14:00 </td>
+            <td class="text-center">Excursion to Bosscha Observatory</td>
+          </tr>
+        </tbody>  
+      </table>
     </div>
-    <div class="tab-pane fade" id="program-day-6" role="tabpanel" aria-labelledby="day-6-tab" tabindex="0">
+    <!-- <div class="tab-pane fade" id="program-day-6" role="tabpanel" aria-labelledby="day-6-tab" tabindex="0">
     <br>
     <br>
     <h4 class="text-primary"></h4>
-    </div>
+    </div> -->
   </div>
 <!-- </div> -->
 
