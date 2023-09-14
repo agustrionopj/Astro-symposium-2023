@@ -23,6 +23,10 @@ show_breadcrumb: true
       width: 100%;
       min-width: 100%;
   }
+
+  .shaded-row {
+      background-color: #f2f2f2; /* Specify the shading color */
+  }
 </style>
 
 This symposium will be conducted in hybrid platform (in-person and online participation).
@@ -76,7 +80,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           </tr>
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: The Sun and Space Weather</h6></td>
+            <td><h6 class="text-primary">Topic: The Sun and Space Weather</h6></td>
             <td></td>
           </tr>
           <tr>
@@ -116,7 +120,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           </tr>
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: Using the science of astronomy and astrophysics to understand the Earth system</h6></td>
+            <td><h6 class="text-primary">Topic: Using the science of astronomy and astrophysics to understand the Earth system</h6></td>
             <!-- <td><h6 class="text-primary">Parallel: Using the science of astronomy and astrophysics to understand the Earth system</h6></td> -->
           </tr>
           <tr>
@@ -151,7 +155,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           </tr>
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: Using the science of astronomy and astrophysics to understand the Earth system</h6></td>
+            <td><h6 class="text-primary">Topic: Using the science of astronomy and astrophysics to understand the Earth system</h6></td>
             <td></td>
           </tr>
           <tr>
@@ -250,7 +254,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           </tr> -->
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: <br><ul>
+            <td><h6 class="text-primary">Topics: <br><ul>
               <li>Citizen science programmes</li>
               <li>Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</li>
               </ul>
@@ -284,7 +288,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           </tr>
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: Citizen Science Programmes</h6></td>
+            <td><h6 class="text-primary">Topic: Citizen Science Programmes</h6></td>
             <td><h6 class="text-primary"></h6></td>
           </tr>
           <tr>
@@ -314,7 +318,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           </tr>
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: Multi- and Inter- Disciplinary</h6></td>
+            <td><h6 class="text-primary">Topics: Multi- and Inter- Disciplinary</h6></td>
             <td><h6 class="text-primary"></h6></td>
           </tr>
           <tr>
@@ -359,7 +363,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           </tr>
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: <br><ul>
+            <td><h6 class="text-primary">Topics: <br><ul>
               <li>Citizen science programmes</li>
               <li>Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</li>
               </ul></h6></td>
@@ -419,7 +423,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           </tr> -->
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: Capacity building and network strategies: using astronomy to meet today’s natural challenges</h6></td>
+            <td><h6 class="text-primary">Topic: Capacity building and network strategies: using astronomy to meet today’s natural challenges</h6></td>
             <td><h6 class="text-primary"></h6></td>
           </tr>
           <tr>
@@ -469,7 +473,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           </tr>
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: Using facilities, technologies, and data science in astronomy to study Earth system</h6></td>
+            <td><h6 class="text-primary">Topic: Using facilities, technologies, and data science in astronomy to study Earth system</h6></td>
             <td><h6 class="text-primary"></h6></td>
           </tr>
           <tr>
@@ -514,7 +518,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           </tr>
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: Using facilities, technologies, and data science in astronomy to study Earth system</h6></td>
+            <td><h6 class="text-primary">Topic: Using facilities, technologies, and data science in astronomy to study Earth system</h6></td>
             <td><h6 class="text-primary"></h6></td>
           </tr>
           <tr>
@@ -561,7 +565,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           </tr> -->
           <tr>
             <td></td>
-            <td><h6 class="text-primary">Parallel: Astronomy in past and present culture: reviving astronomical local wisdoms for the care of Earth and humanity</h6></td>
+            <td><h6 class="text-primary">Topic: Astronomy in past and present culture: reviving astronomical local wisdoms for the care of Earth and humanity</h6></td>
             <td><h6 class="text-primary"></h6></td>
           </tr>
           <tr>
