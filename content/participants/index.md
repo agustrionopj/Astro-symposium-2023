@@ -239,24 +239,30 @@ show_breadcrumb: true
     </tr>
     <tr>
       <th scope="row">38</th>
+      <td>Yudi</td>
+      <td>Soeharyadi</td>
+      <td>Institut Teknologi Bandung</td>
+    </tr>
+    <tr>
+      <th scope="row">39</th>
       <td>Kiki</td>
       <td>Vierdayanti</td>
       <td>Institut Teknologi Bandung</td>
     </tr>
     <tr>
-      <th scope="row">39</th>
+      <th scope="row">40</th>
       <td>Ferry</td>
       <td>Yap</td>
       <td>Institut Teknologi Bandung</td>
     </tr>
     <tr>
-      <th scope="row">40</th>
+      <th scope="row">41</th>
       <td>Yatny</td>
       <td>Yulianty</td>
       <td>Bosscha Observatory</td>
     </tr>
     <tr>
-      <th scope="row">41</th>
+      <th scope="row">42</th>
       <td>Dwi Y.</td>
       <td>Yuna</td>
       <td>misiluarangkasa.id</td>
