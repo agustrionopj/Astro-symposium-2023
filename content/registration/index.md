@@ -105,6 +105,7 @@ projects: []
         <li>Virtual Account (VA) Number: <b>7020902021000123</b></li>
         <li>Name: <b>ITB - Premana W. Premadi</b></li>
         <li>Description: <b>Konferensi Ilmiah Internasional Batch II: From the Universe Back to Earth</b></li>
+        <li>Bank Address: <b>Jl. Tamansari no. 80 Bandung 40132, West Java, Indonesia</b></li>
       </ul>
     </div>
 </div>

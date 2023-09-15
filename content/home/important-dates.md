@@ -10,7 +10,7 @@ design:
 css_style: 
 ---
 <h1 style="text-align: center; margin-bottom: 3rem;">Important Dates</h1>
-<h3 style="text-align: center; margin-bottom: 1rem;">Countdown to late registration payment deadline</h3>
+<h3 style="text-align: center; margin-bottom: 1rem;">Countdown to late registration deadline</h3>
 <div class="row justify-content-center">
         <div id="countdown">
                 <div class="countdown-item">
@@ -90,7 +90,7 @@ css_style:
                                         <!-- <p class="card-title" style="font-size: 0.95rem;"> -->
                                         <ul>
                                                 <li>Symposium programme finalised</li>
-                                                <li>Deadline for late registration fee payment
+                                                <li>Deadline for late registration
                                         </ul>
                                         </p>
                                 </div>
