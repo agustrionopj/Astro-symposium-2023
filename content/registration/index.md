@@ -35,6 +35,10 @@ projects: []
   }
 </style>
 
+<div class="alert alert-danger" role="alert">
+  Registration is no longer available
+</div>
+
 <body>
 <div class="container" style="margin-bottom:3rem;">
   <div class="row d-flex justify-content-center">
@@ -110,9 +114,9 @@ projects: []
     </div>
 </div>
 <br>
-<div class="container">
+<!-- <div class="container">
   <iframe src="https://script.google.com/macros/s/AKfycbz4P8Itknx7AsJK3SM6ClwDJgwBlWm47OMv63iXXPkeFjoa9U2ZBqqA4hhr3WXRYw8M/exec" frameborder="0" width="100%" id="iframe_1" scrolling="no"></iframe>
-</div>
+</div> -->
 
 <div class="container">
   <div class="alert alert-info">

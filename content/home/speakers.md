@@ -126,7 +126,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>Observatoire de Paris, CNRS, France</p>
                                 </div>
-                                <h6>"The Study of Geodynamics Using VLBI and GAIA"</h6>
+                                <h6>"How multiwavelength realizations of celestial reference frames by VLBI and Gaia can unveil emission mechanisms in AGN"</h6>
                         </div>
                 </div>
         </div>
