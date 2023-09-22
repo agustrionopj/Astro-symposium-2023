@@ -21,7 +21,7 @@ css_style:
   </div>
   <div class="row">
     <div class="col text-center">
-      <h3>Campus of Institut Teknologi Bandung</h3>
+      <h3>CRCS Building 2<sup>nd</sup> Floor, Institut Teknologi Bandung</h3>
       <p style="font-size:0.85rem">Jl. Ganesha 10 Bandung, West Java, Indonesia
       </p>
       <!-- <h3>Institut Teknologi Bandung, CRCS Building, 2<sup>nd</sup> and 3<sup>rd</sup> floor</h3>

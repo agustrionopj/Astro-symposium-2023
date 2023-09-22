@@ -81,7 +81,7 @@ Developing Astronomy <br> to Meet Today's Natural Challenges
         </div>
         <div class="col-md-9">
           <p style="font-size: 1rem;">
-            INSTITUT TEKNOLOGI BANDUNG <br> INDONESIA <br> 2 - 7 OCTOBER 2023
+            INSTITUT TEKNOLOGI BANDUNG <br> INDONESIA <br> 2 - 6 OCTOBER 2023
           </p>
         </div>
       <!-- </div> -->
