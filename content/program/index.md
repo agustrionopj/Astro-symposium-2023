@@ -65,11 +65,11 @@ This symposium will be conducted in hybrid platform (in-person and online partic
       <li>Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</li>
       <li>Citizen science programmes</li>
     </ul> -->
-    <table class="table-sm table-bordered text-center">
+    <table class="table table-sm table-bordered text-center">
         <thead>
           <tr>
-            <th class="col-2" scope="col">Time (UTC+7)</th>
-            <th class="col-10 text-center" scope="col">Room 1</th>
+            <th scope="col">Time (UTC+7)</th>
+            <th class="text-center" scope="col">Room 1</th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>
         </thead>
@@ -253,11 +253,11 @@ This symposium will be conducted in hybrid platform (in-person and online partic
       <li>Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</li>
       <li>Citizen science programmes</li>
     </ul> -->
-      <table class="table-sm table-bordered text-center">
+      <table class="table table-sm table-bordered text-center">
         <thead>
           <tr>
-            <th class="col-2" scope="col">Time (UTC+7)</th>
-            <th class="col-10 text-center" scope="col">Room 1</th>
+            <th scope="col">Time (UTC+7)</th>
+            <th class="text-center" scope="col">Room 1</th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>
         </thead>
@@ -430,11 +430,11 @@ This symposium will be conducted in hybrid platform (in-person and online partic
       <li>Science Technology Engineering Arts and Mathematics (STEAM) Education of the Earth system: material, delivery strategy for young generation</li>
       <li>Citizen science programmes</li>
     </ul> -->
-      <table class="table-sm table-bordered text-center">
+      <table class="table table-sm table-bordered text-center">
         <thead>
           <tr>
-            <th class="col-2" scope="col">Time (UTC+7)</th>
-            <th class="col-10 text-center" scope="col">Room 1</th>
+            <th scope="col">Time (UTC+7)</th>
+            <th class="text-center" scope="col">Room 1</th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>
         </thead>
@@ -587,11 +587,11 @@ This symposium will be conducted in hybrid platform (in-person and online partic
     <ul>
       <li>Astronomy in past and present culture: reviving astronomical local wisdoms for the care of Earth and humanity</li>
     </ul> -->
-      <table class="table-sm table-bordered text-center">
+      <table class="table table-sm table-bordered text-center">
         <thead>
           <tr>
-            <th class="col-2" scope="col">Time (UTC+7)</th>
-            <th class="col-10 text-center" scope="col">Room 1</th>
+            <th scope="col">Time (UTC+7)</th>
+            <th class="text-center" scope="col">Room 1</th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>
         </thead>
@@ -685,11 +685,11 @@ This symposium will be conducted in hybrid platform (in-person and online partic
       <li>Astronomy in past and present culture: reviving astronomical local wisdoms for the care of Earth and humanity</li>
     </ul> -->
     <div>
-      <table class="table-sm table-bordered full-width-table text-center">
+      <table class="table table-sm table-bordered text-center">
         <thead>
           <tr>
-            <th class="col-2" scope="col">Time (UTC+7)</th>
-            <th class="col-10 text-center" scope="col"></th>
+            <th scope="col">Time (UTC+7)</th>
+            <th class="text-center" scope="col"></th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>
         </thead>
