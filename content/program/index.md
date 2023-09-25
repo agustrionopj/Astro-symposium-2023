@@ -69,7 +69,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
         <thead>
           <tr>
             <th class="col-2" scope="col">Time (UTC+7)</th>
-            <th class="col-5 text-center" scope="col">Room 1</th>
+            <th class="col-10 text-center" scope="col">Room 1</th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>
         </thead>
@@ -257,7 +257,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
         <thead>
           <tr>
             <th class="col-2" scope="col">Time (UTC+7)</th>
-            <th class="col-5 text-center" scope="col">Room 1</th>
+            <th class="col-10 text-center" scope="col">Room 1</th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>
         </thead>
@@ -434,7 +434,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
         <thead>
           <tr>
             <th class="col-2" scope="col">Time (UTC+7)</th>
-            <th class="col-5 text-center" scope="col">Room 1</th>
+            <th class="col-10 text-center" scope="col">Room 1</th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>
         </thead>
@@ -591,7 +591,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
         <thead>
           <tr>
             <th class="col-2" scope="col">Time (UTC+7)</th>
-            <th class="col-5 text-center" scope="col">Room 1</th>
+            <th class="col-10 text-center" scope="col">Room 1</th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>
         </thead>
@@ -689,7 +689,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
         <thead>
           <tr>
             <th class="col-2" scope="col">Time (UTC+7)</th>
-            <th class="col-5 text-center" scope="col"></th>
+            <th class="col-10 text-center" scope="col"></th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>
         </thead>
