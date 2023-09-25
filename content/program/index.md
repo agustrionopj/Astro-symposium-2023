@@ -25,13 +25,23 @@ draft: false
       min-width: 100%;
   }
 
+  .lebar-kolom {
+      width: 12rem;
+  }
+
   .shaded-row {
       background-color: #f2f2f2; /* Specify the shading color */
   }
 </style>
 
-This symposium will be conducted in hybrid platform (in-person and online participation).
-
+- This symposium will be conducted in hybrid platform (in-person and online participation).
+- Allotted time for presenters:
+  - Invited talks: **40 minutes**
+  - Contributed talks: **20 minutes**
+  - Poster presenters: **2 minutes**
+- For all presenters, please copy your presentation materials (e.g. PowerPoint presentation, Keynote presentation, digital posters, etc.) to <a href="https://drive.google.com/drive/folders/1Vx6saJUPABDP_ncWbYSOMeZLRNvdront?usp=share_link" target="_blank">this folder</a>.
+- For poster presenters, please ensure that your poster is in <b>A0 size (841 x 1190 mm)</b>. 
+- Please let us know if there are any specific needs to make your presentations run smoothly (e.g. play video with high resolution, link to certain website, etc.)
 <!-- <div class="container"> -->
   <ul class="nav nav-tabs justify-content-around mb-3" id="program-tab" role="tablist">
     <li class="nav-item" role="presentation">
@@ -68,7 +78,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
     <table class="table table-sm table-bordered text-center">
         <thead>
           <tr>
-            <th scope="col">Time (UTC+7)</th>
+            <th class="lebar-kolom" scope="col">Time (UTC+7)</th>
             <th class="text-center" scope="col">Room 1</th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>
@@ -256,7 +266,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
       <table class="table table-sm table-bordered text-center">
         <thead>
           <tr>
-            <th scope="col">Time (UTC+7)</th>
+            <th class="lebar-kolom"scope="col">Time (UTC+7)</th>
             <th class="text-center" scope="col">Room 1</th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>
@@ -433,7 +443,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
       <table class="table table-sm table-bordered text-center">
         <thead>
           <tr>
-            <th scope="col">Time (UTC+7)</th>
+            <th scope="col" class="lebar-kolom">Time (UTC+7)</th>
             <th class="text-center" scope="col">Room 1</th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>
@@ -565,7 +575,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
           </tr>
           <tr>
             <td>16:10 - 16:30</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle">NARIT Thailand</td>
+            <td rowspan="2" style="color: #3273DC" class="align-middle">Koichiro Sugiyama</td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -590,7 +600,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
       <table class="table table-sm table-bordered text-center">
         <thead>
           <tr>
-            <th scope="col">Time (UTC+7)</th>
+            <th scope="col" class="lebar-kolom">Time (UTC+7)</th>
             <th class="text-center" scope="col">Room 1</th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>
@@ -625,23 +635,20 @@ This symposium will be conducted in hybrid platform (in-person and online partic
             <td>Ivan Kumara Azhar</td>
             <!-- <td></td> -->
           </tr>
-          <tr>
+          <!-- <tr>
             <td>10:20 - 10:40</td>
             <td rowspan="2" style="color: #3273DC" class="align-middle">Koichiro Sugiyama</td>
-            <!-- <td></td> -->
-          </tr>
-          <tr>
+          </tr> -->
+          <!-- <tr>
             <td>10:40 - 11:00</td>
-            <!-- <td>Koichiro Sugiyama</td> -->
-            <!-- <td></td> -->
-          </tr>
+          </tr> -->
           <tr>
-            <td>11:00 - 11:20</td>
+            <td>10:20 - 10:40</td>
             <td>Yudi Soeharyadi</td>
             <!-- <td></td> -->
           </tr>
           <tr>
-            <td>11:20 - 13:30</td>
+            <td>10:40 - 13:30</td>
             <td class="text-center"><b>Lunch break</b></td>
             <!-- <td colspan="2" class="text-center">Lunch break</td> -->
             <!-- <td></td> -->
@@ -688,7 +695,7 @@ This symposium will be conducted in hybrid platform (in-person and online partic
       <table class="table table-sm table-bordered text-center">
         <thead>
           <tr>
-            <th scope="col">Time (UTC+7)</th>
+            <th scope="col" class="lebar-kolom">Time (UTC+7)</th>
             <th class="text-center" scope="col"></th>
             <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
           </tr>

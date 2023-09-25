@@ -25,9 +25,9 @@ design:
   <p style="font-size: 0.85rem; margin-bottom:1rem;width=100%">
     <b>Deadline for paper submission is Monday, 30th of October 2023, 16:59 UTC</b>.
   </p>
-  <p style="font-size: 0.85rem; margin-bottom:1rem;width=100%">
+  <!-- <p style="font-size: 0.85rem; margin-bottom:1rem;width=100%">
     For individual who present as a poster presenter, please ensure that your poster is in <b>A0 size (841 x 1190 mm).</b>
-  </p>
+  </p> -->
   <div class="row justify-content-center">
     <div class="col-12 col-md-8 d-flex justify-content-center">
       <table class="table table-sm table-borderless" style="margin-bottom:3rem;">
