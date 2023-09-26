@@ -140,6 +140,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>Division of Astronomy and Space Science, CSIRO, Australia</p>
                                 </div>
+                                <h6>"Going beyond the 'old normal' for a sustainable future in science"</h6>
                         </div>
                 </div>
         </div>

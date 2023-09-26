@@ -26,7 +26,7 @@ draft: false
   }
 
   .lebar-kolom {
-      width: 12rem;
+      width: 10rem;
   }
 
   .shaded-row {
@@ -102,31 +102,29 @@ draft: false
             <!-- <td></td> -->
           </tr>
           <tr>
-            <td >09:00 - 09:20</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle text-center">Nandita Srivastava</td>
+            <td >09:00 - 09:40</td>
+            <td style="color: #3273DC" class="align-middle text-center">Nandita Srivastava</td>
+            <!-- <td rowspan="2" style="color: #3273DC" class="align-middle text-center">Nandita Srivastava</td> -->
             <!-- <td></td> -->
           </tr>
-          <tr>
+          <!-- <tr>
             <td >09:20 - 09:40</td>
-            <!-- <td style="color: #3273DC"></td> -->
-            <!-- <td></td> -->
-          </tr>
-          <tr>
+            </tr>
+          <tr> -->
             <td>09:40 - 10:00</td>
             <td class="text-center">Annisa N. I. Putri</td>
             <!-- <td></td> -->
           </tr>
           <tr>
-            <td>10:00 - 10:20</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle text-center">Dhani Herdiwijaya</td>
+            <td>10:00 - 10:40</td>
+            <td style="color: #3273DC" class="align-middle text-center">Dhani Herdiwijaya</td>
+            <!-- <td rowspan="2" style="color: #3273DC" class="align-middle text-center">Dhani Herdiwijaya</td> -->
             <!-- <td></td> -->
           </tr>
-          <tr>
+          <!-- <tr>
             <td>10:20 - 10:40</td>
-            <!-- <td style="color: #3273DC"></td> -->
-            <!-- <td></td> -->
-          </tr>
-          <tr>
+            </tr>
+          <tr> -->
             <td>10:40 - 10:50</td>
             <td class="text-center">Muhammad Yusuf</td>
             <!-- <td></td> -->
@@ -149,7 +147,7 @@ draft: false
           </tr>
           <tr>
             <td>11:20 - 11:40</td>
-            <td>Thomas Djamaluddin</td>
+            <td>Ferry Yap</td>
             <!-- <td></td>. -->
           </tr>
           <tr>
@@ -179,18 +177,17 @@ draft: false
             <!-- <td></td> -->
           </tr>
           <tr>
-            <td>13:30 - 13:50</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle">Ya-Wen Tang</td>
+            <td>13:30 - 14:10</td>
+            <td style="color: #3273DC" class="align-middle">Ya-Wen Tang</td>
+            <!-- <td rowspan="2" style="color: #3273DC" class="align-middle">Ya-Wen Tang</td> -->
             <!-- <td></td> -->
           </tr>
-          <tr>
+          <!-- <tr>
             <td>13:50 - 14:10</td>
-            <!-- <td style="color: #3273DC">Ya-Wen Tang</td>. -->
-            <!-- <td></td> -->
-          </tr>
-          <tr>
+            </tr>
+          <tr> -->
             <td>14:10 - 14:30</td>
-            <td>Ferry Yap</td>
+            <td>Thomas Djamaluddin</td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -204,15 +201,14 @@ draft: false
             <!-- <td></td> -->
           </tr>
           <tr>
-            <td>15:10 - 15:30</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle">Jane Greaves</td>
+            <td>15:10 - 15:50</td>
+            <td style="color: #3273DC" class="align-middle">Jane Greaves</td>
+            <!-- <td rowspan="2" style="color: #3273DC" class="align-middle">Jane Greaves</td> -->
             <!-- <td></td> -->
           </tr>
-          <tr>
+          <!-- <tr>
             <td>15:30 - 15:50</td>
-            <!-- <td style="color: #3273DC">Jane Greaves</td> -->
-            <!-- <td></td> -->
-          </tr>
+          </tr> -->
           <tr>
             <td>15:50 - 16:10</td>
             <td>Teduh Perhati</td>
@@ -286,13 +282,8 @@ draft: false
             <!-- <td><h6 class="text-primary"></h6></td> -->
           </tr>
           <tr>
-            <td >09:00 - 09:20</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle">Laura Trouille</td>
-            <!-- <td style="color: #3273DC"></td> -->
-          </tr>
-          <tr>
-            <td >09:20 - 09:40</td>
-            <!-- <td style="color: #3273DC">Laura Trouille</td> -->
+            <td >09:00 - 09:40</td>
+            <td style="color: #3273DC" class="align-middle">Laura Trouille</td>
             <!-- <td style="color: #3273DC"></td> -->
           </tr>
           <tr>
@@ -353,33 +344,18 @@ draft: false
             <!-- <td><h6 class="text-primary"></h6></td> -->
           </tr>
           <tr>
-            <td>13:00 - 13:20</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle">Areg Mickaelian</td>
+            <td>13:00 - 13:40</td>
+            <td style="color: #3273DC" class="align-middle">Areg Mickaelian</td>
             <!-- <td style="color: #3273DC"></td> -->
           </tr>
           <tr>
-            <td>13:20 - 13:40</td>
-            <!-- <td style="color: #3273DC">Areg Mickaelian</td> -->
-            <!-- <td style="color: #3273DC"></td> -->
-          </tr>
-          <tr>
-            <td>13:40 - 14:00</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle">George Miley</td>
+            <td>13:40 - 14:20</td>
+            <td style="color: #3273DC" class="align-middle">George Miley</td>
             <!-- <td></td> -->
           </tr>
           <tr>
-            <td>14:00 - 14:20</td>
-            <!-- <td style="color: #3273DC">George Miley</td> -->
-            <!-- <td></td> -->
-          </tr>
-          <tr>
-            <td>14:20 - 14:40</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle">Masahiro Takada</td>
-            <!-- <td></td> -->
-          </tr>
-          <tr>
-            <td>14:40 - 15:00</td>
-            <!-- <td style="color: #3273DC">Masahiro Takada</td> -->
+            <td>14:20 - 15:00</td>
+            <td style="color: #3273DC" class="align-middle">Masahiro Takada</td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -402,13 +378,8 @@ draft: false
             <!-- <td><h6 class="text-primary"></h6></td> -->
           </tr>
           <tr>
-            <td>15:30 - 15:50</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle">Cecilia Scorza</td>
-            <!-- <td></td> -->
-          </tr>
-          <tr>
-            <td>15:50 - 16:10</td>
-            <!-- <td style="color: #3273DC">Cecilia Scorza</td> -->
+            <td>15:30 - 16:10</td>
+            <td style="color: #3273DC" class="align-middle">Cecilia Scorza</td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -459,13 +430,8 @@ draft: false
             <!-- <td><h6 class="text-primary"></h6></td> -->
           </tr>
           <tr>
-            <td >09:00 - 09:20</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle">Vanessa Moss</td>
-            <!-- <td style="color: #3273DC"></td> -->
-          </tr>
-          <tr>
-            <td >09:20 - 09:40</td>
-            <!-- <td style="color: #3273DC">Vanessa Moss</td> -->
+            <td >09:00 - 09:40</td>
+            <td style="color: #3273DC" class="align-middle">Vanessa Moss</td>
             <!-- <td style="color: #3273DC"></td> -->
           </tr>
           <tr>
@@ -518,13 +484,8 @@ draft: false
             <!-- <td><h6 class="text-primary"></h6></td> -->
           </tr>
           <tr>
-            <td>13:00 - 13:20</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle">Sébastian Lambert</td>
-            <!-- <td style="color: #3273DC"></td> -->
-          </tr>
-          <tr>
-            <td>13:20 - 13:40</td>
-            <!-- <td style="color: #3273DC">Sébastian Lambert</td> -->
+            <td>13:00 - 13:40</td>
+            <td style="color: #3273DC" class="align-middle">Sébastian Lambert</td>
             <!-- <td style="color: #3273DC"></td> -->
           </tr>
           <tr>
@@ -538,13 +499,8 @@ draft: false
             <!-- <td></td> -->
           </tr>
           <tr>
-            <td>14:20 - 14:40</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle">René Breton</td>
-            <!-- <td></td> -->
-          </tr>
-          <tr>
-            <td>14:40 - 15:00</td>
-            <!-- <td style="color: #3273DC">René Breton</td> -->
+            <td>14:20 - 15:00</td>
+            <td style="color: #3273DC" class="align-middle">René Breton</td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -574,13 +530,8 @@ draft: false
             <!-- <td></td> -->
           </tr>
           <tr>
-            <td>16:10 - 16:30</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle">Koichiro Sugiyama</td>
-            <!-- <td></td> -->
-          </tr>
-          <tr>
-            <td>16:30 - 16:50</td>
-            <!-- <td></td> -->
+            <td>16:10 - 16:50</td>
+            <td style="color: #3273DC" class="align-middle">Koichiro Sugiyama</td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -616,13 +567,8 @@ draft: false
             <!-- <td><h6 class="text-primary"></h6></td> -->
           </tr>
           <tr>
-            <td >09:00 - 09:20</td>
-            <td rowspan="2" style="color: #3273DC" class="align-middle">Brad Tucker</td>
-            <!-- <td style="color: #3273DC"></td> -->
-          </tr>
-          <tr>
-            <td >09:20 - 09:40</td>
-            <!-- <td style="color: #3273DC">Brad Tucker</td> -->
+            <td >09:00 - 09:40</td>
+            <td style="color: #3273DC" class="align-middle">Brad Tucker</td>
             <!-- <td style="color: #3273DC"></td> -->
           </tr>
           <tr>
@@ -703,7 +649,7 @@ draft: false
         <tbody class="table-group-divider">
           <tr>
             <td>07:00 - 13:00 </td>
-            <td class="text-center">Excursion to Bosscha Observatory</td>
+            <td class="text-center"><b>Excursion to Bosscha Observatory</b></td>
           </tr>
         </tbody>  
       </table>

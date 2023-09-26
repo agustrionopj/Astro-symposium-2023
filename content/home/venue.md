@@ -13,7 +13,7 @@ css_style:
   <h1 style="text-align: center; margin-bottom: 3.6rem;">Venue</h1>
   <div class="row align-items-center">
     <div class="col-md-12 p-2">
-      <img class="rounded" src="media/itb.jpg" height="100%">
+      <img class="rounded img-fluid mx-auto d-block" src="media/CRCS.jpg" width="50%">
     </div>
     <!-- <div class="col-md-6 p-2">
       <img class="rounded" src="media/itb2.jpg" height=5rem>
