@@ -672,11 +672,11 @@ src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.j
 
 // Define specific dates for each program (YYYY-MM-DD format)
 var programDates = [
-    '2023-09-27', // Program 1
-    '2023-09-28', // Program 2
-    '2023-09-29', // Program 3
-    '2023-09-30', // Program 4
-    '2023-10-01'  // Program 5
+    'Sep 27, 2023', // Program 1
+    'Sep 28, 2023', // Program 2
+    'Sep 29, 2023', // Program 3
+    'Sep 30, 2023', // Program 4
+    'Oct 01, 2023'  // Program 5
 ];
 
 // Get the current date
