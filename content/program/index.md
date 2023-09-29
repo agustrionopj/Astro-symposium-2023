@@ -671,28 +671,29 @@ draft: false
 src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous">
 
 // Define specific dates for each program (YYYY-MM-DD format)
-var programDates = [
-    'Sep 27, 2023', // Program 1
-    'Sep 28, 2023', // Program 2
-    'Sep 29, 2023', // Program 3
-    'Sep 30, 2023', // Program 4
-    'Oct 01, 2023'  // Program 5
-];
+// var programDates = [
+//     'Sep 27, 2023', // Program 1
+//     'Sep 28, 2023', // Program 2
+//     'Sep 29, 2023', // Program 3
+//     'Sep 30, 2023', // Program 4
+//     'Oct 01, 2023'  // Program 5
+// ];
 
 // Get the current date
-var currentDate = new Date().toISOString().split('T')[0]; // Format: YYYY-MM-DD
+// var currentDate = new Date().toISOString().split('T')[0]; // Format: YYYY-MM-DD
 
 // Iterate through each program and show/hide tabs based on dates
-for (var i = 0; i < programDates.length; i++) {
-    if (currentDate >= programDates[i]) {
-        $("#program-day-" + (i + 1)).show();
-    } else {
-        // Stop showing tabs for future programs
-        break;
-    }
-}
+// for (var i = 0; i < programDates.length; i++) {
+//     if (currentDate >= programDates[i]) {
+//         $("#program-day-" + (i + 1)).show();
+//     } else {
+//         // Stop showing tabs for future programs
+//         break;
+//     }
+// }
 
 // Activate the first visible tab
-$(".nav-link:visible:first").tab("show");
+// $(".nav-link:visible:first").tab("show");
+
 </script>
 
