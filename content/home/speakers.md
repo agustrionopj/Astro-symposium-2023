@@ -38,7 +38,7 @@ css_style:
                                 <div class="custom-card-footer bg-white mb-4">
                                         <p>Department of Physics, University of Oxford, UK</p>
                                 </div>
-                                <h6 class="card-subtitle">"Understanding Uncertainties and How To Accommodate It in Modern Living"</h6>
+                                <h6 class="card-subtitle">"Geometry of Chaos - The Primacy of Doubt"</h6>
                         </div>
                 </div>
         </div>

@@ -329,7 +329,7 @@ draft: false
           </tr>
           <tr>
             <td>11:50 - 12:10</td>
-            <td>Gustaff Iskandar</td>
+            <td>Yudi Soeharyadi</td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -590,11 +590,16 @@ draft: false
           </tr> -->
           <tr>
             <td>10:20 - 10:40</td>
-            <td>Yudi Soeharyadi</td>
+            <td>Aprilia</td>
             <!-- <td></td> -->
           </tr>
           <tr>
-            <td>10:40 - 13:30</td>
+            <td>10:40 - 11:00</td>
+            <td></td>
+            <!-- <td></td> -->
+          </tr>
+          <tr>
+            <td>11:00 - 13:30</td>
             <td class="text-center"><b>Lunch break</b></td>
             <!-- <td colspan="2" class="text-center">Lunch break</td> -->
             <!-- <td></td> -->

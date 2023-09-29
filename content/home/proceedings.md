@@ -48,6 +48,11 @@ design:
           <td>Indonesia</td>
         </tr>
         <tr>
+          <td>Lucky Puspitarini</td>
+          <td>Institut Teknologi Bandung</td>
+          <td>Indonesia</td>
+        </tr>
+        <tr>
           <td>Anna Scaife</td>
           <td>Manchester University</td>
           <td>United Kingdom</td>
