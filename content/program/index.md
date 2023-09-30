@@ -103,7 +103,7 @@ draft: false
           </tr>
           <tr>
             <td >09:00 - 09:40</td>
-            <td style="color: #3273DC" class="align-middle text-center">Nandita Srivastava</td>
+            <td style="color: #3273DC" class="align-middle text-center">Dhani Herdiwijaya</td>
             <!-- <td rowspan="2" style="color: #3273DC" class="align-middle text-center">Nandita Srivastava</td> -->
             <!-- <td></td> -->
           </tr>
@@ -117,7 +117,7 @@ draft: false
           </tr>
           <tr>
             <td>10:00 - 10:40</td>
-            <td style="color: #3273DC" class="align-middle text-center">Dhani Herdiwijaya</td>
+            <td style="color: #3273DC" class="align-middle text-center">Nandita Srivastava</td>
             <!-- <td rowspan="2" style="color: #3273DC" class="align-middle text-center">Dhani Herdiwijaya</td> -->
             <!-- <td></td> -->
           </tr>
