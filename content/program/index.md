@@ -26,7 +26,7 @@ draft: false
   }
 
   .lebar-kolom {
-      width: 10rem;
+      width: 8rem;
   }
 
   .shaded-row {
@@ -80,21 +80,17 @@ draft: false
           <tr>
             <th class="lebar-kolom" scope="col">Time (UTC+7)</th>
             <th class="text-center" scope="col">Room 1</th>
-            <!-- <th class="col-5 text-center" scope="col">Room 2</th> -->
+            <!-- <th class="text-center" scope="col">Title of Presentation</th> -->
           </tr>
         </thead>
         <tbody class="table-group-divider">
           <tr>
             <td>08:00 - 08:50</td>
             <td class="text-center"><b>Registration</b></td>
-            <!-- <td colspan="2" class="text-center">Registration</td> -->
-            <!-- <td></td> -->
           </tr>
           <tr>
             <td>08:50 - 09:00</td>
             <td class="text-center"><b>Brief Opening</b></td>
-            <!-- <td colspan="2" class="text-center">Registration</td> -->
-            <!-- <td></td> -->
           </tr>
           <tr>
             <td></td>
@@ -103,7 +99,7 @@ draft: false
           </tr>
           <tr>
             <td >09:00 - 09:40</td>
-            <td style="color: #3273DC" class="align-middle text-center">Dhani Herdiwijaya</td>
+            <td style="color: #3273DC" class="align-middle text-center">Dhani Herdiwijaya <br> <i>"Identifying Solar Flare Precursors Using SHARP Parameters in Relation to The Space Weather Forecasting"</i></td>
             <!-- <td rowspan="2" style="color: #3273DC" class="align-middle text-center">Nandita Srivastava</td> -->
             <!-- <td></td> -->
           </tr>
@@ -112,7 +108,7 @@ draft: false
             </tr>
           <tr> -->
             <td>09:40 - 10:00</td>
-            <td class="text-center">Annisa N. I. Putri</td>
+            <td class="text-center">Annisa N. I. Putri <br><i>"Correlation Cosmic Ray Intensity Based on Variation Solar Activity and Interplanetary Plasma Parameter using Principal Component Analysis (PCA)</i>"</td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -142,27 +138,27 @@ draft: false
           </tr>
           <tr>
             <td>11:00 - 11:20</td>
-            <td>Habban R. S. Haz</td>
+            <td>Habban R. S. Haz <br> <i>"Model of Close Orbit Dynamics Around Asteroid (338) Budrosa"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>11:20 - 11:40</td>
-            <td>Ferry Yap</td>
+            <td>Ferry Yap <br> <i>"Atmospheric Extinction Coefficients and Night Sky Brightness At ITB-Undana Remote Telescope Site"</i>  </td>
             <!-- <td></td>. -->
           </tr>
           <tr>
             <td>11:40 - 12:00</td>
-            <td>Dhimaz G. Ramadhan</td>
+            <td>Dhimaz G. Ramadhan <br> <i>"Membership Probability Study in NGC 6134 using HDBSCAN Clustering Algorithm"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>12:00 - 12:20</td>
-            <td>Amatul F. N. Cahyaningtyas</td>
+            <td>Amatul F. N. Cahyaningtyas <br> <i>"Initial Efforts in Constructing the New Open Cluster Catalogue Using Gaia DR3 Data"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>12:20 - 12:40</td>
-            <td>Arya M. Nugraha</td>
+            <td>Arya M. Nugraha <br> <i>"Stability Analysis of Modified Circular Three Body Problem by Lyapunov Exponents Indicators"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -178,7 +174,7 @@ draft: false
           </tr>
           <tr>
             <td>13:30 - 14:10</td>
-            <td style="color: #3273DC" class="align-middle">Ya-Wen Tang</td>
+            <td style="color: #3273DC" class="align-middle">Ya-Wen Tang <br> <i>"The Study of Circumstellar Disk and Planetary System Formation"</i> </td>
             <!-- <td rowspan="2" style="color: #3273DC" class="align-middle">Ya-Wen Tang</td> -->
             <!-- <td></td> -->
           </tr>
@@ -187,22 +183,22 @@ draft: false
             </tr>
           <tr> -->
             <td>14:10 - 14:30</td>
-            <td>Thomas Djamaluddin</td>
+            <td>Thomas Djamaluddin <br> <i>"Differences in Maximum Tide Responses of the North Coast and the South Coast of Java on the Effects of the Position of the Moon and the Sun"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>14:30 - 14:50</td>
-            <td>Gamma Rosyidin</td>
+            <td>Gamma Rosyidin <br> <i>"Spacecraft Trajectory Design Towards Saturn Using Direct Path"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>14:50 - 15:10</td>
-            <td>Fathia R. Izzati</td>
+            <td>Fathia R. Izzati <br> <i>"Search for Complex Organic Molecules (COM) in G354.61+0.47 from ALMA Observations"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>15:10 - 15:50</td>
-            <td style="color: #3273DC" class="align-middle">Jane Greaves</td>
+            <td style="color: #3273DC" class="align-middle">Jane Greaves  <br> <i>"The Venus Atmosphere and Lessons for the Earth"</i> </td>
             <!-- <td rowspan="2" style="color: #3273DC" class="align-middle">Jane Greaves</td> -->
             <!-- <td></td> -->
           </tr>
@@ -211,7 +207,7 @@ draft: false
           </tr> -->
           <tr>
             <td>15:50 - 16:10</td>
-            <td>Teduh Perhati</td>
+            <td>Teduh Perhati <br> <i>"Atmospheric Extinction Coefficients and Night Sky Brightness at Bosscha Observatory"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -236,9 +232,9 @@ draft: false
           </tr>
           <tr>
             <td>18:45 - 19:30</td>
-            <td class="text-center" style="color: #3273DC">Opening Keynote Lecture: Timothy Palmer</td>
+            <td class="text-center" style="color: #3273DC">Opening Keynote Lecture: Timothy Palmer <br> <i>"Geometry of Chaos - The Primacy of Doubt"</i></td>
             <!-- <td colspan="2" class="text-center" style="color: #3273DC">Opening Keynote Lecture: Timothy Palmer</td> -->
-            <!-- <td>Poster</td> -->
+            <!-- <td></td> -->
           </tr>
           <tr>
             <td>19:30 - 20:30</td>
@@ -283,17 +279,17 @@ draft: false
           </tr>
           <tr>
             <td >09:00 - 09:40</td>
-            <td style="color: #3273DC" class="align-middle">Laura Trouille</td>
+            <td style="color: #3273DC" class="align-middle">Laura Trouille <br> <i>"Citizen science: engaging the public in research"</i> </td>
             <!-- <td style="color: #3273DC"></td> -->
           </tr>
           <tr>
             <td>09:40 - 10:00</td>
-            <td>Anna M. Raupach</td>
+            <td>Anna M. Raupach <br><i>"Art and astronomy: image-making and orbital space"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>10:00 - 10:20</td>
-            <td>Ade Djunainah</td>
+            <td>Ade Djunainah <br><i>"Developing Together: Community development surrounding a new observatory in Timor"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -309,27 +305,27 @@ draft: false
           </tr>
           <tr>
             <td>10:30 - 10:50</td>
-            <td>Muhammad D. Firdaus</td>
+            <td>Muhammad D. Firdaus <br><i>"Developing Citizen Science Concept on Hilal Observation in Indonesia"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>10:50 - 11:10</td>
-            <td>Ajeng T. Handini</td>
+            <td>Ajeng T. Handini <br><i>"Citizen Science on April 20th 2023 Total Solar Eclipse Observation"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>11:10 - 11:30</td>
-            <td>Dina Lestari</td>
+            <td>Dina Lestari <br><i>"Indigenous Wisdom in Space: Sustainable Food Development Beyond Earth"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>11:30 - 11:50</td>
-            <td>Endang Soegiartini</td>
+            <td>Endang Soegiartini <br><i>"Astronomy in Indonesia Culture: Astronomy-inspired Batik"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>11:50 - 12:10</td>
-            <td>Yudi Soeharyadi</td>
+            <td>Yudi Soeharyadi <br><i>"Science education in the traditional communities. The case of Kasepuhan Ciptagelar"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -345,22 +341,22 @@ draft: false
           </tr>
           <tr>
             <td>13:00 - 13:40</td>
-            <td style="color: #3273DC" class="align-middle">Areg Mickaelian</td>
+            <td style="color: #3273DC" class="align-middle">Areg Mickaelian <br><i>"Astronomy as the leader of inter- and multi- disciplinary sciences"</i>  </td>
             <!-- <td style="color: #3273DC"></td> -->
           </tr>
           <tr>
             <td>13:40 - 14:20</td>
-            <td style="color: #3273DC" class="align-middle">George Miley</td>
+            <td style="color: #3273DC" class="align-middle">George Miley <br><i>"The LOFAR Global Citizenship Radio Array 'GLORAY'"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>14:20 - 15:00</td>
-            <td style="color: #3273DC" class="align-middle">Masahiro Takada</td>
+            <td style="color: #3273DC" class="align-middle">Masahiro Takada <br><i>"Tomography in cosmology and other sciences"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>15:00 - 15:20</td>
-            <td>Gerhana P. Putri</td>
+            <td>Gerhana P. Putri <br><i>"Bridging Science Education: Empowering Teachers Through Astronomy Training"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -379,17 +375,17 @@ draft: false
           </tr>
           <tr>
             <td>15:30 - 16:10</td>
-            <td style="color: #3273DC" class="align-middle">Cecilia Scorza</td>
+            <td style="color: #3273DC" class="align-middle">Cecilia Scorza <br><i>"The Pale Blue Dot Project"</i></td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>16:10 - 16:30</td>
-            <td>Abu Y. Raisal</td>
+            <td>Abu Y. Raisal <br><i>"Development of Android-Based Interactive Learning Media on the Topic of Discussing the Atmosphere"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>16:30 - 16:50</td>
-            <td>Dwi Y. Yuna</td>
+            <td>Dwi Y. Yuna <br><i>"misiluarangkasa.id: A Platform for Delivering Astronomy to the Younger Generation in a Fun Way"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -431,12 +427,12 @@ draft: false
           </tr>
           <tr>
             <td >09:00 - 09:40</td>
-            <td style="color: #3273DC" class="align-middle">Vanessa Moss</td>
+            <td style="color: #3273DC" class="align-middle">Vanessa Moss <br><i>"Going beyond the 'old normal' for a sustainable future in science"</i> </td>
             <!-- <td style="color: #3273DC"></td> -->
           </tr>
           <tr>
             <td>09:40 - 10:00</td>
-            <td>Chatief Kunjaya</td>
+            <td>Chatief Kunjaya <br><i>"Teacher training and Blue Sky Park Festival as initial step toward astrotourism capacity building in Sabu island"</i> </td>
             <!-- <td></td> -->
           </tr>
           <!-- <tr>
@@ -449,22 +445,22 @@ draft: false
           </tr> -->
           <tr>
             <td>10:00 - 10:20</td>
-            <td>Yatny Yulianty</td>
+            <td>Yatny Yulianty <br><i>"The necessity of collaboration in Astronomy for STEAM Program"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>10:20 - 10:40</td>
-            <td>Kiki Vierdayanti</td>
+            <td>Kiki Vierdayanti <br><i>"Promoting Awareness of Light Pollution Through Collaborative University Courses "</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>10:40 - 11:00</td>
-            <td>Luthfiandari</td>
+            <td>Luthfiandari <br><i>"Capacity Building of Teachers and Education Facilitators Through the Program of 'Paket Edukasi Gerhana'"</i>  </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>11:00 - 11:20</td>
-            <td>Premana W. Premadi</td>
+            <td>Premana W. Premadi <br><i>"The necessity of collaboration in Astronomy for STEAM Program"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -485,27 +481,27 @@ draft: false
           </tr>
           <tr>
             <td>13:00 - 13:40</td>
-            <td style="color: #3273DC" class="align-middle">Sébastian Lambert</td>
+            <td style="color: #3273DC" class="align-middle">Sébastian Lambert <br><i>"How multiwavelength realizations of celestial reference frames by VLBI and Gaia can unveil emission mechanisms in AGN"</i> </td>
             <!-- <td style="color: #3273DC"></td> -->
           </tr>
           <tr>
             <td>13:40 - 14:00</td>
-            <td>Ibnu N. Huda</td>
+            <td>Ibnu N. Huda <br><i>"Study of Asia-Pacific Plate Tectonic Motion by Using VLBI Observation"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>14:00 - 14:20</td>
-            <td>Yudhiakto Pramudya/Dhimas Prayoga Jullyantama A R.</td>
+            <td>Yudhiakto Pramudya/Dhimas Prayoga Jullyantama A R. <br><i>"Observational Technique Development and Instruments Status in Observatorium Universitas Ahmad Dahlan"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>14:20 - 15:00</td>
-            <td style="color: #3273DC" class="align-middle">René Breton</td>
+            <td style="color: #3273DC" class="align-middle">René Breton <br><i>"From Pulsar Binaries to Invasive Plants"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>15:00 - 15:20</td>
-            <td>Jessica S. Muthmaina</td>
+            <td>Jessica S. Muthmaina <br><i>"Implementation of Allan Standard Deviation Technique in Stability Analysis of 4C31.61 Quasar Position"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -521,22 +517,22 @@ draft: false
           </tr>
           <tr>
             <td>15:30 - 15:50</td>
-            <td>Akniz Salma</td>
+            <td>Akniz Salma <br><i>"Analysis of Sky Brightness Variations In Full Days Based On Sky Quality Meter Measurement In Pekalongan "</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>15:50 - 16:10</td>
-            <td>Evan I. Akbar</td>
+            <td>Evan I. Akbar <br><i>"Measuring Seeing Using the Bosscha Observatory's Data Archive of Star Trail Observations"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>16:10 - 16:50</td>
-            <td style="color: #3273DC" class="align-middle">Koichiro Sugiyama</td>
+            <td style="color: #3273DC" class="align-middle">Koichiro Sugiyama <br><i>"Thai National Radio Astronomy Observatory Project and a future South-East Asian VLBI Network"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td>16:50 - 17:10</td>
-            <td>Sahlan Ramadhan</td>
+            <td>Sahlan Ramadhan <br><i>"RFI Measurements at Bosscha Observatory to Prepare a new VGOS Station"</i> </td>
             <!-- <td></td> -->
           </tr>
         </tbody>
@@ -568,7 +564,7 @@ draft: false
           </tr>
           <tr>
             <td >09:00 - 09:40</td>
-            <td style="color: #3273DC" class="align-middle">Brad Tucker</td>
+            <td style="color: #3273DC" class="align-middle">Brad Tucker <br><i>"Astronomy and Space for the Public Good - What is it and how do we do it?"</i> </td>
             <!-- <td style="color: #3273DC"></td> -->
           </tr>
           <tr>
@@ -578,7 +574,7 @@ draft: false
           </tr>
           <tr>
             <td>10:00 - 10:20</td>
-            <td>Ivan Kumara Azhar</td>
+            <td>Ivan Kumara Azhar <br><i>"Dynamics and Circular Restricted Three-Body Problem Computation of 2022 NX1 : Pre-Capture and Escape Phases"</i> </td>
             <!-- <td></td> -->
           </tr>
           <!-- <tr>
@@ -590,7 +586,7 @@ draft: false
           </tr> -->
           <tr>
             <td>10:20 - 10:40</td>
-            <td>Aprilia</td>
+            <td>Aprilia <br><i>"The Role of Ethnoastronomy in The Agricultural Activities of People in Kampung Naga, West Java, Indonesia"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -623,7 +619,7 @@ draft: false
           </tr>
           <tr>
             <td>15:30 - 16:15</td>
-            <td class="text-center" style="color: #3273DC">Closing Keynote Lecture: Jan Visser</td>
+            <td class="text-center" style="color: #3273DC">Closing Keynote Lecture: Jan Visser <br><i>"Care for the Earth, Ourselves, and Others"</i></td>
             <!-- <td colspan="2" class="text-center" style="color: #3273DC">Closing Keynote Lecture: Jan Visser</td> -->
             <!-- <td>Poster</td> -->
           </tr>
