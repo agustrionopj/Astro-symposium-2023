@@ -42,13 +42,14 @@ draft: false
 - For all presenters, please copy your presentation materials (e.g. PowerPoint presentation, Keynote presentation, digital posters, etc.) to <a href="https://drive.google.com/drive/folders/1Vx6saJUPABDP_ncWbYSOMeZLRNvdront?usp=share_link" target="_blank">this folder</a>.
 - For poster presenters, please ensure that your poster is in <b>A0 size (841 x 1190 mm)</b>. 
 - Please let us know if there are any specific needs to make your presentations run smoothly (e.g. play video with high resolution, link to certain website, etc.)
+- You could download the book of abstract <a href="https://drive.google.com/file/d/13NwOPbBviyO7t3hzhGQy2K1UYUi8NDRN/view" target="_blank">here</a>.
 <!-- <div class="container"> -->
   <ul class="nav nav-tabs justify-content-around mb-3" id="program-tab" role="tablist">
     <li class="nav-item" role="presentation">
-      <button class="nav-link active" id="day-1-tab" data-bs-toggle="tab" data-bs-target="#program-day-1" href="#program-day-1"type="button" role="tab" aria-controls="pills-home" aria-selected="true"><b>MON, 02 OCT 2023</b></button>
+      <button class="nav-link" id="day-1-tab" data-bs-toggle="tab" data-bs-target="#program-day-1" href="#program-day-1"type="button" role="tab" aria-controls="pills-home" aria-selected="true"><b>MON, 02 OCT 2023</b></button>
     </li>
     <li class="nav-item" role="presentation">
-      <button class="nav-link" id="day-2-tab" data-bs-toggle="tab" data-bs-target="#program-day-2" href="#program-day-2" type="button" role="tab" aria-controls="pills-profile" aria-selected="false"><b>TUE, 03 OCT 2023</b></button>
+      <button class="nav-link active" id="day-2-tab" data-bs-toggle="tab" data-bs-target="#program-day-2" href="#program-day-2" type="button" role="tab" aria-controls="pills-profile" aria-selected="false"><b>TUE, 03 OCT 2023</b></button>
     </li>
     <li class="nav-item" role="presentation">
       <button class="nav-link" id="day-3-tab" data-bs-toggle="tab" data-bs-target="#program-day-3" href="#program-day-3" type="button" role="tab" aria-controls="pills-contact" aria-selected="false"><b>WED, 04 OCT 2023</b></button>
@@ -64,7 +65,7 @@ draft: false
     </li> -->
   </ul>
   <div class="tab-content" id="pills-tabContent">
-    <div class="tab-pane fade show active" id="program-day-1" role="tabpanel" aria-labelledby="day-1-tab" tabindex="0">
+    <div class="tab-pane fade" id="program-day-1" role="tabpanel" aria-labelledby="day-1-tab" tabindex="0">
     <br>
     <!-- <h4 class="text-primary">Topics:</h4>
     <ul>
@@ -113,16 +114,15 @@ draft: false
           </tr>
           <tr>
             <td>10:00 - 10:40</td>
-            <td style="color: #3273DC" class="align-middle text-center">Nandita Srivastava</td>
             <!-- <td rowspan="2" style="color: #3273DC" class="align-middle text-center">Dhani Herdiwijaya</td> -->
-            <!-- <td></td> -->
+            <td></td>
           </tr>
           <!-- <tr>
             <td>10:20 - 10:40</td>
             </tr>
           <tr> -->
             <td>10:40 - 10:50</td>
-            <td class="text-center">Muhammad Yusuf</td>
+            <td class="text-center">Muhammad Yusuf <br><i>"Total Solar Eclipse 2023"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -244,7 +244,7 @@ draft: false
         </tbody>
     </table>
     </div>
-    <div class="tab-pane fade" id="program-day-2" role="tabpanel" aria-labelledby="day-2-tab" tabindex="0">
+    <div class="tab-pane fade show active" id="program-day-2" role="tabpanel" aria-labelledby="day-2-tab" tabindex="0">
     <br>
     <!-- <h4 class="text-primary">Topics:</h4>
     <ul>
@@ -315,7 +315,7 @@ draft: false
           </tr>
           <tr>
             <td>11:10 - 11:30</td>
-            <td>Dina Lestari <br><i>"Indigenous Wisdom in Space: Sustainable Food Development Beyond Earth"</i> </td>
+            <td>Dina Lestari <br><i>"Sustaining Spacefarers: Indigenous Approaches to Space Food"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -590,12 +590,12 @@ draft: false
             <!-- <td></td> -->
           </tr>
           <tr>
-            <td>10:40 - 11:00</td>
-            <td></td>
+            <td>10:40 - 11:20</td>
+            <td style="color: #3273DC" class="align-middle text-center">Nandita Srivastava</td>
             <!-- <td></td> -->
           </tr>
           <tr>
-            <td>11:00 - 13:30</td>
+            <td>11:20 - 13:30</td>
             <td class="text-center"><b>Lunch break</b></td>
             <!-- <td colspan="2" class="text-center">Lunch break</td> -->
             <!-- <td></td> -->
