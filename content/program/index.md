@@ -49,10 +49,10 @@ draft: false
       <button class="nav-link" id="day-1-tab" data-bs-toggle="tab" data-bs-target="#program-day-1" href="#program-day-1"type="button" role="tab" aria-controls="pills-home" aria-selected="true"><b>MON, 02 OCT 2023</b></button>
     </li>
     <li class="nav-item" role="presentation">
-      <button class="nav-link active" id="day-2-tab" data-bs-toggle="tab" data-bs-target="#program-day-2" href="#program-day-2" type="button" role="tab" aria-controls="pills-profile" aria-selected="false"><b>TUE, 03 OCT 2023</b></button>
+      <button class="nav-link" id="day-2-tab" data-bs-toggle="tab" data-bs-target="#program-day-2" href="#program-day-2" type="button" role="tab" aria-controls="pills-profile" aria-selected="false"><b>TUE, 03 OCT 2023</b></button>
     </li>
     <li class="nav-item" role="presentation">
-      <button class="nav-link" id="day-3-tab" data-bs-toggle="tab" data-bs-target="#program-day-3" href="#program-day-3" type="button" role="tab" aria-controls="pills-contact" aria-selected="false"><b>WED, 04 OCT 2023</b></button>
+      <button class="nav-link active" id="day-3-tab" data-bs-toggle="tab" data-bs-target="#program-day-3" href="#program-day-3" type="button" role="tab" aria-controls="pills-contact" aria-selected="false"><b>WED, 04 OCT 2023</b></button>
     </li>
     <li class="nav-item" role="presentation">
       <button class="nav-link" id="day-4-tab" data-bs-toggle="tab" data-bs-target="#program-day-4" href="#program-day-4" type="button" role="tab" aria-controls="pills-disabled" aria-selected="false"><b>THU, 05 OCT 2023</b></button>
@@ -244,7 +244,7 @@ draft: false
         </tbody>
     </table>
     </div>
-    <div class="tab-pane fade show active" id="program-day-2" role="tabpanel" aria-labelledby="day-2-tab" tabindex="0">
+    <div class="tab-pane fade" id="program-day-2" role="tabpanel" aria-labelledby="day-2-tab" tabindex="0">
     <br>
     <!-- <h4 class="text-primary">Topics:</h4>
     <ul>
@@ -390,13 +390,13 @@ draft: false
           </tr>
           <tr>
             <td>16:50 - 17:10</td>
-            <td>M. Ikbal Arifyanto</td>
+            <td>M. Ikbal Arifyanto <br><i>"Workshop on Young Crescent Moon: Visibility Limit and Digital Image Contrast"</i> </td>
             <!-- <td>Poster</td> -->
           </tr>
         </tbody>
       </table>
     </div>
-    <div class="tab-pane fade" id="program-day-3" role="tabpanel" aria-labelledby="day-3-tab" tabindex="0">
+    <div class="tab-pane fade show active" id="program-day-3" role="tabpanel" aria-labelledby="day-3-tab" tabindex="0">
     <br>
     <!-- <h4 class="text-primary">Topics:</h4>
     <ul>
@@ -445,7 +445,7 @@ draft: false
           </tr> -->
           <tr>
             <td>10:00 - 10:20</td>
-            <td>Yatny Yulianty <br><i>"The necessity of collaboration in Astronomy for STEAM Program"</i> </td>
+            <td>Yatny Yulianty <br><i>"Observatory As A Training Ground For Becoming Science Communicator: The Case of Bosscha Observatory"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
