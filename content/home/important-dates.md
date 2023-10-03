@@ -98,13 +98,13 @@ css_style:
         </div>
         <div class="col-sm mt-3">
                 <div class="card">
-                        <h4 class="card-header text-center text-white">
+                        <h4 class="card-header text-center text-white" style="background-color: #D3D3D3;">
                                 02 Oct 2023
                         </h4>
                                 <div class="card-body" style="font-size: 0.95rem;">
                                         <!-- <p class="card-title" style="font-size: 0.95rem;"> -->
                                         <ul>
-                                                <li>The symposium day</li>
+                                                <li class="text-muted">The symposium day</li>
                                         </ul>
                                         </p>
                                 </div>
