@@ -52,10 +52,10 @@ draft: false
       <button class="nav-link" id="day-2-tab" data-bs-toggle="tab" data-bs-target="#program-day-2" href="#program-day-2" type="button" role="tab" aria-controls="pills-profile" aria-selected="false"><b>TUE, 03 OCT 2023</b></button>
     </li>
     <li class="nav-item" role="presentation">
-      <button class="nav-link active" id="day-3-tab" data-bs-toggle="tab" data-bs-target="#program-day-3" href="#program-day-3" type="button" role="tab" aria-controls="pills-contact" aria-selected="false"><b>WED, 04 OCT 2023</b></button>
+      <button class="nav-link" id="day-3-tab" data-bs-toggle="tab" data-bs-target="#program-day-3" href="#program-day-3" type="button" role="tab" aria-controls="pills-contact" aria-selected="false"><b>WED, 04 OCT 2023</b></button>
     </li>
     <li class="nav-item" role="presentation">
-      <button class="nav-link" id="day-4-tab" data-bs-toggle="tab" data-bs-target="#program-day-4" href="#program-day-4" type="button" role="tab" aria-controls="pills-disabled" aria-selected="false"><b>THU, 05 OCT 2023</b></button>
+      <button class="nav-link active" id="day-4-tab" data-bs-toggle="tab" data-bs-target="#program-day-4" href="#program-day-4" type="button" role="tab" aria-controls="pills-disabled" aria-selected="false"><b>THU, 05 OCT 2023</b></button>
     </li>
     <li class="nav-item" role="presentation">
       <button class="nav-link" id="day-5-tab" data-bs-toggle="tab" data-bs-target="#program-day-5" href="#program-day-5" type="button" role="tab" aria-controls="pills-disabled" aria-selected="false"><b>FRI, 06 OCT 2023</b></button>
@@ -396,7 +396,7 @@ draft: false
         </tbody>
       </table>
     </div>
-    <div class="tab-pane fade show active" id="program-day-3" role="tabpanel" aria-labelledby="day-3-tab" tabindex="0">
+    <div class="tab-pane fade" id="program-day-3" role="tabpanel" aria-labelledby="day-3-tab" tabindex="0">
     <br>
     <!-- <h4 class="text-primary">Topics:</h4>
     <ul>
@@ -538,7 +538,7 @@ draft: false
         </tbody>
       </table>
     </div>
-    <div class="tab-pane fade" id="program-day-4" role="tabpanel" aria-labelledby="day-4-tab" tabindex="0">
+    <div class="tab-pane fade show active" id="program-day-4" role="tabpanel" aria-labelledby="day-4-tab" tabindex="0">
     <br>
     <!-- <h4 class="text-primary">Topic:</h4>
     <ul>
