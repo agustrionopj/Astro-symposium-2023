@@ -569,7 +569,7 @@ draft: false
           </tr>
           <tr>
             <td>09:40 - 10:00</td>
-            <td>Gustaff Iskandar</td>
+            <td>Gustaff Iskandar <br><i>"Revealing Ngaseuk Rituals: Ancestral Paddy Planting Ceremony and Tradition in Kasepuhan Ciptagelar Indigenous Community"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -591,7 +591,7 @@ draft: false
           </tr>
           <tr>
             <td>10:40 - 11:20</td>
-            <td style="color: #3273DC" class="align-middle text-center">Nandita Srivastava</td>
+            <td style="color: #3273DC" class="align-middle text-center">Nandita Srivastava <br><i>"Coronal Mass Ejections (CMEs) and their impact on Space Weather"</i> </td>
             <!-- <td></td> -->
           </tr>
           <tr>

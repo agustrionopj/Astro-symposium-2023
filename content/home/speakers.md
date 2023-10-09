@@ -103,6 +103,7 @@ css_style:
                                 <div class="custom-card-footer bg-white">
                                         <p>Udaipur Solar Observatory, Physical Research Laboratory, India</p>
                                 </div>
+                                <h6>"Coronal Mass Ejections (CMEs) and their impact on Space Weather"</h6>
                         </div>
                 </div>
         </div>
