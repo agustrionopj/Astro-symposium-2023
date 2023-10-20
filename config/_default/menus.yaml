@@ -44,10 +44,14 @@ main:
     url: travel/
     weight: 70
     identifier: travel
-  - name: Registration
-    url: registration/
+  - name: Documentation
+    url: documentation/
     weight: 80
-    identifier: registration
+    identifier: photos
+  # - name: Registration
+  #   url: registration/
+  #   weight: 80
+  #   identifier: registration
   - name: Contact
     url: "#contact"
     weight: 90

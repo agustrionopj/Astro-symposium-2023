@@ -26,7 +26,7 @@ design:
     <b>Deadline for paper submission is Monday, 30th of October 2023, 16:59 UTC</b>.
   </p>
   <p style="font-size: 0.85rem; margin-bottom:1rem;width=100%">
-  Please submit your paper using the provided Google Drive link: <a href="https://drive.google.com/drive/folders/1z1ldM8q04GfcjSUxxDxNQ1PNY-lNL0sC?usp=sharing" target="_blank">Proceedings - Paper</a>
+  Please submit your paper using <a href="https://www.morressier.com/call-for-papers/652fe29653247800122aacdd" target="_blank">the Morressier Proceedings Platform</a>
   </p>
   <!-- <p style="font-size: 0.85rem; margin-bottom:1rem;width=100%">
     For individual who present as a poster presenter, please ensure that your poster is in <b>A0 size (841 x 1190 mm).</b>
