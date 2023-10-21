@@ -65,6 +65,11 @@ design:
           <td>East Asian Observatory</td>
           <td>Taiwan</td>
         </tr>
+        <tr>
+          <td>Anna Madeleine Raupach</td>
+          <td>Australian National University</td>
+          <td>Australia</td>
+        </tr>
       </tbody>
       </table>
     </div>
